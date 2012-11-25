@@ -1,0 +1,524 @@
+SET UTF-8
+
+FLAG num
+
+NEEDAFFIX 1
+SUBSTANDARD 2
+NOSUGGEST 2
+
+#MAXNGRAMSUGS 0
+#IGNORE ̄
+
+MAP 6
+MAP a(ā)
+MAP o(ō)
+MAP e(ē)
+MAP u(ū)
+MAP i(ī)
+MAP y(ȳ)
+
+#REP 6
+#REP	a	ā
+#REP	o	ō
+#REP	e	ē
+#REP	u	ū
+#REP	i	ī
+#REP	y	ȳ
+
+iconv 6
+iconv ā ā
+iconv ē ē
+iconv ī ī
+iconv ō ō
+iconv ū ū
+
+#MAP 6
+#MAP a(ā)
+#MAP o(ō)
+#MAP e(ē)
+#MAP u(ū)
+#MAP i(ī)
+#MAP y(ȳ)
+
+
+## I pöördkonna sõnad (vocō, vocāre)
+## praesensi tüvest moodustatakse
+# praesens indicativ activ
+SFX 1001	Y	6
+SFX 1001	0	0	.	is:1sg is:praes. ind. act.
+SFX 1001	ō	ās	.	is:2sg is:praes. ind. act.
+SFX 1001	ō	at	.	is:3sg is:praes. ind. act.
+SFX 1001	ō	āmus	.	is:1pl is:praes. ind. act.
+SFX 1001	ō	ātis	.	is:2pl is:praes. ind. act.
+SFX 1001	ō	ant	.	is:3pl is:praes. ind. act.
+# perfecti tüvest moodustatakse
+SFX 1011     Y       6
+SFX 1011	0	0	.	is:1sg is:perf. ind. act.
+SFX 1011	ī	istī	.	is:2sg is:perf. ind. act.
+SFX 1011	ī	it	.	is:3sg is:perf. ind. act.
+SFX 1011	ī	imus	.	is:1pl is:perf. ind. act.
+SFX 1011	ī	istis	.	is:2pl is:perf. ind. act.
+SFX 1011	ī	ērunt	.	is:3pl is:perf. ind. act.
+## perfekti passiivi tüvest moodustatakse
+# deverbaale # deverbaalid on eraldi reeglis
+SFX 1021  Y  1
+SFX 1021  0  0/1020  . 
+## infinitiivi tüvest moodustatakse
+# imperatiiv praesens activ
+SFX 1031     Y       3
+SFX 1031	0	0	.	is:inf. praes. act.
+SFX 1031	re	0	.	is:imp. praes. act. is:2sg
+SFX 1031	re	te	.	is:imp. praes. act. is:2pl
+
+## II pöördkonna sõnad (video, vidēre)
+## praesensi tüvest moodustatakse
+# praesens indicativ activ
+SFX 1002	Y	6
+SFX 1002	0	0	.	is:1sg is:praes. ind. act.
+SFX 1002	ō	̄s	.	is:2sg is:praes. ind. act.
+SFX 1002	ō	t	.	is:3sg is:praes. ind. act.
+SFX 1002	ō	̄mus	.	is:1pl is:praes. ind. act.
+SFX 1002	ō	̄tis	.	is:2pl is:praes. ind. act.
+SFX 1002	ō	nt	.	is:3pl is:praes. ind. act.
+# perfecti tüvest moodustatakse
+# langeb kokku 1011 antuga (kõikidele verbidele on antud 1011)
+SFX 1012   Y   1
+SFX 1012   0   0/1011  .
+## perfekti passiivi tüvest moodustatakse
+# deverbaale # deverbaalid on eraldi reeglis
+SFX 1022  Y  1
+SFX 1022  0  0/1020  . 
+## infinitiivi tüvest moodustatakse
+# imperatiiv praesens activ
+SFX 1032     Y       3
+SFX 1032	0	0	.	is:inf. praes. act.
+SFX 1032	re	0	.	is:imp. praes. act. is:2sg
+SFX 1032	re	te	.	is:imp. praes. act. is:2pl
+
+## III pöördkonna sõnad
+## III pöördkonna o-lõpulised sõnad (mitt-o, mittere)
+## praesensi tüvest moodustatakse
+# praesens indicativ activ
+SFX 1003	Y	11
+SFX 1003	0	0	.	is:1sg is:praes. ind. act.
+SFX 1003	ō	is	[^i]ō	is:2sg is:praes. ind. act.
+SFX 1003	iō	is	iō	is:2sg is:praes. ind. act.
+SFX 1003	ō	it	[^i]ō	is:3sg is:praes. ind. act.
+SFX 1003	iō	it	iō	is:3sg is:praes. ind. act.
+SFX 1003	ō	imus	[^i]ō	is:1pl is:praes. ind. act.
+SFX 1003	iō	imus	iō	is:1pl is:praes. ind. act.
+SFX 1003	ō	itis	[^i]ō	is:2pl is:praes. ind. act.
+SFX 1003	iō	itis	iō	is:2pl is:praes. ind. act.
+SFX 1003	ō	unt	[^i]ō	is:3pl is:praes. ind. act.
+SFX 1003	iō	iunt	iō	is:3pl is:praes. ind. act.
+# perfecti tüvest moodustatakse
+# langeb kokku 1011 antuga
+SFX 1013   Y   1
+SFX 1013   0   0/1011  .
+## perfekti passiivi tüvest moodustatakse
+# deverbaale # deverbaalid on eraldi reeglis
+SFX 1023  Y  1
+SFX 1023  0  0/1020  . 
+## infinitiivi tüvest moodustatakse
+# imperatiiv praesens activ
+SFX 1033     Y       3
+SFX 1033	0	0	.	is:inf. praes. act.
+SFX 1033	ere	e	.	is:imp. praes. act. is:2sg
+SFX 1033	ere	ite	.	is:imp. praes. act. is:2pl
+
+## IV pöördkond (servio, servīre)
+## praesensi tüvest moodustatakse
+# praesens indicativ activ
+SFX 1004 	Y	6
+SFX 1004 	0	0	.	is:1sg is:praes. ind. act.
+SFX 1004	ō	̄s	.	is:2sg is:praes. ind. act.
+SFX 1004	ō	t	.	is:3sg is:praes. ind. act.
+SFX 1004	ō	̄mus	.	is:1pl is:praes. ind. act.
+SFX 1004	ō	̄tis	.	is:2pl is:praes. ind. act.
+SFX 1004	ō	unt	.	is:3pl is:praes. ind. act.
+# perfecti tüvest moodustatakse
+# langeb kokku 1011 antuga
+SFX 1014   Y   1
+SFX 1014   0   0/1011  .
+## perfekti passiivi tüvest moodustatakse
+# deverbaale # deverbaalid on eraldi reeglis
+SFX 1024  Y  1
+SFX 1024  0  0/1020  . 
+## infinitiivi tüvest moodustatakse
+# imperatiiv praesens activ
+SFX 1034     Y       3
+SFX 1034	0	0	.	is:inf. praes. act.
+SFX 1034	re		.	is:imp. praes. act. is:2sg
+SFX 1034	re	te	.	is:imp. praes. act. is:2pl
+
+
+### Derivatsioone ehk sõnatuletused
+## deverbaalid
+SFX 1020  Y  9
+SFX 1020  tum  tor	tum	is:masc ds:deverbaal+tegija
+SFX 1020  tum  trix	tum	is:fem ds:deverbaal+tegija
+SFX 1020  tum  tiō	tum	ds:deverbaal+tegevuse-toimumine-tulemus
+SFX 1020  tum  tus	[aoeuiy]um	ds:deverbaal+tegevuse-toimumine-tulemus
+SFX 1020  tum  sus	^[aoeuiy]um	ds:deverbaal+tegevuse-toimumine-tulemus
+SFX 1020  um  ūra	um	ds:deverbaal+tegevuse-viis-tulemus
+SFX 1020  ctum  culum	ctum	ds:deverbaal+vahend
+SFX 1020  ̄tum  mentum	̄tum	ds:deverbaal+vahend
+SFX 1020  tum  tōrium	tum	ds:deverbaal+koht-tegevusele
+
+
+
+
+
+###### declinatios
+# declinatio I singularis
+SFX 10002	Y	7
+SFX 10002	0	0		.	is:nom is:sg
+SFX 10002	a	ae		.	is:gen is:sg
+SFX 10002	a	ae		.	is:dat is:sg
+SFX 10002	a	am		.	is:acc is:sg
+SFX 10002	a	ā		.	is:abl is:sg
+SFX 10002	0	0		.	is:voc is:sg
+SFX 10002	a	0/1,10003	.	
+
+# declinatio I pluralis
+SFX 10003	Y	6
+SFX 10003	0	ae	.	is:nom is:pl
+SFX 10003	0	ārum	.	is:gen is:pl
+SFX 10003	0	īs	.	is:dat is:pl
+SFX 10003	0	ās	.	is:acc is:pl
+SFX 10003	0	īs	.	is:abl is:pl
+SFX 10003	0	ae	.	is:voc is:pl
+
+# declinatio II tüüpsõna servus
+SFX 10004    Y       8
+SFX 10004    0       0		.       is:nom is:sg
+SFX 10004    us      ī       	.       is:gen is:sg
+SFX 10004    us      ō       	.       is:dat is:sg
+SFX 10004    us      um      	.       is:acc is:sg
+SFX 10004    us      ō       	.       is:abl is:sg
+SFX 10004    us      0		ius	is:voc is:sg
+SFX 10004    us	     e		[^i]us	is:voc is:sg
+SFX 10004    us      0/1,10005	.       
+
+# declinatio II tüüpsõna liber
+SFX 10006    Y       7
+SFX 10006    0	0		.       is:nom is:sg
+SFX 10006    er	rī		.       is:gen is:sg
+SFX 10006    er	rō		.       is:dat is:sg
+SFX 10006    er	rum		.       is:acc is:sg
+SFX 10006    er	rō		.       is:abl is:sg
+SFX 10006    er	er		.	is:voc is:sg
+SFX 10006    er      r/1,10005 	.       
+
+# declinatio II tüüpsõna puer
+SFX 10007    Y       7
+SFX 10007	0	0		.	is:nom is:sg
+SFX 10007	0	ī		.	is:gen is:sg
+SFX 10007	0	ō		.	is:dat is:sg
+SFX 10007	0	um		.	is:acc is:sg
+SFX 10007	0	ō		.	is:abl is:sg
+SFX 10007	0	0		.	is:voc is:sg
+SFX 10007	0	0/1,10005	.	
+
+# declinatio II pluralis masculinus
+SFX 10005    Y	 6
+SFX 10005	0	 ī	.	is:nom is:pl
+SFX 10005	0	 ōrum	.	is:gen is:pl
+SFX 10005	0	 īs	.	is:dat is:pl
+SFX 10005	0	 ōs	.	is:acc is:pl
+SFX 10005	0	 īs	.	is:abl is:pl
+SFX 10005	0	 ī	.	is:voc is:pl
+
+# declinatio II tüüpsõna verbum
+SFX 10008    Y       7
+SFX 10008	0	0		.	is:nom is:sg
+SFX 10008	um	ī		.	is:gen is:sg
+SFX 10008	um	ō		.	is:dat is:sg
+SFX 10008	um	um		.	is:acc is:sg
+SFX 10008	um	ō		.	is:abl is:sg
+SFX 10008	um	um		.	is:voc is:sg
+SFX 10008	um	0/1,10009	.	
+
+# declinatio II pluralis neutr
+SFX 10009    Y	 6
+SFX 10009	0	 a	.	is:nom is:pl
+SFX 10009	0	 ōrum	.	is:gen is:pl
+SFX 10009	0	 īs	.	is:dat is:pl
+SFX 10009	0	 a	.	is:acc is:pl
+SFX 10009	0	 īs	.	is:abl is:pl
+SFX 10009	0	 a	.	is:voc is:pl
+
+
+
+
+
+
+### adiectiva declinatio I, II
+# adiectiva tüüpsõna bonus
+# esimesed kolm on singularis, järgmised kolm on pluralis
+SFX 11001	Y	6
+SFX 11001	us	a/1,10002	.	is:fem
+SFX 11001	us	us/1,10004	.	is:masc
+SFX 11001	us	um/1,10008	.	is:neutr
+SFX 11001	us	0/1,10003	.	is:fem
+SFX 11001	us	0/1,10005	.	is:masc
+SFX 11001	us	0/1,10009	.	is:neutr
+
+# adiectiva tüüpsõna pulcher
+# esimesed kolm on singularis, järgmised kolm on pluralis
+SFX 11002	Y	6
+SFX 11002	er	ra/1,10002	.	is:fem
+SFX 11002	er	er/1,10006	.	is:masc
+SFX 11002	er	rum/1,10008	.	is:neutr
+SFX 11002	er	r/1,10003	.	is:fem
+SFX 11002	er	r/1,10005	.	is:masc
+SFX 11002	er	r/1,10009	.	is:neutr
+
+# adiectiva tüüpsõna līber
+# esimesed kolm on singularis, järgmised kolm on pluralis
+SFX 11003	Y	6
+SFX 11003	0	a/1,10002	.	is:fem
+SFX 11003	0	0/1,10007	.	is:masc
+SFX 11003	0	um/1,10008	.	is:neutr
+SFX 11003	0	0/1,10003	.	is:fem
+SFX 11003	0	0/1,10005	.	is:masc
+SFX 11003	0	0/1,10009	.	is:neutr
+
+### adiectiva declinatio III
+# kolmelõpulised adjektiivid tüüpsõna ācer, ācris, ācre
+# sõnastikus on antud terve meessoo tüvi
+SFX 11004    Y       36
+SFX 11004	0    	0		.	is:masc is:nom is:sing
+SFX 11004	er    	ris		.	is:masc is:gen is:sing
+SFX 11004	er    	rī		.	is:masc is:dat is:sing
+SFX 11004	er    	rem		.	is:masc is:acc is:sing
+SFX 11004	er    	rī		.	is:masc is:abl is:sing
+SFX 11004	0    	0		.	is:masc is:voc is:sing
+SFX 11004	er    	rēs		.	is:masc is:nom is:plur
+SFX 11004	er    	rium		.	is:masc is:gen is:plur
+SFX 11004	er    	ribus		.	is:masc is:dat is:plur
+SFX 11004	er    	rēs		.	is:masc is:acc is:plur
+SFX 11004	er    	ribus		.	is:masc is:abl is:plur
+SFX 11004	er    	rēs		.	is:masc is:voc is:plur
+SFX 11004	er    	ris		.	is:fem is:nom is:sing
+SFX 11004	er    	ris		.	is:fem is:gen is:sing
+SFX 11004	er    	rī		.	is:fem is:dat is:sing
+SFX 11004	er    	rem		.	is:fem is:acc is:sing
+SFX 11004	er    	rī		.	is:fem is:abl is:sing
+SFX 11004	er    	ris		.	is:fem is:voc is:sing
+SFX 11004	er    	rēs		.	is:fem is:nom is:plur
+SFX 11004	er    	rium		.	is:fem is:gen is:plur
+SFX 11004	er    	ribus		.	is:fem is:dat is:plur
+SFX 11004	er    	rēs		.	is:fem is:acc is:plur
+SFX 11004	er    	ribus		.	is:fem is:abl is:plur
+SFX 11004	er    	rēs		.	is:fem is:voc is:plur
+SFX 11004	er    	re		.	is:neutr is:nom is:sing
+SFX 11004	er    	ris		.	is:neutr is:gen is:sing
+SFX 11004	er    	rī		.	is:neutr is:dat is:sing
+SFX 11004	er    	re		.	is:neutr is:acc is:sing
+SFX 11004	er    	rī		.	is:neutr is:abl is:sing
+SFX 11004	er    	re		.	is:neutr is:voc is:sing
+SFX 11004	er    	ria		.	is:neutr is:nom is:plur
+SFX 11004	er    	rium		.	is:neutr is:gen is:plur
+SFX 11004	er    	ribus		.	is:neutr is:dat is:plur
+SFX 11004	er    	ria		.	is:neutr is:acc is:plur
+SFX 11004	er    	ribus		.	is:neutr is:abl is:plur
+SFX 11004	er    	ria		.	is:neutr is:voc is:plur
+
+# kolmelõpulised adjektiivid tüüpsõna #celer? ācer, ācris, ācre
+# sõnastikus on antud terve meessoo tüvi
+SFX 11005    Y       36
+SFX 11005	0    	0		.	is:masc is:nom is:sing
+SFX 11005	0    	is		.	is:masc is:gen is:sing
+SFX 11005	0    	ī		.	is:masc is:dat is:sing
+SFX 11005	0    	em		.	is:masc is:acc is:sing
+SFX 11005	0    	ī		.	is:masc is:abl is:sing
+SFX 11005	0    	0		.	is:masc is:voc is:sing
+SFX 11005	0    	ēs		.	is:masc is:nom is:plur
+SFX 11005	0    	ium		.	is:masc is:gen is:plur
+SFX 11005	0    	ibus		.	is:masc is:dat is:plur
+SFX 11005	0    	ēs		.	is:masc is:acc is:plur
+SFX 11005	0    	ibus		.	is:masc is:abl is:plur
+SFX 11005	0    	ēs		.	is:masc is:voc is:plur
+SFX 11005	0    	is		.	is:fem is:nom is:sing
+SFX 11005	0    	is		.	is:fem is:gen is:sing
+SFX 11005	0    	ī		.	is:fem is:dat is:sing
+SFX 11005	0    	em		.	is:fem is:acc is:sing
+SFX 11005	0    	ī		.	is:fem is:abl is:sing
+SFX 11005	0    	is		.	is:fem is:voc is:sing
+SFX 11005	0    	ēs		.	is:fem is:nom is:plur
+SFX 11005	0    	ium		.	is:fem is:gen is:plur
+SFX 11005	0    	ibus		.	is:fem is:dat is:plur
+SFX 11005	0    	ēs		.	is:fem is:acc is:plur
+SFX 11005	0    	ibus		.	is:fem is:abl is:plur
+SFX 11005	0    	ēs		.	is:fem is:voc is:plur
+SFX 11005	0    	e		.	is:neutr is:nom is:sing
+SFX 11005	0    	is		.	is:neutr is:gen is:sing
+SFX 11005	0    	ī		.	is:neutr is:dat is:sing
+SFX 11005	0    	e		.	is:neutr is:acc is:sing
+SFX 11005	0    	ī		.	is:neutr is:abl is:sing
+SFX 11005	0    	e		.	is:neutr is:voc is:sing
+SFX 11005	0    	ia		.	is:neutr is:nom is:plur
+SFX 11005	0    	ium		.	is:neutr is:gen is:plur
+SFX 11005	0    	ibus		.	is:neutr is:dat is:plur
+SFX 11005	0    	ia		.	is:neutr is:acc is:plur
+SFX 11005	0    	ibus		.	is:neutr is:abl is:plur
+SFX 11005	0    	ia		.	is:neutr is:voc is:plur
+
+# kahelõpulised adjektiivid, tüüpsõna gravis, grave
+# sõnastikus on antud terve mees/naissoo nominatiivi tüvi
+SFX 11006    Y       36
+SFX 11006	0    	0		.	is:masc is:nom is:sing
+SFX 11006	0    	0		.	is:fem is:nom is:sing
+SFX 11006	0    	0		.	is:masc is:gen is:sing
+SFX 11006	0    	0		.	is:fem is:gen is:sing
+SFX 11006	is    	ī		.	is:masc is:dat is:sing
+SFX 11006	is    	ī		.	is:fem is:dat is:sing
+SFX 11006	is    	em		.	is:masc is:acc is:sing
+SFX 11006	is    	em		.	is:fem is:acc is:sing
+SFX 11006	is    	ī		.	is:masc is:abl is:sing
+SFX 11006	is    	ī		.	is:fem is:abl is:sing
+SFX 11006	0    	0		.	is:masc is:voc is:sing
+SFX 11006	0    	0		.	is:fem is:voc is:sing
+SFX 11006	is    	ēs		.	is:masc is:nom is:plur
+SFX 11006	is    	ēs		.	is:fem is:nom is:plur
+SFX 11006	is    	ium		.	is:masc is:gen is:plur
+SFX 11006	is    	ium		.	is:fem is:gen is:plur
+SFX 11006	is    	ibus		.	is:masc is:dat is:plur
+SFX 11006	is    	ibus		.	is:fem is:dat is:plur
+SFX 11006	is    	ēs		.	is:masc is:acc is:plur
+SFX 11006	is    	ēs		.	is:fem is:acc is:plur
+SFX 11006	is    	ibus		.	is:masc is:abl is:plur
+SFX 11006	is    	ibus		.	is:fem is:abl is:plur
+SFX 11006	is    	ēs		.	is:masc is:voc is:plur
+SFX 11006	is    	ēs		.	is:fem is:voc is:plur
+SFX 11006	is    	e		.	is:neutr is:nom is:sing
+SFX 11006	0    	0		.	is:neutr is:gen is:sing
+SFX 11006	is    	ī		.	is:neutr is:dat is:sing
+SFX 11006	is    	e		.	is:neutr is:acc is:sing
+SFX 11006	is    	ī		.	is:neutr is:abl is:sing
+SFX 11006	is    	e		.	is:neutr is:voc is:sing
+SFX 11006	is    	ia		.	is:neutr is:nom is:plur
+SFX 11006	is    	ium		.	is:neutr is:gen is:plur
+SFX 11006	is    	ibus		.	is:neutr is:dat is:plur
+SFX 11006	is    	ia		.	is:neutr is:acc is:plur
+SFX 11006	is    	ibus		.	is:neutr is:abl is:plur
+SFX 11006	is    	ia		.	is:neutr is:voc is:plur
+
+
+###### declinatio III
+# 3. käändkond on -is lõppuga genitiivis, nominatiiv võib erineda, seega
+# antakse nii nom, kui ka sellega kokkulangevad kategooriad sõnastikus (tihti
+# nom, voc aga võib ka acc)
+
+# konsonanttüvelised sõnad
+# homo (masc) ja civitas (fem) tüüpsõna
+# nom ja voc singular antakse eraldi sõnastikus
+SFX 11301	N	10
+SFX 11301	0	is	.	is:gen is:sg
+SFX 11301	0	ī	.	is:dat is:sg
+SFX 11301	0	em	.	is:acc is:sg
+SFX 11301	0	e	.	is:abl is:sg
+SFX 11301	0	ēs	.	is:nom is:pl
+SFX 11301	0	um	.	is:gen is:pl
+SFX 11301	0	ibus	.	is:dat is:pl
+SFX 11301	0	ēs	.	is:acc is:pl
+SFX 11301	0	ibus	.	is:abl is:pl
+SFX 11301	0	ēs	.	is:voc is:pl
+# nom ja voc vormid singularis langevad kokku
+SFX 11311   Y  2
+SFX 11311   0  0  .   is:nom is:sg
+SFX 11311   0  0  .   is:voc is:sg
+
+# konsonanttüveline tempus (neutr) tüüpsõna
+# nom ja voc singular antakse eraldi sõnastikus
+SFX 11302	N	9
+SFX 11302	0	is	.	is:gen is:sg
+SFX 11302	0	ī	.	is:dat is:sg
+SFX 11302	0	e	.	is:abl is:sg
+SFX 11302	0	a	.	is:nom is:pl
+SFX 11302	0	um	.	is:gen is:pl
+SFX 11302	0	ibus	.	is:dat is:pl
+SFX 11302	0	a	.	is:acc is:pl
+SFX 11302	0	ibus	.	is:abl is:pl
+SFX 11302	0	a	.	is:voc is:pl
+# nom ja voc vormid singularis langevad kokku
+SFX 11312   Y  2
+SFX 11312   0  0  .   is:nom is:sg
+SFX 11312   0  0  .   is:voc is:sg
+
+# segatüüpi hostis (masc) ja urbs (fem) tüüpsõnad
+# nom ja voc sg antakse eraldi sõnastikus (need langevad kokku)
+SFX 11303	N  10
+SFX 11303	0	is	.	is:gen is:sg
+SFX 11303	0	ī	.	is:dat is:sg
+SFX 11303	0	em	.	is:acc is:sg
+SFX 11303	0	e	.	is:abl is:sg
+SFX 11303	0	ēs	.	is:nom is:pl
+SFX 11303	0	ium	.	is:gen is:pl
+SFX 11303	0	ibus	.	is:dat is:pl
+SFX 11303	0	ēs	.	is:acc is:pl
+SFX 11303	0	ibus	.	is:abl is:pl
+SFX 11303	0	ēs	.	is:voc is:pl
+# nom ja voc vormid singularis langevad kokku
+SFX 11313   Y  2
+SFX 11313   0  0  .   is:nom is:sg
+SFX 11313   0  0  .   is:voc is:sg
+
+# segatüüpi (neutr) tüüpsõna
+# nom, acc ja voc singularis antakse sõnastikus eraldi
+SFX 11304   N 9
+SFX 11304	0	is	.	is:gen is:sg
+SFX 11304	0	ī	.	is:dat is:sg
+SFX 11304	0	e	.	is:abl is:sg
+SFX 11304	0	a	.	is:nom is:pl
+SFX 11304	0	ium	.	is:gen is:pl
+SFX 11304	0	ibus	.	is:dat is:pl
+SFX 11304	0	a	.	is:acc is:pl
+SFX 11304	0	ibus	.	is:abl is:pl
+SFX 11304	0	a	.	is:voc is:pl
+# nom, acc ja voc vormid singularis langevad kokku
+SFX 11314   Y  3
+SFX 11314   0  0  .   is:nom is:sg
+SFX 11314   0  0  .   is:acc is:sg
+SFX 11314   0  0  .   is:voc is:sg
+
+
+# i-tüvelised substantiivid
+# tüüpsõna turris (fem)
+# nom ja voc sg on sõnastikus antud
+SFX 11305   N   10
+SFX 11305	0	is	.	is:gen is:sg
+SFX 11305	0	ī	.	is:dat is:sg
+SFX 11305	0	im	.	is:acc is:sg
+SFX 11305	0	ī	.	is:abl is:sg
+SFX 11305	0	ēs	.	is:nom is:pl
+SFX 11305	0	ium	.	is:gen is:pl
+SFX 11305	0	ibus	.	is:dat is:pl
+SFX 11305	0	ēs	.	is:acc is:pl
+SFX 11305	0	ibus	.	is:abl is:pl
+SFX 11305	0	ēs	.	is:voc is:pl
+# nom ja voc vormid singularis langevad kokku
+SFX 11315  Y  2
+SFX 11315  0  0  .   is:nom is:sg
+SFX 11315  0  0  .   is:voc is:sg
+
+# tüüpsõna mare (neutr) ning al- ja ar-lõpulised kesksoost i-tüvelised
+# terve nom sg sõna on sõnastikus antud tüveks
+SFX 11306  N   	        5
+SFX 11306  0		0		.	is:nom is:sg
+SFX 11306  0		0 		.	is:acc is:sg
+SFX 11306  0		0		.	is:voc is:sg
+SFX 11306  e		0/1,11307	e
+SFX 11306  0		0/1,11307	[^e]
+# ülejäänud käänded langevad kokku (tüvelõpuline e kaob)
+SFX 11307	N	9
+SFX 11307	0	is	.	is:gen is:sg
+SFX 11307	0	i	.	is:dat is:sg
+SFX 11307	0	i	.	is:abl is:sg
+SFX 11307	0	ia	.	is:nom is:pl
+SFX 11307	0	ium	.	is:gen is:pl
+SFX 11307	0	ibus	.	is:dat is:pl
+SFX 11307	0	ia	.	is:acc is:pl
+SFX 11307	0	ibus	.	is:abl is:pl
+SFX 11307	0	ia	.	is:voc is:pl
