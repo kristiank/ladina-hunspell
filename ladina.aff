@@ -43,7 +43,7 @@ iconv ū ū
 
 ## I pöördkonna sõnad (vocō, vocāre)
 ## praesensi tüvest moodustatakse
-# praesens indicativ activ
+# praesens indicativi activi
 SFX 1001	Y	6
 SFX 1001	̄	0	.	is:1sg is:praes. ind. act.
 SFX 1001	ō	ās	.	is:2sg is:praes. ind. act.
@@ -59,7 +59,8 @@ SFX 10011	ō	ātur	.	is:3sg is:praes. ind. pass.
 SFX 10011	ō	āmur	.	is:1pl is:praes. ind. pass.
 SFX 10011	ō	āminī	.	is:2pl is:praes. ind. pass.
 SFX 10011	ō	antur	.	is:3pl is:praes. ind. pass.
-# perfecti tüvest moodustatakse
+## perfecti tüvest moodustatakse
+#perfect indicativi activi
 SFX 1011     Y       6
 SFX 1011	0	0	.	is:1sg is:perf. ind. act.
 SFX 1011	ī	istī	.	is:2sg is:perf. ind. act.
@@ -92,7 +93,7 @@ SFX 1002	ō	t	.	is:3sg is:praes. ind. act.
 SFX 1002	ō	̄mus	.	is:1pl is:praes. ind. act.
 SFX 1002	ō	̄tis	.	is:2pl is:praes. ind. act.
 SFX 1002	ō	nt	.	is:3pl is:praes. ind. act.
-# perfecti tüvest moodustatakse
+## perfecti tüvest moodustatakse
 # langeb kokku 1011 antuga (kõikidele verbidele on antud 1011)
 SFX 1012   Y   1
 SFX 1012   0   0/1,1011  .
@@ -127,7 +128,7 @@ SFX 1003	ō	itis	[^i]ō	is:2pl is:praes. ind. act.
 SFX 1003	iō	itis	iō	is:2pl is:praes. ind. act.
 SFX 1003	ō	unt	[^i]ō	is:3pl is:praes. ind. act.
 SFX 1003	iō	iunt	iō	is:3pl is:praes. ind. act.
-# perfecti tüvest moodustatakse
+## perfecti tüvest moodustatakse
 # langeb kokku 1011 antuga
 SFX 1013   Y   1
 SFX 1013   0   0/1,1011  .
@@ -156,7 +157,7 @@ SFX 1004	ō	t	.	is:3sg is:praes. ind. act.
 SFX 1004	ō	̄mus	.	is:1pl is:praes. ind. act.
 SFX 1004	ō	̄tis	.	is:2pl is:praes. ind. act.
 SFX 1004	ō	unt	.	is:3pl is:praes. ind. act.
-# perfecti tüvest moodustatakse
+## perfecti tüvest moodustatakse
 # langeb kokku 1011 antuga
 SFX 1014   Y   1
 SFX 1014   0   0/1,1011  .
