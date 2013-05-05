@@ -73,6 +73,14 @@ SFX 10012	ō	ābat		.	is:3sg is:imperf. ind. pass.
 SFX 10012	ō	ābāmus	.	is:1pl is:imperf. ind. pass.
 SFX 10012	ō	ābātis	.	is:2pl is:imperf. ind. pass.
 SFX 10012	ō	ābant		.	is:3pl is:imperf. ind. pass.
+# futurum I indicativi activi
+SFX 10013 Y 6
+SFX 10013 ō	ābō			.	is:1sg is:fut. I ind. act.
+SFX 10013 ō	ābis		.	is:2sg is:fut. I ind. act.
+SFX 10013 ō	ābit		.	is:3sg is:fut. I ind. act.
+SFX 10013 ō	ābimus	.	is:1pl is:fut. I ind. act.
+SFX 10013 ō	ābitis	.	is:2pl is:fut. I ind. act.
+SFX 10013 ō	ābunt		.	is:3pl is:fut. I ind. act.
 ## perfecti tüvest moodustatakse
 #perfectum indicativi activi
 SFX 1011     Y       6
@@ -127,6 +135,14 @@ SFX 10022	eō	ēbat		.	is:3sg is:imperf. ind. pass.
 SFX 10022	eō	ēbāmus	.	is:1pl is:imperf. ind. pass.
 SFX 10022	eō	ēbātis	.	is:2pl is:imperf. ind. pass.
 SFX 10022	eō	ēbant		.	is:3pl is:imperf. ind. pass.
+# futurum I indicativi activi
+SFX 10023 Y 6
+SFX 10023 eō	ēbō			.	is:1sg is:fut. I ind. act.
+SFX 10023 eō	ēbis		.	is:2sg is:fut. I ind. act.
+SFX 10023 eō	ēbit		.	is:3sg is:fut. I ind. act.
+SFX 10023 eō	ēbimus	.	is:1pl is:fut. I ind. act.
+SFX 10023 eō	ēbitis	.	is:2pl is:fut. I ind. act.
+SFX 10023 eō	ēbunt		.	is:3pl is:fut. I ind. act.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1012   Y   1
@@ -194,6 +210,20 @@ SFX 10032	ō	ēbātis	.	is:2pl is:imperf. ind. pass.
 SFX 10032	iō	iēbātis	.	is:2pl is:imperf. ind. pass.
 SFX 10032	ō	ēbant		.	is:3pl is:imperf. ind. pass.
 SFX 10032	iō	iēbant		.	is:3pl is:imperf. ind. pass.
+# futurum I indicativi activi
+SFX 10033 Y 12
+SFX 10033 ō	am		.	is:1sg is:fut. I ind. act.
+SFX 10033 iō	iam		.	is:1sg is:fut. I ind. act.
+SFX 10033 ō	ēs		.	is:2sg is:fut. I ind. act.
+SFX 10033 iō	iēs		.	is:2sg is:fut. I ind. act.
+SFX 10033 ō	et		.	is:3sg is:fut. I ind. act.
+SFX 10033 iō	iet		.	is:3sg is:fut. I ind. act.
+SFX 10033 ō	ēmus	.	is:1pl is:fut. I ind. act.
+SFX 10033 iō	iēmus	.	is:1pl is:fut. I ind. act.
+SFX 10033 ō	ētis	.	is:2pl is:fut. I ind. act.
+SFX 10033 iō	iētis	.	is:2pl is:fut. I ind. act.
+SFX 10033 ō	ent		.	is:3pl is:fut. I ind. act.
+SFX 10033 iō	ient		.	is:3pl is:fut. I ind. act.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1013   Y   1
@@ -243,6 +273,14 @@ SFX 10042	ō	ēbat		.	is:3sg is:imperf. ind. pass.
 SFX 10042	ō	ēbāmus	.	is:1pl is:imperf. ind. pass.
 SFX 10042	ō	ēbātis	.	is:2pl is:imperf. ind. pass.
 SFX 10042	ō	ēbant		.	is:3pl is:imperf. ind. pass.
+# futurum I indicativi activi
+SFX 10043 Y 6
+SFX 10043 ō	am		.	is:1sg is:fut. I ind. act.
+SFX 10043 ō	ēs		.	is:2sg is:fut. I ind. act.
+SFX 10043 ō	et		.	is:3sg is:fut. I ind. act.
+SFX 10043 ō	ēmus	.	is:1pl is:fut. I ind. act.
+SFX 10043 ō	ētis	.	is:2pl is:fut. I ind. act.
+SFX 10043 ō	ent		.	is:3pl is:fut. I ind. act.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1014   Y   1
