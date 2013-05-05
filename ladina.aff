@@ -93,6 +93,14 @@ SFX 1002	ō	t	.	is:3sg is:praes. ind. act.
 SFX 1002	ō	̄mus	.	is:1pl is:praes. ind. act.
 SFX 1002	ō	̄tis	.	is:2pl is:praes. ind. act.
 SFX 1002	ō	nt	.	is:3pl is:praes. ind. act.
+# praesens indicativi passivi
+SFX 10021	Y	6
+SFX 10021	ō	or	.	is:1sg is:praes. ind. pass.
+SFX 10021	ō	̄ris	.	is:2sg is:praes. ind. pass.
+SFX 10021	ō	̄tur	.	is:3sg is:praes. ind. pass.
+SFX 10021	ō	̄mur	.	is:1pl is:praes. ind. pass.
+SFX 10021	ō	̄minī	.	is:2pl is:praes. ind. pass.
+SFX 10021	ō	ntur	.	is:3pl is:praes. ind. pass.
 ## perfecti tüvest moodustatakse
 # langeb kokku 1011 antuga (kõikidele verbidele on antud 1011)
 SFX 1012   Y   1
