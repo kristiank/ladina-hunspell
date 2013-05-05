@@ -59,6 +59,14 @@ SFX 10011	ō	ātur	.	is:3sg is:praes. ind. pass.
 SFX 10011	ō	āmur	.	is:1pl is:praes. ind. pass.
 SFX 10011	ō	āminī	.	is:2pl is:praes. ind. pass.
 SFX 10011	ō	antur	.	is:3pl is:praes. ind. pass.
+# imperfectum indicativi activi
+SFX 10012 Y 6
+SFX 10012	ō	ābam		.	is:1sg is:imperf. ind. pass.
+SFX 10012	ō	ābās		.	is:2sg is:imperf. ind. pass.
+SFX 10012	ō	ābat		.	is:3sg is:imperf. ind. pass.
+SFX 10012	ō	ābāmus	.	is:1pl is:imperf. ind. pass.
+SFX 10012	ō	ābātis	.	is:2pl is:imperf. ind. pass.
+SFX 10012	ō	ābant		.	is:3pl is:imperf. ind. pass.
 ## perfecti tüvest moodustatakse
 #perfectum indicativi activi
 SFX 1011     Y       6
@@ -105,6 +113,14 @@ SFX 10021	ō	̄tur	.	is:3sg is:praes. ind. pass.
 SFX 10021	ō	̄mur	.	is:1pl is:praes. ind. pass.
 SFX 10021	ō	̄minī	.	is:2pl is:praes. ind. pass.
 SFX 10021	ō	ntur	.	is:3pl is:praes. ind. pass.
+# imperfectum indicativi activi
+SFX 10022 Y 6
+SFX 10022	eō	ēbam		.	is:1sg is:imperf. ind. pass.
+SFX 10022	eō	ēbās		.	is:2sg is:imperf. ind. pass.
+SFX 10022	eō	ēbat		.	is:3sg is:imperf. ind. pass.
+SFX 10022	eō	ēbāmus	.	is:1pl is:imperf. ind. pass.
+SFX 10022	eō	ēbātis	.	is:2pl is:imperf. ind. pass.
+SFX 10022	eō	ēbant		.	is:3pl is:imperf. ind. pass.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1012   Y   1
@@ -158,6 +174,20 @@ SFX 10031	ō	iminī	.	is:2pl is:praes. ind. pass.
 SFX 10031	iō	iminī	.	is:2pl is:praes. ind. pass.
 SFX 10031	ō	untur	.	is:3pl is:praes. ind. pass.
 SFX 10031	iō	iuntur	.	is:3pl is:praes. ind. pass.
+# imperfectum indicativi activi
+SFX 10032 Y 12
+SFX 10032	ō	ēbam		.	is:1sg is:imperf. ind. pass.
+SFX 10032	iō	iēbam		.	is:1sg is:imperf. ind. pass.
+SFX 10032	ō	ēbās		.	is:2sg is:imperf. ind. pass.
+SFX 10032	iō	iēbās		.	is:2sg is:imperf. ind. pass.
+SFX 10032	ō	ēbat		.	is:3sg is:imperf. ind. pass.
+SFX 10032	iō	iēbat		.	is:3sg is:imperf. ind. pass.
+SFX 10032	ō	ēbāmus	.	is:1pl is:imperf. ind. pass.
+SFX 10032	iō	iēbāmus	.	is:1pl is:imperf. ind. pass.
+SFX 10032	ō	ēbātis	.	is:2pl is:imperf. ind. pass.
+SFX 10032	iō	iēbātis	.	is:2pl is:imperf. ind. pass.
+SFX 10032	ō	ēbant		.	is:3pl is:imperf. ind. pass.
+SFX 10032	iō	iēbant		.	is:3pl is:imperf. ind. pass.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1013   Y   1
@@ -199,6 +229,14 @@ SFX 10041	ō	̄tur	.	is:3sg is:praes. ind. pass.
 SFX 10041	ō	̄mur	.	is:1pl is:praes. ind. pass.
 SFX 10041	ō	̄minī	.	is:2pl is:praes. ind. pass.
 SFX 10041	ō	untur	.	is:3pl is:praes. ind. pass.
+# imperfectum indicativi activi
+SFX 10042 Y 6
+SFX 10042	ō	ēbam		.	is:1sg is:imperf. ind. pass.
+SFX 10042	ō	ēbās		.	is:2sg is:imperf. ind. pass.
+SFX 10042	ō	ēbat		.	is:3sg is:imperf. ind. pass.
+SFX 10042	ō	ēbāmus	.	is:1pl is:imperf. ind. pass.
+SFX 10042	ō	ēbātis	.	is:2pl is:imperf. ind. pass.
+SFX 10042	ō	ēbant		.	is:3pl is:imperf. ind. pass.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1014   Y   1
