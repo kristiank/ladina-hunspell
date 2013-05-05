@@ -163,13 +163,17 @@ SFX 10031	iō	iuntur	.	is:3pl is:praes. ind. pass.
 SFX 1013   Y   1
 SFX 1013   0   0/1,1011  .
 ## perfekti passiivi tüvest moodustatakse
-#   deverbaale # deverbaalid on eraldi reeglis
+# @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
+#   deverbaale # deverbaalid on eraldi reeglis 1020
 #   participium perfecti passivi
-SFX 1023  Y  4
-SFX 1023  0  0/1,1020  . 
-SFX 1023  um  us  .  is:part. perf. pass. is:masc
-SFX 1023  um  a   .  is:part. perf. pass. is:fem
-SFX 1023  0   0   .  is:part. perf. pass. is:neutr
+SFX 1023  Y   7
+SFX 1023  0   0/1,1020    . 
+SFX 1023  um  us/1,10004  .  is:part. perf. pass. is:masc
+SFX 1023  um  0/1,10005   .  is:part. perf. pass. is:masc
+SFX 1023  um  a/1,10002   .  is:part. perf. pass. is:fem
+SFX 1023  um  0/1,10003   .  is:part. perf. pass. is:fem
+SFX 1023  um  um/1,10008  .  is:part. perf. pass. is:neutr
+SFX 1023  um  0/1,10009   .  is:part. perf. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
 # imperatiiv praesens activ
 SFX 1033     Y       3
