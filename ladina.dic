@@ -72,7 +72,8 @@ aedificium/1,10008 po:subst is:neutr
 Aegyptus/1,10004 po:subst is:fem
 aēneus/1,11001 po:adj
 aequus/1,11001 po:adj
-aetās
+aetās/1,11311 po:subst is:fem al:aetātis st:aetās
+aetātis/1,11301 po:subst is:fem al:aetās st:aetās
 aevum/1,10008 po:subst is:neutr
 ager/1,10006 po:subst is:masc
 agere/1,1033 po:verb st:agere
@@ -99,7 +100,8 @@ amīcus/1,11001 po:adj
 amō/1,1001 po:verb st:amāre
 amātum/1,1021 po:verb st:amāre
 amoenus/1,11001 po:adj
-amor
+amor/1,11313 po:subst is:masc al:amōris st:amor
+amōris/1,11303 po:subst is:masc al:amor st:amor
 anima/1,10002 po:subst is:fem
 animal/1,11306 po:subst is:neutr
 animus/1,10004 po:subst is:masc
@@ -110,23 +112,28 @@ appellāvī/1,1011 is:verb st:appellāre
 appellō/1,1001 is:verb st:appellāre
 āra/1,10002 po:subst is:fem
 arbor
-ars
+ars/1,11313 po:subst is:fem al:artis st:ars
+artis/1,11303 po:subst is:fem al:ars st:ars
 asinus/1,10004 po:subst is:masc
 atrox
 audiō/1,1004 po:verb st:audīre
 audītum/1,1024 po:verb st:audīre
 audīvī/1,1014 po:verb st:audīre
 audīre/1,1034 po:verb st:audīre
-auris
-avis
+auris/1,11303 po:subst is:fem st:auris al:auris
+auris/1,11313 po:subst is:fem st:auris al:auris
+avis/1,11313,11303 po:subst is:fem st:auris
 beātus/1,11001 po:adj
 bellum/1,10008 po:subst is:neutr
 bonus/1,11001 po:adj
 brevis
-cadere
+cadō/1,1003 po:verb st:cadere
+cecidī/1,1013 po:verb st:cadere
+cāsum/1,1023 po:verb st:cadere
+cadere/1,1033 po:verb st:cadere
 caelum/1,10008 po:subst is:neutr
 campus/1,10004 po:subst is:masc
-canis
+canis/1,11303,11313 po:subst is:masc is:fem
 cantāre/1,1031 po:verb st:cantāre
 cantātum/1,1021 po:verb st:cantāre
 cantāvī/1,1011 po:verb st:cantāre
@@ -134,14 +141,17 @@ cantō/1,1001 po:verb st:cantāre
 capere/1,1033 po:verb st:capere
 capiō/1,1003 po:verb st:capere
 captum/1,1023 po:verb st:capere
-caput
-carmen
+caput/1,11312 po:subst is:neutr al:capitis st:caput
+capitis/1,11302 po:subst is:neutr al:caput st:caput
+carmen/1,11311 po:subst is:neutr al:carminis st:carmen
+carminis/1,11301 po:subst is:neutr al:carmen st:carmen
 celer/1,11005 po:adj
 cēpī/1,1011 po:verb st:capere
 certus/1,11001 po:adj
-civis
-cīvitās/1,11311 po:subst is:fem al:cīvitās
-cīvitāt/1,11301 po:subst is:fem al:cīvitās st:cīvitās
+civis/1,11303 po:subst is:masc is:fem al:civis st:civis
+civis/1,11313 po:subst is:masc is:fem al:civis st:civis
+cīvitās/1,11311 po:subst is:fem al:cīvitātis st:cīvitās
+cīvitātis/1,11301 po:subst is:fem al:cīvitās st:cīvitās
 clārus/1,11001 po:adj
 cōgitāre/1,1031 po:verb st:cōgitāre
 cōgitātum/1,1021 po:verb st:cōgitāre
@@ -155,10 +165,13 @@ colere/1,1033 po:verb st:colere
 cultum/1,1023 po:verb st:colere
 colō/1,1003 po:verb st:colere
 coluī/1,1013 po:verb st:colere
-comes
-cor
+comes/1,11311 po:subst is:masc is:fem al:comitis st:comes
+comitis/1,11301 po:subst is:masc is:fem al:comes st:comes
+cor/1,11312 po:subst is:neutr al:coris st:cor
+coris/1,11302 po:subst is:neutr al:cor st:cor
 corōna/1,10002 po:subst is:fem
-corpus
+corpus/1,11312 po:subst is:neutr al:corporis st:corpus
+corporis/1,11302 po:subst is:neutr al:corpus st:corpus
 Corsica/1,10002 po:subst is:fem
 crēdere/1,1033 po:verb st:crēdere
 crēditum/1,1023 po:verb st:crēdere
@@ -168,7 +181,8 @@ crēscere/1,1033 po:verb st:crēscere
 crētum/1,1023 po:verb st:crēscere
 crēscō/1,1003 po:verb st:crēscere
 crēvī/1,1013 po:verb st:crēscere
-crīmen
+crīmen/1,11312 po:subst is:neutr al:crīminis st:crīmen
+crīminis/1,11302 po:subst is:neutr al:crīmen st:crīmen
 cucurrī/1,1013 po:verb st:currere
 currere/1,1033 po:verb st:currere
 cursum/1,1023 po:verb st:currere
@@ -179,14 +193,17 @@ debeō/1,1002 po:verb st:debēre
 debēre/1,1032 po:verb st:debēre
 debuī/1,1012 po:verb st:debēre
 dedī/1,1011 po:verb st:dare
-dens
+dens/1,11313 po:subst is:masc al:dentis: st:dens
+dentis/1,11303 po:subst is:masc al:dens: st:dens
 deus/1,10004 po:subst is:masc
 dea/1,10002 po:subst is:fem
 dīcere/1,1033 po:verb st:dīcere
 dictum/1,1023 po:verb st:dīcere
 dīcō/1,1003 po:verb st:dīcere
 difficilis
-discere
+discō/1,1003 po:verb st:discere
+didicī/1,1013 po:verb st:discere
+discere/1,1033 po:verb st:discere
 discipulus/1,10004 po:subst is:masc
 dīves po:adj
 dīvīnus/1,11001 al:dīvus po:adj
@@ -213,7 +230,8 @@ dūcere/1,1033 po:verb st:dūcere
 dūcō/1,1003 po:verb st:dūcere
 ductum/1,1023 po:verb st:dūcere
 dulcis
-dux
+dux/1,11311 po:subst is:masc is:fem al:ducis st:dux
+ducis/1,11301 po:subst is:masc is:fem al:dux st:dux
 dūxī/1,1013 po:verb st:dūcere
 egī/1,1013 po:verb st:agere
 ego po:pron is:nom is:1sg
@@ -235,10 +253,11 @@ facere/1,1033 po:verb st:facere
 factum/1,1023 po:verb st:facere
 facilis
 faciō/1,1003 po:verb st:facere
-famēs
+famis/1,11303 po:subst st:famēs al:famēs
+famēs/1,11313 po:subst st:famēs al:famis
 familia/1,10002 po:subst is:fem
 fātum/1,10008 po:subst is:neutr
-febris
+febris/1,11305,11315 po:subst is:fem st:febris
 fēcī/1,1013 po:verb st:facere
 fel
 fēlix po:adj
@@ -250,23 +269,29 @@ festīnāre/1,1031 po:verb st:festīnāre
 figūra/1,10002 po:subst is:fem
 fīlia/1,10002 po:subst is:fem
 fīlius/1,10004 po:subst is:masc
-fīnis
+fīnis/1,11304,11314 po:subst is:masc
 fleō/1,1002 po:verb st:flēre
 flēre/1,1032 po:verb st:flēre
 flētum/1,1022 po:verb st:flēre
 flēvī/1,1012 po:verb st:flēre
-flōs
-foedus
-fōns
+flōs/1,11311 po:subst is:masc al:flōris st:flōs
+flōris/1,11301 po:subst is:masc al:flōs st:flōs
+foedus/1,11312 po:subst is:neutr al:foederis st:foedus
+foederis/1,11302 po:subst is:neutr al:foedus st:foedus
+fōns/1,11311 po:subst is:masc al:fōntis st:fōns
+fōntis/1,11301 po:subst is:masc al:fōns st:fōns
 fortis
-frāter
+frāter/1,11311 po:subst is:masc al:frātris st:frāter
+frātris/1,11301 po:subst is:masc al:frāter st:frāter
 fugere/1,1033 po:verb st:fugere
 fūgī/1,1013 po:verb st:fugere
 fugiō/1,1003 po:verb st:fugere
-fulmen/1,11314 po:subst is:neutr al:fulmen
-fulmin/1,11304 po:subst is:neutr al:fulmen st:fulmen
-gēns
-genus
+fulmen/1,11314 po:subst is:neutr al:fulminis st:fulmen
+fulminis/1,11304 po:subst is:neutr al:fulmen st:fulmen
+gēns/1,11311 po:subst is:fem al:genis st:gēns
+genis/1,11301 po:subst is:fem al:gēns st:gēns
+genus/1,11312 po:subst is:neutr al:generis st:genus
+generis/1,11302 po:subst is:neutr al:genus st:genus
 glōria/1,10002 po:subst is:fem
 Graecia/1,10002 po:subst is:fem
 Graecus/1,11001 po:adj
@@ -279,19 +304,26 @@ habuī/1,1012 po:verb st:habēre
 haud
 herba/1,10002 po:subst is:fem
 herbōsus/1,11001 po:adj
-homin/1,11301 po:subst is:masc al:homō st:homō
-homō/1,11311 po:subst is:masc al:homō
+hominis/1,11301 po:subst is:masc al:homō st:homō
+homō/1,11311 po:subst is:masc al:hominis st:homō
 honestus/1,11001 po:adj
-honor
+honor/1,11311 po:subst is:masc al:honōris st:honor
+honōris/1,11301 po:subst is:masc al:honor st:honor
 hōra/1,10002 po:subst is:fem
 hortus/1,10004 po:subst is:masc
-hospes
-host/1,11303 po:subst is:masc al:hostis st:hostis
-hostis/1,11313 po:subst is:masc al:hostis
+hospes/1,11311 po:subst is:masc is:fem al:hospitis st:hospes
+hospitis/1,11301 po:subst is:masc is:fem al:hospes st:hospes
+hostis/1,11303 po:subst is:masc al:hostis st:hostis
+hostis/1,11313 po:subst is:masc al:hostis st:hostis
 hūmānus/1,11001 po:adj
 humilis
-ignis
-imperātor
+ignis/1,11313,11303 po:subst is:masc st:ignis
+imperātor/1,11311 po:subst is:masc al:imperātoris st:imperātor
+imperātoris/1,11301 po:subst is:masc al:imperātor st:imperātor
+imperō/1,1001 po:verb st:imperāre
+imperāvi/1,1011 po:verb st:imperāre
+imperātum/1,1021 po:verb st:imperāre
+imperāre/1,1031 po:verb st:imperāre
 imperium/1,10008 po:subst is:neutr
 impleō/1,1002 po:verb st:implēre
 implēre/1,1032 po:verb st:implēre
@@ -309,8 +341,12 @@ intellegō/1,1003 po:verb st:intellegere
 intellēctum/1,1023 po:verb st:intellegere
 intellexī/1,1013 po:verb st:intellegere
 Italia/1,10002 po:subst is:fem
-iter
-iubēre
+iter/1,11312 po:subst is:neutr al:itineris st:iter
+itineris/1,11302 po:subst is:neutr al:iter st:iter
+iubeō/1,1002 po:verb st:iubēre
+iussī/1,1012 po:verb st:iubēre
+iussum/1,1022 po:verb st:iubēre
+iubēre/1,1032 po:verb st:iubēre
 iūs
 iūstus/1,11001 po:adj
 iuvāre/1,1031 po:verb st:iuvāre
@@ -383,10 +419,10 @@ mittere/1,1033 po:verb st:mittere
 mittō/1,1003 po:verb st:mittere
 missum/1,1023 po:verb st:mittere
 modus/1,10004 po:subst is:masc
-mōns/1,11313 po:subst is:masc al:mont
-mont/1,11303 po:subst is:masc st:mōns
-mors/1,11313 po:subst is:fem al:mort
-mort/1,11303 po:subst is:fem st:mors
+mōns/1,11313 po:subst is:masc al:montis st:mōns
+montis/1,11303 po:subst is:masc al:mōns st:mōns
+mors/1,11313 po:subst is:fem al:mortis st:mors
+mortis/1,11303 po:subst is:fem al:mors st:mors
 mortuus/1,10004 po:subst is:masc
 mortuus/1,11001 po:adj
 mōs
@@ -403,11 +439,11 @@ nātūra/1,10002 po:subst is:fem
 nauta/1,10002 po:subst is:masc
 nāvis
 necessārius/1,11001 po:adj
-niger/1,11002 po:adj
+niger/1,11002,11102 po:adj
 nōbīs po:pron is:abl is:1pl
 nōbīs po:pron is:dat is:1pl
-nōmen/1,11312 po:subst is:neutr al:nōmin
-nōmin/1,11302 po:subst is:neutr al:nōmen st:nōmen
+nōmen/1,11312 po:subst is:neutr al:nōminis st:nōmen
+nōminis/1,11302 po:subst is:neutr al:nōmen st:nōmen
 nōmināre/1,1031 po:verb st:nōmināre
 nōminātum/1,1021 po:verb st:nōmināre
 nōmināvī/1,1011 po:verb st:nōmināre
@@ -443,7 +479,8 @@ ōs
 paenīnsula/1,10002 po:subst is:fem
 parēns
 pār po:adj
-pars
+pars/1,11311 po:subst is:fem al:partis st:pars
+partis/1,11301 po:subst is:fem al:pars st:pars
 parvus/1,11001 po:adj
 pāstor
 pater
@@ -451,18 +488,22 @@ patria/1,10002 po:subst is:fem
 pauper po:adj
 pāx
 pecūnia/1,10002 po:subst is:fem
-pecus
+pecus/1,11314 po:subst is:neutr al:pecoris st:pecus
+pecoris/1,11304 po:subst is:neutr al:pecus st:pecus
 perīculum/1,10008 po:subst is:neutr
-pēs
-piger/1,11002 po:adj
+pēs/1,11311 po:subst is:masc al:pēdis st:pēs
+pēdis/1,11301 po:subst is:masc al:pēs st:pēs
+piger/1,11002,11102 po:adj
 piscis
-plēbs
+plēbs/1,11313 po:subst is:masc is:fem al:plēbis st:plēbs
+plēbis/1,11303 po:subst is:masc is:fem al:plēbs st:plēbs
 poena/1,10002 po:subst is:fem
 poēta/1,10002 po:subst is:masc
 pōnere/1,1033 po:verb st:pōnere
 positum/1,1023 po:verb st:pōnere
 pōnō/1,1003 po:verb st:pōnere
-pons
+pons/1,11311 po:subst is:masc al:pontis st:pons
+pontis/1,11301 po:subst is:masc al:pons st:pons
 populus/1,10004 po:subst is:masc
 porta/1,10002 po:subst is:fem
 possum po:verb is:1sg is:praes. ind. act.
@@ -473,6 +514,8 @@ potes po:verb is:2sg is:praes. ind. act.
 potestis po:verb is:2pl is:praes. ind. act.
 potest po:verb is:3sg is:praes. ind. act.
 prīmus/1,11001 po:adj
+prīnceps/1,11311 po:subst is:masc al:prīncipis st:prīnceps
+prīncipis/1,11301 po:subst is:masc al:prīnceps st:prīnceps
 prīncipium/1,10008 po:subst is:neutr
 procul
 prōlēs
@@ -481,7 +524,7 @@ pūblicus/1,11001 po:adj
 puella/1,10002 po:subst is:masc
 puer/1,10007 po:subst is:masc
 pūgna/1,10002 po:subst is:fem
-pulcher/1,11002 po:adj
+pulcher/1,11002,11102 po:adj
 pūniō/1,1004 po:verb st:pūnīre
 pūnītum/1,1024 po:verb st:pūnīre
 pūnīvī/1,1014 po:verb st:pūnīre
@@ -513,7 +556,7 @@ rīsum/1,1022 po:verb st:ridēre
 rīsī/1,1012 po:verb st:ridēre
 Rōma/1,10002 po:subst is:fem
 Rōmānus/1,11001 po:adj
-sacer/1,11002 po:adj
+sacer/1,11002,11102 po:adj
 saluber
 salūs
 salveō/1,1002 po:verb st:salvēre
@@ -563,10 +606,11 @@ sīgnum/1,10008 po:subst is:neutr
 silva/1,10002 po:subst is:fem
 similis/1,11006 po:adj
 simplex po:adj
-sitis
+sitis/1,11305,11315 po:subst is:fem st:sitis
 socia/1,10002 po:subst is:fem
 socius/1,10004 po:subst is:masc
-sōl
+sōlis/1,11301 po:subst is:masc al:sōl st:sōl
+sōl/1,11311 po:subst is:masc al:sōlis st:sōl
 soror
 spectāre/1,1031 po:verb st:spectāre
 spectātum/1,1021 po:verb st:spectāre
@@ -590,8 +634,8 @@ tacēre/1,1032 po:verb st:tacēre
 tacitum/1,1022 po:verb st:tacēre
 tacuī/1,1012 po:verb st:tacēre
 templum/1,10008 po:subst is:neutr
-tempor/1,11302 po:subst is:neutr al:tempus st:tempus
-tempus/1,11313 po:subst is:neutr al:tempus
+temporis/1,11302 po:subst is:neutr al:tempus st:tempus
+tempus/1,11313 po:subst is:neutr al:temporis st:tempus
 tē po:pron is:abl is:2sg
 tē po:pron is:acc is:2sg
 terra/1,10002 po:subst is:fem
@@ -606,12 +650,11 @@ trīstis
 tuī po:pron is:gen is:2sg
 tū po:pron is:nom is:2sg
 turpis
-turr/1,11305 po:subst is:fem al:turris st:turris
-turris/1,11315 po:subst is:fem al:turris
+turris/1,11305,11315 po:subst is:fem st:turris
 ubī
 ūniversus/1,11001 po:adj
-urb/1,11303 po:subst is:fem al:urbs
-urbs/1,11313 po:subst is:fem al:urbs
+urbis/1,11303 po:subst is:fem al:urbs st:urbs
+urbs/1,11313 po:subst is:fem al:urbis st:urbs
 uva/1,10002 po:subst is:fem
 vallēs
 vānus/1,11001 po:adj
@@ -625,7 +668,7 @@ venter
 verbum/1,10008 po:subst is:neutr
 vēritās
 vērus/1,11001 po:adj
-vestis
+vestis/1,11303,11313 po:subst is:fem
 vestrī po:pron is:gen is:2pl al:vestrum
 vestrum po:pron st:vestrī
 vetāre/1,1031 po:verb st:vetāre
@@ -662,7 +705,8 @@ vocō/1,1001 po:verb st:vocāre
 vōs po:pron is:acc is:2pl
 vōs po:pron is:nom is:2pl
 vōx
-vulnus
+vulnus/1,11314 po:subst is:neutr al:vulneris st:vulnus
+vulneris/1,11304 po:subst is:neutr al:vulnus st:vulnus
 hic po:pron is:nom is:masc is:sg
 huius po:pron is:gen is:masc is:sg
 huic po:pron is:dat is:masc is:sg
@@ -781,8 +825,8 @@ illa po:pron is:pl is:neutr is:acc
 illīs po:pron is:pl is:neutr is:abl
 sōlus/1,11001 po:pron_adj
 tōtus/1,11001 po:pron_adj
-uter/1,11002 po:pron_adj
-neuter/1,11002 po:pron_adj
+uter/1,11002,11102 po:pron_adj
+neuter/1,11002,11102 po:pron_adj
 ūllus/1,11001 po:pron_adj
 nūllus/1,11001 po:pron_adj
 nōnnūllus/1,11001 po:pron_adj
