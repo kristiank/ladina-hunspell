@@ -1,7 +1,7 @@
 800
 abdūcere/1,1033 po:verb st:abdūcere
 abductum/1,1023 po:verb st:abdūcere
-abdūcō/1,1003 po:verb st:abdūcere
+abdūcō/1,1003,10031 po:verb st:abdūcere
 abdūxī/1,1013 po:verb st:abdūcere
 abeō/1,1004 po:verb st:abīre
 abitum/1,1024 po:verb st:abīre
@@ -10,7 +10,7 @@ abīre/1,1034 po:verb st:abīre
 absolvere/1,1033 po:verb st:absolvere
 absolūtum/1,1023 po:verb st:absolvere
 absolvī/1,1013 po:verb st:absolvere
-absolvō/1,1003 po:verb st:absolvere
+absolvō/1,1003,10031 po:verb st:absolvere
 absorbeō/1,1002,10021 po:verb st:absorbēre
 absorbēre/1,1032 po:verb st:absorbēre
 absorptum/1,1022 po:verb st:absorbēre
@@ -22,24 +22,24 @@ abstinuī/1,1012 po:verb st:abstinēre
 Acadēmia/1,10002 po:subst is:fem
 accēdere/1,1033 po:verb st:accēdere
 accessum/1,1023 po:verb st:accēdere
-accēdō/1,1003 po:verb st:accēdere
+accēdō/1,1003,10031 po:verb st:accēdere
 accēpī/1,1013 po:verb st:accipere
 accēssī/1,1013 po:verb st:accēdere
 accidere/1,1033 po:verb st:accidere
 accidī/1,1013 po:verb st:accidere
-accidō/1,1003 po:verb st:accidere
+accidō/1,1003,10031 po:verb st:accidere
 accingere/1,1033 po:verb st:accingere
-accingō/1,1003 po:verb st:accingere
+accingō/1,1003,10031 po:verb st:accingere
 accīnctum/1,1023 po:verb st:accingere
 accinxī/1,1013 po:verb st:accingere
 accipere/1,1033 po:verb st:accipere
-accipiō/1,1003 po:verb st:accipere
+accipiō/1,1003,10031 po:verb st:accipere
 acceptum/1,1023 po:verb st:accipere
 accucurrī/1,1013 po:verb al:accurrere st:accurrere
 accurrere/1,1033 po:verb st:accurrere
 accursum/1,1023 po:verb st:accurrere
 accurrī/1,1013 po:verb al:accurrere st:accurrere
-accurrō/1,1003 po:verb st:accurrere
+accurrō/1,1003,10031 po:verb st:accurrere
 accūsāre/1,1031 po:verb st:accūsāre
 accūsātum/1,1021 po:verb st:accūsāre
 accūsāvī/1,1011 po:verb st:accūsāre
@@ -51,13 +51,13 @@ addere/1,1033 po:verb st:addere
 additum/1,1023 po:verb st:addere
 addīcere/1,1033 po:verb st:addīcere
 addictum/1,1023 po:verb st:addīcere
-addīcō/1,1003 po:verb st:addīcere
+addīcō/1,1003,10031 po:verb st:addīcere
 addidī/1,1013 po:verb st:addere
 addīxī/1,1013 po:verb st:addīcere
-addō/1,1003 po:verb st:addere
+addō/1,1003,10031 po:verb st:addere
 addūcere/1,1033 po:verb st:addūcere
 adductum/1,1023 po:verb st:addūcere
-addūcō/1,1003 po:verb st:addūcere
+addūcō/1,1003,10031 po:verb st:addūcere
 addūxī/1,1013 po:verb st:addūcere
 adeō/1,1004 po:verb st:adīre
 aditum/1,1024 po:verb st:adīre
@@ -79,7 +79,7 @@ ager/1,10006 po:subst is:masc
 agere/1,1033 po:verb st:agere
 āctum/1,1023 po:verb st:agere
 āgnus/1,10004 po:subst is:masc
-agō/1,1003 po:verb st:agere
+agō/1,1003,10031 po:verb st:agere
 agricola/1,10002 po:subst is:masc
 āla/1,10002 po:subst is:fem
 albus/1,11001 po:adj
@@ -127,7 +127,7 @@ beātus/1,11001 po:adj
 bellum/1,10008 po:subst is:neutr
 bonus/1,11001 po:adj
 brevis
-cadō/1,1003 po:verb st:cadere
+cadō/1,1003,10031 po:verb st:cadere
 cecidī/1,1013 po:verb st:cadere
 cāsum/1,1023 po:verb st:cadere
 cadere/1,1033 po:verb st:cadere
@@ -139,7 +139,7 @@ cantātum/1,1021 po:verb st:cantāre
 cantāvī/1,1011 po:verb st:cantāre
 cantō/1,1001,10011 po:verb st:cantāre
 capere/1,1033 po:verb st:capere
-capiō/1,1003 po:verb st:capere
+capiō/1,1003,10031 po:verb st:capere
 captum/1,1023 po:verb st:capere
 caput/1,11312 po:subst is:neutr al:capitis st:caput
 capitis/1,11302 po:subst is:neutr al:caput st:caput
@@ -158,12 +158,12 @@ cōgitātum/1,1021 po:verb st:cōgitāre
 cōgitāvī/1,1011 po:verb st:cōgitāre
 cōgitō/1,1001,10011 po:verb st:cōgitāre
 cognoscere/1,1033 po:verb st:cognoscere
-cognoscō/1,1003 po:verb st:cognoscere
+cognoscō/1,1003,10031 po:verb st:cognoscere
 cognitum/1,1023 po:verb st:cognoscere
 cognōvī/1,1013 po:verb st:cognoscere
 colere/1,1033 po:verb st:colere
 cultum/1,1023 po:verb st:colere
-colō/1,1003 po:verb st:colere
+colō/1,1003,10031 po:verb st:colere
 coluī/1,1013 po:verb st:colere
 comes/1,11311 po:subst is:masc is:fem al:comitis st:comes
 comitis/1,11301 po:subst is:masc is:fem al:comes st:comes
@@ -176,17 +176,17 @@ Corsica/1,10002 po:subst is:fem
 crēdere/1,1033 po:verb st:crēdere
 crēditum/1,1023 po:verb st:crēdere
 crēdidī/1,1013 po:verb st:crēdere
-crēdō/1,1003 po:verb st:crēdere
+crēdō/1,1003,10031 po:verb st:crēdere
 crēscere/1,1033 po:verb st:crēscere
 crētum/1,1023 po:verb st:crēscere
-crēscō/1,1003 po:verb st:crēscere
+crēscō/1,1003,10031 po:verb st:crēscere
 crēvī/1,1013 po:verb st:crēscere
 crīmen/1,11312 po:subst is:neutr al:crīminis st:crīmen
 crīminis/1,11302 po:subst is:neutr al:crīmen st:crīmen
 cucurrī/1,1013 po:verb st:currere
 currere/1,1033 po:verb st:currere
 cursum/1,1023 po:verb st:currere
-currō/1,1003 po:verb st:currere
+currō/1,1003,10031 po:verb st:currere
 dare/1,1031 po:verb st:dare
 datum/1,1021 po:verb st:dare
 debeō/1,1002,10021 po:verb st:debēre
@@ -199,9 +199,9 @@ deus/1,10004 po:subst is:masc
 dea/1,10002 po:subst is:fem
 dīcere/1,1033 po:verb st:dīcere
 dictum/1,1023 po:verb st:dīcere
-dīcō/1,1003 po:verb st:dīcere
+dīcō/1,1003,10031 po:verb st:dīcere
 difficilis
-discō/1,1003 po:verb st:discere
+discō/1,1003,10031 po:verb st:discere
 didicī/1,1013 po:verb st:discere
 discere/1,1033 po:verb st:discere
 discipulus/1,10004 po:subst is:masc
@@ -227,7 +227,7 @@ dormīre/1,1034 po:verb st:dormīre
 dormītum/1,1024 po:verb st:dormīre
 dubius/1,11001 po:adj
 dūcere/1,1033 po:verb st:dūcere
-dūcō/1,1003 po:verb st:dūcere
+dūcō/1,1003,10031 po:verb st:dūcere
 ductum/1,1023 po:verb st:dūcere
 dulcis
 dux/1,11311 po:subst is:masc is:fem al:ducis st:dux
@@ -238,7 +238,7 @@ ego po:pron is:nom is:1sg
 emere/1,1033 po:verb st:emere
 ēmptum/1,1023 po:verb st:emere
 ēmī/1,1013 po:verb st:emere
-emō/1,1003 po:verb st:emere
+emō/1,1003,10031 po:verb st:emere
 epistula/1,10002 po:subst is:fem
 es po:verb is:2sg is:imp. praes. ind. act.
 es po:verb is:2sg is:praes. ind. act.
@@ -252,7 +252,7 @@ fābula/1,10002 po:subst is:fem
 facere/1,1033 po:verb st:facere
 factum/1,1023 po:verb st:facere
 facilis
-faciō/1,1003 po:verb st:facere
+faciō/1,1003,10031 po:verb st:facere
 famis/1,11303 po:subst st:famēs al:famēs
 famēs/1,11313 po:subst st:famēs al:famis
 familia/1,10002 po:subst is:fem
@@ -285,7 +285,7 @@ frāter/1,11311 po:subst is:masc al:frātris st:frāter
 frātris/1,11301 po:subst is:masc al:frāter st:frāter
 fugere/1,1033 po:verb st:fugere
 fūgī/1,1013 po:verb st:fugere
-fugiō/1,1003 po:verb st:fugere
+fugiō/1,1003,10031 po:verb st:fugere
 fulmen/1,11314 po:subst is:neutr al:fulminis st:fulmen
 fulminis/1,11304 po:subst is:neutr al:fulmen st:fulmen
 gēns/1,11311 po:subst is:fem al:genis st:gēns
@@ -337,7 +337,7 @@ initium/1,10008 po:subst is:neutr
 iniūstus/1,11001 po:adj
 insula/1,10002 po:subst is:fem
 intellegere/1,1033 po:verb st:intellegere
-intellegō/1,1003 po:verb st:intellegere
+intellegō/1,1003,10031 po:verb st:intellegere
 intellēctum/1,1023 po:verb st:intellegere
 intellexī/1,1013 po:verb st:intellegere
 Italia/1,10002 po:subst is:fem
@@ -369,7 +369,7 @@ laus
 lēgālis
 legere/1,1033 po:verb st:legere
 lēgī/1,1013 po:verb st:legere
-legō/1,1003 po:verb st:legere
+legō/1,1003,10031 po:verb st:legere
 lēctum/1,1023 po:verb st:legere
 lentus/1,11001 po:adj
 leō
@@ -416,7 +416,7 @@ ministra/1,10002 po:subst is:fem
 miser
 mīsī/1,1013 po:verb st:mittere
 mittere/1,1033 po:verb st:mittere
-mittō/1,1003 po:verb st:mittere
+mittō/1,1003,10031 po:verb st:mittere
 missum/1,1023 po:verb st:mittere
 modus/1,10004 po:subst is:masc
 mōns/1,11313 po:subst is:masc al:montis st:mōns
@@ -501,7 +501,7 @@ poena/1,10002 po:subst is:fem
 poēta/1,10002 po:subst is:masc
 pōnere/1,1033 po:verb st:pōnere
 positum/1,1023 po:verb st:pōnere
-pōnō/1,1003 po:verb st:pōnere
+pōnō/1,1003,10031 po:verb st:pōnere
 pons/1,11311 po:subst is:masc al:pontis st:pons
 pontis/1,11301 po:subst is:masc al:pons st:pons
 populus/1,10004 po:subst is:masc
@@ -536,7 +536,7 @@ putāre/1,1031 po:verb st:putāre
 rādix
 rapere/1,1033 po:verb st:rapere
 raptum/1,1023 po:verb st:rapere
-rapiō/1,1003 po:verb st:rapere
+rapiō/1,1003,10031 po:verb st:rapere
 rapuī/1,1013 po:verb st:rapere
 rārus/1,11001 po:adj
 ratiō
@@ -576,7 +576,7 @@ scīvī/1,1014 po:verb st:scīre
 scīre/1,1034 po:verb st:scīre
 scrībere/1,1033 po:verb st:scrībere
 scrīptum/1,1023 po:verb st:scrībere
-scrībō/1,1003 po:verb st:scrībere
+scrībō/1,1003,10031 po:verb st:scrībere
 scrīpsī/1,1013 po:verb st:scrībere
 sedeō/1,1002,10021 po:verb st:sedēre
 sedēre/1,1032 po:verb st:sedēre
@@ -685,7 +685,7 @@ vīsum/1,1022 po:verb st:vidēre
 vīdī/1,1012 po:verb st:vidēre
 vincere/1,1033 po:verb st:vincere
 victum/1,1023 po:verb st:vincere
-vincō/1,1003 po:verb st:vincere
+vincō/1,1003,10031 po:verb st:vincere
 vīnum/1,10008 po:subst is:masc
 vir/1,10007 po:subst is:masc
 virgō
@@ -694,7 +694,7 @@ virtūs
 vīta/1,10002 po:subst is:fem
 vīvere/1,1033 po:verb st:vīvere
 vīctum/1,1023 po:verb st:vīvere
-vīvō/1,1003 po:verb st:vīvere
+vīvō/1,1003,10031 po:verb st:vīvere
 vīxī/1,1013 po:verb st:vīvere
 vōbīs po:pron is:abl is:2pl
 vōbīs po:pron is:dat is:2pl

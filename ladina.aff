@@ -136,6 +136,20 @@ SFX 1003	ō	itis	[^i]ō	is:2pl is:praes. ind. act.
 SFX 1003	iō	itis	iō	is:2pl is:praes. ind. act.
 SFX 1003	ō	unt	[^i]ō	is:3pl is:praes. ind. act.
 SFX 1003	iō	iunt	iō	is:3pl is:praes. ind. act.
+# praesens indicativi passivi
+SFX 10031	Y	12
+SFX 10031	ō	or	.	is:1sg is:praes. ind. pass.
+SFX 10031	iō	ior	.	is:1sg is:praes. ind. pass.
+SFX 10031	ō	eris	.	is:2sg is:praes. ind. pass.
+SFX 10031	iō	eris	.	is:2sg is:praes. ind. pass.
+SFX 10031	ō	itur	.	is:3sg is:praes. ind. pass.
+SFX 10031	iō	itur	.	is:3sg is:praes. ind. pass.
+SFX 10031	ō	imur	.	is:1pl is:praes. ind. pass.
+SFX 10031	iō	imur	.	is:1pl is:praes. ind. pass.
+SFX 10031	ō	iminī	.	is:2pl is:praes. ind. pass.
+SFX 10031	iō	iminī	.	is:2pl is:praes. ind. pass.
+SFX 10031	ō	untur	.	is:3pl is:praes. ind. pass.
+SFX 10031	iō	iuntur	.	is:3pl is:praes. ind. pass.
 ## perfecti tüvest moodustatakse
 # langeb kokku 1011 antuga
 SFX 1013   Y   1
