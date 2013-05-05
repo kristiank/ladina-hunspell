@@ -179,6 +179,14 @@ SFX 1004	ō	t	.	is:3sg is:praes. ind. act.
 SFX 1004	ō	̄mus	.	is:1pl is:praes. ind. act.
 SFX 1004	ō	̄tis	.	is:2pl is:praes. ind. act.
 SFX 1004	ō	unt	.	is:3pl is:praes. ind. act.
+# praesens indicativi passivi
+SFX 10041	Y	6
+SFX 10041	ō	or	.	is:1sg is:praes. ind. pass.
+SFX 10041	ō	̄ris	.	is:2sg is:praes. ind. pass.
+SFX 10041	ō	̄tur	.	is:3sg is:praes. ind. pass.
+SFX 10041	ō	̄mur	.	is:1pl is:praes. ind. pass.
+SFX 10041	ō	̄minī	.	is:2pl is:praes. ind. pass.
+SFX 10041	ō	untur	.	is:3pl is:praes. ind. pass.
 ## perfecti tüvest moodustatakse
 # langeb kokku 1011 antuga
 SFX 1014   Y   1

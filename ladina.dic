@@ -3,7 +3,7 @@ abdūcere/1,1033 po:verb st:abdūcere
 abductum/1,1023 po:verb st:abdūcere
 abdūcō/1,1003,10031 po:verb st:abdūcere
 abdūxī/1,1013 po:verb st:abdūcere
-abeō/1,1004 po:verb st:abīre
+abeō/1,1004,10041 po:verb st:abīre
 abitum/1,1024 po:verb st:abīre
 abiī/1,1014 po:verb st:abīre
 abīre/1,1034 po:verb st:abīre
@@ -59,7 +59,7 @@ addūcere/1,1033 po:verb st:addūcere
 adductum/1,1023 po:verb st:addūcere
 addūcō/1,1003,10031 po:verb st:addūcere
 addūxī/1,1013 po:verb st:addūcere
-adeō/1,1004 po:verb st:adīre
+adeō/1,1004,10041 po:verb st:adīre
 aditum/1,1024 po:verb st:adīre
 adiī/1,1014 po:verb st:adīre
 adīre/1,1034 po:verb st:adīre
@@ -116,7 +116,7 @@ ars/1,11313 po:subst is:fem al:artis st:ars
 artis/1,11303 po:subst is:fem al:ars st:ars
 asinus/1,10004 po:subst is:masc
 atrox
-audiō/1,1004 po:verb st:audīre
+audiō/1,1004,10041 po:verb st:audīre
 audītum/1,1024 po:verb st:audīre
 audīvī/1,1014 po:verb st:audīre
 audīre/1,1034 po:verb st:audīre
@@ -221,7 +221,7 @@ dolēre/1,1032 po:verb st:dolēre
 doluī/1,1012 po:verb st:dolēre
 dominus/1,10004 po:subst is:masc
 dōnum/1,10008 po:subst is:neutr
-dormiō/1,1004 po:verb st:dormīre
+dormiō/1,1004,10041 po:verb st:dormīre
 dormīvī/1,1014 po:verb st:dormīre
 dormīre/1,1034 po:verb st:dormīre
 dormītum/1,1024 po:verb st:dormīre
@@ -525,7 +525,7 @@ puella/1,10002 po:subst is:masc
 puer/1,10007 po:subst is:masc
 pūgna/1,10002 po:subst is:fem
 pulcher/1,11002,11102 po:adj
-pūniō/1,1004 po:verb st:pūnīre
+pūniō/1,1004,10041 po:verb st:pūnīre
 pūnītum/1,1024 po:verb st:pūnīre
 pūnīvī/1,1014 po:verb st:pūnīre
 pūnīre/1,1034 po:verb st:pūnīre
@@ -570,7 +570,7 @@ sānō/1,1001,10011 po:verb st:sānāre
 sapiēns po:adj
 Sardinia/1,10002 po:subst is:fem
 schola/1,10002 po:subst is:fem
-sciō/1,1004 po:verb st:scīre
+sciō/1,1004,10041 po:verb st:scīre
 scītum/1,1024 po:verb st:scīre
 scīvī/1,1014 po:verb st:scīre
 scīre/1,1034 po:verb st:scīre
@@ -585,17 +585,17 @@ sēdēs
 sēdī/1,1012 po:verb st:sedēre
 sēmen
 sententia/1,10002 po:subst is:fem
-sentiō/1,1004 po:verb st:sentīre
+sentiō/1,1004,10041 po:verb st:sentīre
 sēnsum/1,1024 po:verb st:sentīre
 sēnsī/1,1014 po:verb st:sentīre
 sentīre/1,1034 po:verb st:sentīre
-sepeliō/1,1004 po:verb st:sepelīre
+sepeliō/1,1004,10041 po:verb st:sepelīre
 sepultum/1,1024 po:verb st:sepelīre
 sepelīvī/1,1014 po:verb st:sepelīre
 sepelīre/1,1034 po:verb st:sepelīre
 sē po:pron
 sermō
-serviō/1,1004 po:verb st:servīre
+serviō/1,1004,10041 po:verb st:servīre
 servīvī/1,1014 po:verb st:servīre
 servīre/1,1034 po:verb st:servīre
 servītum/1,1024 po:verb st:servīre
@@ -660,7 +660,7 @@ vallēs
 vānus/1,11001 po:adj
 varius/1,11001 po:adj
 vās
-veniō/1,1004 po:verb st:venīre
+veniō/1,1004,10041 po:verb st:venīre
 vēnī/1,1014 po:verb st:venīre
 venīre/1,1034 po:verb st:venīre
 ventum/1,1024 po:verb st:venīre
