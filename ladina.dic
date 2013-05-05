@@ -1,4 +1,4 @@
-800
+1000
 abdūcere/1,1033 po:verb st:abdūcere
 abductum/1,1023 po:verb st:abdūcere
 abdūcō/1,1003,10031,10032 po:verb st:abdūcere
@@ -852,3 +852,9 @@ inter po:prep
 per po:prep
 post po:prep
 trāns po:prep
+eram po:verb is:1sg is:imperf. ind. pass.
+erās po:verb is:2sg is:imperf. ind. pass.
+erat po:verb is:3sg is:imperf. ind. pass.
+erāmus po:verb is:1pl is:imperf. ind. pass.
+erātis po:verb is:2pl is:imperf. ind. pass.
+erant po:verb is:3pl is:imperf. ind. pass.
