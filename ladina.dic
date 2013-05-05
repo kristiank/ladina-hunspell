@@ -43,7 +43,7 @@ accurrō/1,1003 po:verb st:accurrere
 accūsāre/1,1031 po:verb st:accūsāre
 accūsātum/1,1021 po:verb st:accūsāre
 accūsāvī/1,1011 po:verb st:accūsāre
-accūsō/1,1001 po:verb st:accūsāre
+accūsō/1,1001,10011 po:verb st:accūsāre
 ācer/1,11004 po:adj
 āctus/1,10004 po:subst is:masc
 acūtus/1,11001 po:adj
@@ -90,14 +90,14 @@ altus/1,11001 po:adj
 amāre/1,1031 po:verb st:amāre
 amārus/1,11001 po:adj
 amāvī/1,1011 po:verb st:amāre
-ambulō/1,1001 po:verb st:ambulāre
+ambulō/1,1001,10011 po:verb st:ambulāre
 ambulāvī/1,1011 po:verb st:ambulāre
 ambulātum/1,1021 po:verb st:ambulāre
 ambulāre/1,1031 po:verb st:ambulāre
 amica/1,10002 po:subst is:fem
 amīcus/1,10004 po:subst is:nom
 amīcus/1,11001 po:adj
-amō/1,1001 po:verb st:amāre
+amō/1,1001,10011 po:verb st:amāre
 amātum/1,1021 po:verb st:amāre
 amoenus/1,11001 po:adj
 amor/1,11313 po:subst is:masc al:amōris st:amor
@@ -109,7 +109,7 @@ annus/1,10004 po:subst is:masc
 antīquus/1,11001 po:adj
 appellāre/1,1031 is:verb st:appellāre
 appellāvī/1,1011 is:verb st:appellāre
-appellō/1,1001 is:verb st:appellāre
+appellō/1,1001,10011 is:verb st:appellāre
 āra/1,10002 po:subst is:fem
 arbor
 ars/1,11313 po:subst is:fem al:artis st:ars
@@ -137,7 +137,7 @@ canis/1,11303,11313 po:subst is:masc is:fem
 cantāre/1,1031 po:verb st:cantāre
 cantātum/1,1021 po:verb st:cantāre
 cantāvī/1,1011 po:verb st:cantāre
-cantō/1,1001 po:verb st:cantāre
+cantō/1,1001,10011 po:verb st:cantāre
 capere/1,1033 po:verb st:capere
 capiō/1,1003 po:verb st:capere
 captum/1,1023 po:verb st:capere
@@ -156,7 +156,7 @@ clārus/1,11001 po:adj
 cōgitāre/1,1031 po:verb st:cōgitāre
 cōgitātum/1,1021 po:verb st:cōgitāre
 cōgitāvī/1,1011 po:verb st:cōgitāre
-cōgitō/1,1001 po:verb st:cōgitāre
+cōgitō/1,1001,10011 po:verb st:cōgitāre
 cognoscere/1,1033 po:verb st:cognoscere
 cognoscō/1,1003 po:verb st:cognoscere
 cognitum/1,1023 po:verb st:cognoscere
@@ -209,7 +209,7 @@ dīves po:adj
 dīvīnus/1,11001 al:dīvus po:adj
 dīvus/1,11001 po:adj
 dīxī/1,1013 po:verb st:dīcere
-dō/1,1001 po:verb st:dare
+dō/1,1001,10011 po:verb st:dare
 doceō/1,1002 po:verb st:docēre
 doctum/1,1022 po:verb st:docēre
 docēre/1,1032 po:verb st:docēre
@@ -262,7 +262,7 @@ fēcī/1,1013 po:verb st:facere
 fel
 fēlix po:adj
 fēmina/1,10002 po:subst is:fem
-festīnō/1,1001 po:verb st:festīnāre
+festīnō/1,1001,10011 po:verb st:festīnāre
 festīnāvī/1,1011 po:verb st:festīnāre
 festīnātum/1,1021 po:verb st:festīnāre
 festīnāre/1,1031 po:verb st:festīnāre
@@ -320,7 +320,7 @@ humilis
 ignis/1,11313,11303 po:subst is:masc st:ignis
 imperātor/1,11311 po:subst is:masc al:imperātoris st:imperātor
 imperātoris/1,11301 po:subst is:masc al:imperātor st:imperātor
-imperō/1,1001 po:verb st:imperāre
+imperō/1,1001,10011 po:verb st:imperāre
 imperāvi/1,1011 po:verb st:imperāre
 imperātum/1,1021 po:verb st:imperāre
 imperāre/1,1031 po:verb st:imperāre
@@ -353,18 +353,18 @@ iuvāre/1,1031 po:verb st:iuvāre
 iūtum/1,1021 po:verb st:iuvāre
 iuvenis
 iūvī/1,1011 po:verb st:iuvāre
-iuvō/1,1001 po:verb st:iuvāre
+iuvō/1,1001,10011 po:verb st:iuvāre
 labor
 laborāre/1,1031 po:verb st:laborāre
 laborātum/1,1021 po:verb st:laborāre
 laborāvī/1,1011 po:verb st:laborāre
-laborō/1,1001 po:verb st:laborāre
+laborō/1,1001,10011 po:verb st:laborāre
 laetus/1,11001 po:adj
 lātus/1,11001 po:adj
 laudāre/1,1031 po:verb st:laudāre
 laudātum/1,1021 po:verb st:laudāre
 laudāvī/1,1011 po:verb st:laudāre
-laudō/1,1001 po:verb st:laudāre
+laudō/1,1001,10011 po:verb st:laudāre
 laus
 lēgālis
 legere/1,1033 po:verb st:legere
@@ -380,7 +380,7 @@ līber/1,11003 po:adj
 liberāre/1,1031 po:verb st:liberāre
 liberātum/1,1021 po:verb st:liberāre
 liberāvī/1,1011 po:verb st:liberāre
-liberō/1,1001 po:verb st:liberāre
+liberō/1,1001,10011 po:verb st:liberāre
 libertās
 lingua/1,10002 po:subst is:fem
 littera/1,10002 po:subst is:fem
@@ -430,11 +430,11 @@ multus/1,11001 po:adj
 mutāre/1,1031 po:verb st:mutāre
 mutātum/1,1021 po:verb st:mutāre
 mutāvī/1,1011 po:verb st:mutāre
-mutō/1,1001 po:verb st:mutāre
+mutō/1,1001,10011 po:verb st:mutāre
 narrāre/1,1031 po:verb st:narrāre
 narrātum/1,1021 po:verb st:narrāre
 narrāvī/1,1011 po:verb st:narrāre
-narrō/1,1001 po:verb st:narrāre
+narrō/1,1001,10011 po:verb st:narrāre
 nātūra/1,10002 po:subst is:fem
 nauta/1,10002 po:subst is:masc
 nāvis
@@ -447,7 +447,7 @@ nōminis/1,11302 po:subst is:neutr al:nōmen st:nōmen
 nōmināre/1,1031 po:verb st:nōmināre
 nōminātum/1,1021 po:verb st:nōmināre
 nōmināvī/1,1011 po:verb st:nōmināre
-nōminō/1,1001 po:verb st:nōmināre
+nōminō/1,1001,10011 po:verb st:nōmināre
 nōs po:pron is:acc is:1pl
 nōs po:pron is:nom is:1pl
 nostrī po:pron is:gen is:1pl al:nostrum
@@ -472,8 +472,8 @@ ōrdō
 ornāre/1,1031 po:verb st:ornāre
 ornātum/1,1021 po:verb st:ornāre
 ornāvī/1,1011 po:verb st:ornāre
-ornō/1,1001 po:verb st:ornāre
-orō/1,1001 po:verb st:orāre
+ornō/1,1001,10011 po:verb st:ornāre
+orō/1,1001,10011 po:verb st:orāre
 os
 ōs
 paenīnsula/1,10002 po:subst is:fem
@@ -529,7 +529,7 @@ pūniō/1,1004 po:verb st:pūnīre
 pūnītum/1,1024 po:verb st:pūnīre
 pūnīvī/1,1014 po:verb st:pūnīre
 pūnīre/1,1034 po:verb st:pūnīre
-putō/1,1001 po:verb st:putāre
+putō/1,1001,10011 po:verb st:putāre
 putāvī/1,1011 po:verb st:putāre
 putātum/1,1021 po:verb st:putāre
 putāre/1,1031 po:verb st:putāre
@@ -566,7 +566,7 @@ sānāre/1,1031 po:verb st:sānāre
 sānātum/1,1021 po:verb st:sānāre
 sānāvī/1,1011 po:verb st:sānāre
 sanguis
-sānō/1,1001 po:verb st:sānāre
+sānō/1,1001,10011 po:verb st:sānāre
 sapiēns po:adj
 Sardinia/1,10002 po:subst is:fem
 schola/1,10002 po:subst is:fem
@@ -615,7 +615,7 @@ soror
 spectāre/1,1031 po:verb st:spectāre
 spectātum/1,1021 po:verb st:spectāre
 spectāvī/1,1011 po:verb st:spectāre
-spectō/1,1001 po:verb st:spectāre
+spectō/1,1001,10011 po:verb st:spectāre
 splendidus/1,11001 po:adj
 stare
 stēlla/1,10002 po:subst is:fem
@@ -673,7 +673,7 @@ vestrī po:pron is:gen is:2pl al:vestrum
 vestrum po:pron st:vestrī
 vetāre/1,1031 po:verb st:vetāre
 vetitum/1,1031 po:verb st:vetāre
-vetō/1,1001 po:verb st:vetāre
+vetō/1,1001,10011 po:verb st:vetāre
 vetuī/1,1011 po:verb st:vetāre
 vetus po:adj
 via/1,10002 po:subst is:fem
@@ -701,7 +701,7 @@ vōbīs po:pron is:dat is:2pl
 vocāre/1,1031 po:verb st:vocāre
 vocātum/1,1021 po:verb st:vocāre
 vocāvī/1,1011 po:verb st:vocāre
-vocō/1,1001 po:verb st:vocāre
+vocō/1,1001,10011 po:verb st:vocāre
 vōs po:pron is:acc is:2pl
 vōs po:pron is:nom is:2pl
 vōx

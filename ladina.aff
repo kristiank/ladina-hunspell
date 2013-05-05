@@ -45,12 +45,20 @@ iconv ū ū
 ## praesensi tüvest moodustatakse
 # praesens indicativ activ
 SFX 1001	Y	6
-SFX 1001	0	0	.	is:1sg is:praes. ind. act.
+SFX 1001	̄	0	.	is:1sg is:praes. ind. act.
 SFX 1001	ō	ās	.	is:2sg is:praes. ind. act.
 SFX 1001	ō	at	.	is:3sg is:praes. ind. act.
 SFX 1001	ō	āmus	.	is:1pl is:praes. ind. act.
 SFX 1001	ō	ātis	.	is:2pl is:praes. ind. act.
 SFX 1001	ō	ant	.	is:3pl is:praes. ind. act.
+# praesens indicativi passivi
+SFX 10011	Y	6
+SFX 10011	̄	r	.	is:1sg is:praes. ind. pass.
+SFX 10011	ō	āris	.	is:2sg is:praes. ind. pass.
+SFX 10011	ō	ātur	.	is:3sg is:praes. ind. pass.
+SFX 10011	ō	āmur	.	is:1pl is:praes. ind. pass.
+SFX 10011	ō	āminī	.	is:2pl is:praes. ind. pass.
+SFX 10011	ō	antur	.	is:3pl is:praes. ind. pass.
 # perfecti tüvest moodustatakse
 SFX 1011     Y       6
 SFX 1011	0	0	.	is:1sg is:perf. ind. act.
