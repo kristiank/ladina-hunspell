@@ -241,10 +241,10 @@ ēmī/1,1013 po:verb st:emere
 emō/1,1003,10031,10032 po:verb st:emere
 epistula/1,10002 po:subst is:fem
 es po:verb is:2sg is:imp. praes. ind. act.
-es po:verb is:2sg is:praes. ind. act.
+es/10 po:verb is:2sg is:praes. ind. act.
 este po:verb is:2pl is:imp. praes. ind. act.
-estis po:verb is:2pl is:praes. ind. act.
-est po:verb is:3sg is:praes. ind. act.
+estis/10 po:verb is:2pl is:praes. ind. act.
+est/10 po:verb is:3sg is:praes. ind. act.
 et po:conj_coord
 exemplar/1,11306 po:subst is:neutr
 exemplum/1,10008 po:subst is:neutr
@@ -626,9 +626,9 @@ studiōsus/1,11001 po:adj
 studuī/1,1012 po:verb st:studēre
 stultus/1,11001 po:adj
 suī po:pron
-sum po:verb is:1sg is:praes. ind. act.
-sumus po:verb is:1pl is:praes. ind. act.
-sunt po:verb is:3pl is:praes. ind. act.
+sum/10 po:verb is:1sg is:praes. ind. act.
+sumus/10 po:verb is:1pl is:praes. ind. act.
+sunt/10 po:verb is:3pl is:praes. ind. act.
 taceō/1,1002,10021,10022 po:verb st:tacēre
 tacēre/1,1032 po:verb st:tacēre
 tacitum/1,1022 po:verb st:tacēre
@@ -852,9 +852,9 @@ inter po:prep
 per po:prep
 post po:prep
 trāns po:prep
-eram po:verb is:1sg is:imperf. ind. pass.
-erās po:verb is:2sg is:imperf. ind. pass.
-erat po:verb is:3sg is:imperf. ind. pass.
-erāmus po:verb is:1pl is:imperf. ind. pass.
-erātis po:verb is:2pl is:imperf. ind. pass.
-erant po:verb is:3pl is:imperf. ind. pass.
+eram/10 po:verb is:1sg is:imperf. ind. pass.
+erās/10 po:verb is:2sg is:imperf. ind. pass.
+erat/10 po:verb is:3sg is:imperf. ind. pass.
+erāmus/10 po:verb is:1pl is:imperf. ind. pass.
+erātis/10 po:verb is:2pl is:imperf. ind. pass.
+erant/10 po:verb is:3pl is:imperf. ind. pass.

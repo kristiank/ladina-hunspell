@@ -41,6 +41,12 @@ iconv ū ū
 #MAP y(ȳ)
 
 
+# eesliide pot- (võimeline, suuteline)
+PFX 10 Y 2
+PFX 10 0 pot [^s] sp:potis
+PFX 10 0 pos s sp:potis
+
+
 ## I pöördkonna sõnad (vocō, vocāre)
 ## praesensi tüvest moodustatakse
 # praesens indicativi activi
