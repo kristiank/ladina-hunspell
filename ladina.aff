@@ -51,15 +51,15 @@ PFX 10 0 pos s sp:potis
 ## praesensi tüvest moodustatakse
 # praesens indicativi activi
 SFX 1001	Y	6
-SFX 1001	0	0	.	is:1sg is:praes. ind. act.
-SFX 1001	ō	ās	.	is:2sg is:praes. ind. act.
-SFX 1001	ō	at	.	is:3sg is:praes. ind. act.
+SFX 1001	0	0			.	is:1sg is:praes. ind. act.
+SFX 1001	ō	ās		.	is:2sg is:praes. ind. act.
+SFX 1001	ō	at		.	is:3sg is:praes. ind. act.
 SFX 1001	ō	āmus	.	is:1pl is:praes. ind. act.
 SFX 1001	ō	ātis	.	is:2pl is:praes. ind. act.
-SFX 1001	ō	ant	.	is:3pl is:praes. ind. act.
+SFX 1001	ō	ant		.	is:3pl is:praes. ind. act.
 # praesens indicativi passivi
 SFX 10011	Y	6
-SFX 10011	̄	r	.	is:1sg is:praes. ind. pass.
+SFX 10011	̄	r			.	is:1sg is:praes. ind. pass.
 SFX 10011	ō	āris	.	is:2sg is:praes. ind. pass.
 SFX 10011	ō	ātur	.	is:3sg is:praes. ind. pass.
 SFX 10011	ō	āmur	.	is:1pl is:praes. ind. pass.
@@ -135,26 +135,26 @@ SFX 10211  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
 # imperatiiv praesens activ
 SFX 1031     Y       3
-SFX 1031	0	0	.	is:inf. praes. act.
-SFX 1031	re	0	.	is:imp. praes. act. is:2sg
+SFX 1031	0		0		.	is:inf. praes. act.
+SFX 1031	re	0		.	is:imp. praes. act. is:2sg
 SFX 1031	re	te	.	is:imp. praes. act. is:2pl
 
 ## II pöördkonna sõnad (video, vidēre)
 ## praesensi tüvest moodustatakse
 # praesens indicativ activ
 SFX 1002	Y	6
-SFX 1002	0	0	.	is:1sg is:praes. ind. act.
-SFX 1002	ō	̄s	.	is:2sg is:praes. ind. act.
-SFX 1002	ō	t	.	is:3sg is:praes. ind. act.
+SFX 1002	0	0		.	is:1sg is:praes. ind. act.
+SFX 1002	ō	̄s		.	is:2sg is:praes. ind. act.
+SFX 1002	ō	t		.	is:3sg is:praes. ind. act.
 SFX 1002	ō	̄mus	.	is:1pl is:praes. ind. act.
 SFX 1002	ō	̄tis	.	is:2pl is:praes. ind. act.
 SFX 1002	ō	nt	.	is:3pl is:praes. ind. act.
 # praesens indicativi passivi
 SFX 10021	Y	6
-SFX 10021	ō	or	.	is:1sg is:praes. ind. pass.
-SFX 10021	ō	̄ris	.	is:2sg is:praes. ind. pass.
-SFX 10021	ō	̄tur	.	is:3sg is:praes. ind. pass.
-SFX 10021	ō	̄mur	.	is:1pl is:praes. ind. pass.
+SFX 10021	ō	or		.	is:1sg is:praes. ind. pass.
+SFX 10021	ō	̄ris		.	is:2sg is:praes. ind. pass.
+SFX 10021	ō	̄tur		.	is:3sg is:praes. ind. pass.
+SFX 10021	ō	̄mur		.	is:1pl is:praes. ind. pass.
 SFX 10021	ō	̄minī	.	is:2pl is:praes. ind. pass.
 SFX 10021	ō	ntur	.	is:3pl is:praes. ind. pass.
 # imperfectum indicativi activi
@@ -227,70 +227,70 @@ SFX 10221  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
 # imperatiiv praesens activ
 SFX 1032     Y       3
-SFX 1032	0	0	.	is:inf. praes. act.
-SFX 1032	re	0	.	is:imp. praes. act. is:2sg
+SFX 1032	0		0		.	is:inf. praes. act.
+SFX 1032	re	0		.	is:imp. praes. act. is:2sg
 SFX 1032	re	te	.	is:imp. praes. act. is:2pl
 
 ## III pöördkonna sõnad
 ## III pöördkonna o-lõpulised sõnad (mitt-o, mittere)
 ## praesensi tüvest moodustatakse
 # praesens indicativ activ
-SFX 1003	Y	11
-SFX 1003	0	0	.	is:1sg is:praes. ind. act.
-SFX 1003	ō	is	[^i]ō	is:2sg is:praes. ind. act.
-SFX 1003	iō	is	iō	is:2sg is:praes. ind. act.
-SFX 1003	ō	it	[^i]ō	is:3sg is:praes. ind. act.
-SFX 1003	iō	it	iō	is:3sg is:praes. ind. act.
-SFX 1003	ō	imus	[^i]ō	is:1pl is:praes. ind. act.
-SFX 1003	iō	imus	iō	is:1pl is:praes. ind. act.
-SFX 1003	ō	itis	[^i]ō	is:2pl is:praes. ind. act.
-SFX 1003	iō	itis	iō	is:2pl is:praes. ind. act.
-SFX 1003	ō	unt	[^i]ō	is:3pl is:praes. ind. act.
-SFX 1003	iō	iunt	iō	is:3pl is:praes. ind. act.
+SFX 1003	Y		11
+SFX 1003	0		0			.				is:1sg is:praes. ind. act.
+SFX 1003	ō		is		[^i]ō		is:2sg is:praes. ind. act.
+SFX 1003	iō	is		iō			is:2sg is:praes. ind. act.
+SFX 1003	ō		it		[^i]ō		is:3sg is:praes. ind. act.
+SFX 1003	iō	it		iō			is:3sg is:praes. ind. act.
+SFX 1003	ō		imus	[^i]ō		is:1pl is:praes. ind. act.
+SFX 1003	iō	imus	iō			is:1pl is:praes. ind. act.
+SFX 1003	ō		itis	[^i]ō		is:2pl is:praes. ind. act.
+SFX 1003	iō	itis	iō			is:2pl is:praes. ind. act.
+SFX 1003	ō		unt		[^i]ō		is:3pl is:praes. ind. act.
+SFX 1003	iō	iunt	iō			is:3pl is:praes. ind. act.
 # praesens indicativi passivi
-SFX 10031	Y	12
-SFX 10031	ō	or	.	is:1sg is:praes. ind. pass.
-SFX 10031	iō	ior	.	is:1sg is:praes. ind. pass.
-SFX 10031	ō	eris	.	is:2sg is:praes. ind. pass.
-SFX 10031	iō	eris	.	is:2sg is:praes. ind. pass.
-SFX 10031	ō	itur	.	is:3sg is:praes. ind. pass.
-SFX 10031	iō	itur	.	is:3sg is:praes. ind. pass.
-SFX 10031	ō	imur	.	is:1pl is:praes. ind. pass.
-SFX 10031	iō	imur	.	is:1pl is:praes. ind. pass.
-SFX 10031	ō	iminī	.	is:2pl is:praes. ind. pass.
-SFX 10031	iō	iminī	.	is:2pl is:praes. ind. pass.
-SFX 10031	ō	untur	.	is:3pl is:praes. ind. pass.
+SFX 10031	Y		12
+SFX 10031	ō		or			.	is:1sg is:praes. ind. pass.
+SFX 10031	iō	ior			.	is:1sg is:praes. ind. pass.
+SFX 10031	ō		eris		.	is:2sg is:praes. ind. pass.
+SFX 10031	iō	eris		.	is:2sg is:praes. ind. pass.
+SFX 10031	ō		itur		.	is:3sg is:praes. ind. pass.
+SFX 10031	iō	itur		.	is:3sg is:praes. ind. pass.
+SFX 10031	ō		imur		.	is:1pl is:praes. ind. pass.
+SFX 10031	iō	imur		.	is:1pl is:praes. ind. pass.
+SFX 10031	ō		iminī		.	is:2pl is:praes. ind. pass.
+SFX 10031	iō	iminī		.	is:2pl is:praes. ind. pass.
+SFX 10031	ō		untur		.	is:3pl is:praes. ind. pass.
 SFX 10031	iō	iuntur	.	is:3pl is:praes. ind. pass.
 # imperfectum indicativi activi
-SFX 10032 Y 12
-SFX 10032	ō	ēbam		.	is:1sg is:imperf. ind. pass.
+SFX 10032 Y 	12
+SFX 10032	ō		ēbam		.	is:1sg is:imperf. ind. pass.
 SFX 10032	iō	iēbam		.	is:1sg is:imperf. ind. pass.
-SFX 10032	ō	ēbās		.	is:2sg is:imperf. ind. pass.
+SFX 10032	ō		ēbās		.	is:2sg is:imperf. ind. pass.
 SFX 10032	iō	iēbās		.	is:2sg is:imperf. ind. pass.
-SFX 10032	ō	ēbat		.	is:3sg is:imperf. ind. pass.
+SFX 10032	ō		ēbat		.	is:3sg is:imperf. ind. pass.
 SFX 10032	iō	iēbat		.	is:3sg is:imperf. ind. pass.
-SFX 10032	ō	ēbāmus	.	is:1pl is:imperf. ind. pass.
+SFX 10032	ō		ēbāmus	.	is:1pl is:imperf. ind. pass.
 SFX 10032	iō	iēbāmus	.	is:1pl is:imperf. ind. pass.
-SFX 10032	ō	ēbātis	.	is:2pl is:imperf. ind. pass.
+SFX 10032	ō		ēbātis	.	is:2pl is:imperf. ind. pass.
 SFX 10032	iō	iēbātis	.	is:2pl is:imperf. ind. pass.
-SFX 10032	ō	ēbant		.	is:3pl is:imperf. ind. pass.
-SFX 10032	iō	iēbant		.	is:3pl is:imperf. ind. pass.
+SFX 10032	ō		ēbant		.	is:3pl is:imperf. ind. pass.
+SFX 10032	iō	iēbant	.	is:3pl is:imperf. ind. pass.
 # futurum I indicativi activi
-SFX 10033 Y 12
-SFX 10033 ō	am		.	is:1sg is:fut. I ind. act.
-SFX 10033 iō	iam		.	is:1sg is:fut. I ind. act.
-SFX 10033 ō	ēs		.	is:2sg is:fut. I ind. act.
-SFX 10033 iō	iēs		.	is:2sg is:fut. I ind. act.
-SFX 10033 ō	et		.	is:3sg is:fut. I ind. act.
-SFX 10033 iō	iet		.	is:3sg is:fut. I ind. act.
-SFX 10033 ō	ēmus	.	is:1pl is:fut. I ind. act.
-SFX 10033 iō	iēmus	.	is:1pl is:fut. I ind. act.
-SFX 10033 ō	ētis	.	is:2pl is:fut. I ind. act.
-SFX 10033 iō	iētis	.	is:2pl is:fut. I ind. act.
-SFX 10033 ō	ent		.	is:3pl is:fut. I ind. act.
+SFX 10033 Y 	12
+SFX 10033 ō		am			.	is:1sg is:fut. I ind. act.
+SFX 10033 iō	iam			.	is:1sg is:fut. I ind. act.
+SFX 10033 ō		ēs			.	is:2sg is:fut. I ind. act.
+SFX 10033 iō	iēs			.	is:2sg is:fut. I ind. act.
+SFX 10033 ō		et			.	is:3sg is:fut. I ind. act.
+SFX 10033 iō	iet			.	is:3sg is:fut. I ind. act.
+SFX 10033 ō		ēmus		.	is:1pl is:fut. I ind. act.
+SFX 10033 iō	iēmus		.	is:1pl is:fut. I ind. act.
+SFX 10033 ō		ētis		.	is:2pl is:fut. I ind. act.
+SFX 10033 iō	iētis		.	is:2pl is:fut. I ind. act.
+SFX 10033 ō		ent			.	is:3pl is:fut. I ind. act.
 SFX 10033 iō	ient		.	is:3pl is:fut. I ind. act.
 # imperativus futuri
-SFX 10034 Y 5
+SFX 10034 Y 	5
 SFX 10034 ō		itō			.	is:2sg is:imp. fut.
 SFX 10034 ō		itō			.	is:3sg is:imp. fut.
 SFX 10034 ō		itōte		.	is:2pl is:imp. fut.
@@ -344,26 +344,26 @@ SFX 10231  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
 # imperatiiv praesens activ
 SFX 1033     Y       3
-SFX 1033	0	0	.	is:inf. praes. act.
-SFX 1033	ere	e	.	is:imp. praes. act. is:2sg
+SFX 1033	0		0		.	is:inf. praes. act.
+SFX 1033	ere	e		.	is:imp. praes. act. is:2sg
 SFX 1033	ere	ite	.	is:imp. praes. act. is:2pl
 
 ## IV pöördkond (servio, servīre)
 ## praesensi tüvest moodustatakse
 # praesens indicativ activ
 SFX 1004 	Y	6
-SFX 1004 	0	0	.	is:1sg is:praes. ind. act.
-SFX 1004	ō	̄s	.	is:2sg is:praes. ind. act.
-SFX 1004	ō	t	.	is:3sg is:praes. ind. act.
+SFX 1004 	0	0		.	is:1sg is:praes. ind. act.
+SFX 1004	ō	̄s		.	is:2sg is:praes. ind. act.
+SFX 1004	ō	t		.	is:3sg is:praes. ind. act.
 SFX 1004	ō	̄mus	.	is:1pl is:praes. ind. act.
 SFX 1004	ō	̄tis	.	is:2pl is:praes. ind. act.
 SFX 1004	ō	unt	.	is:3pl is:praes. ind. act.
 # praesens indicativi passivi
 SFX 10041	Y	6
-SFX 10041	ō	or	.	is:1sg is:praes. ind. pass.
-SFX 10041	ō	̄ris	.	is:2sg is:praes. ind. pass.
-SFX 10041	ō	̄tur	.	is:3sg is:praes. ind. pass.
-SFX 10041	ō	̄mur	.	is:1pl is:praes. ind. pass.
+SFX 10041	ō	or		.	is:1sg is:praes. ind. pass.
+SFX 10041	ō	̄ris		.	is:2sg is:praes. ind. pass.
+SFX 10041	ō	̄tur		.	is:3sg is:praes. ind. pass.
+SFX 10041	ō	̄mur		.	is:1pl is:praes. ind. pass.
 SFX 10041	ō	̄minī	.	is:2pl is:praes. ind. pass.
 SFX 10041	ō	untur	.	is:3pl is:praes. ind. pass.
 # imperfectum indicativi activi
