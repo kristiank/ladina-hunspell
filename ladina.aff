@@ -81,6 +81,12 @@ SFX 10013 ō	ābit		.	is:3sg is:fut. I ind. act.
 SFX 10013 ō	ābimus	.	is:1pl is:fut. I ind. act.
 SFX 10013 ō	ābitis	.	is:2pl is:fut. I ind. act.
 SFX 10013 ō	ābunt		.	is:3pl is:fut. I ind. act.
+# imperativus futuri
+SFX 10014 Y 4
+SFX 10014 ō	ātō			.	is:2sg is:imp. fut.
+SFX 10014 ō	ātō			.	is:3sg is:imp. fut.
+SFX 10014 ō	ātōte		.	is:2pl is:imp. fut.
+SFX 10014 ō	āntō		.	is:3pl is:imp. fut.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1011  Y 6
@@ -167,6 +173,12 @@ SFX 10023 eō	ēbit		.	is:3sg is:fut. I ind. act.
 SFX 10023 eō	ēbimus	.	is:1pl is:fut. I ind. act.
 SFX 10023 eō	ēbitis	.	is:2pl is:fut. I ind. act.
 SFX 10023 eō	ēbunt		.	is:3pl is:fut. I ind. act.
+# imperativus futuri
+SFX 10024 Y 4
+SFX 10024 eō	ētō			.	is:2sg is:imp. fut.
+SFX 10024 eō	ētō			.	is:3sg is:imp. fut.
+SFX 10024 eō	ētōte		.	is:2pl is:imp. fut.
+SFX 10024 eō	ēntō		.	is:3pl is:imp. fut.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1012  Y 6
@@ -277,6 +289,13 @@ SFX 10033 ō	ētis	.	is:2pl is:fut. I ind. act.
 SFX 10033 iō	iētis	.	is:2pl is:fut. I ind. act.
 SFX 10033 ō	ent		.	is:3pl is:fut. I ind. act.
 SFX 10033 iō	ient		.	is:3pl is:fut. I ind. act.
+# imperativus futuri
+SFX 10034 Y 5
+SFX 10034 ō		itō			.	is:2sg is:imp. fut.
+SFX 10034 ō		itō			.	is:3sg is:imp. fut.
+SFX 10034 ō		itōte		.	is:2pl is:imp. fut.
+SFX 10034 ō		untō		.	is:3pl is:imp. fut.
+SFX 10034 iō	iuntō		.	is:3pl is:imp. fut.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1013  Y 6
@@ -363,6 +382,12 @@ SFX 10043 ō	et		.	is:3sg is:fut. I ind. act.
 SFX 10043 ō	ēmus	.	is:1pl is:fut. I ind. act.
 SFX 10043 ō	ētis	.	is:2pl is:fut. I ind. act.
 SFX 10043 ō	ent		.	is:3pl is:fut. I ind. act.
+# imperativus futuri
+SFX 10044 Y 4
+SFX 10044 iō	ītō			.	is:2sg is:imp. fut.
+SFX 10044 iō	ītō			.	is:3sg is:imp. fut.
+SFX 10044 iō	ītōte		.	is:2pl is:imp. fut.
+SFX 10044 iō	iuntō		.	is:3pl is:imp. fut.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1014  Y 6
