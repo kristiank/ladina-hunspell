@@ -82,11 +82,11 @@ SFX 10013 ō	ābimus	.	is:1pl is:fut. I ind. act.
 SFX 10013 ō	ābitis	.	is:2pl is:fut. I ind. act.
 SFX 10013 ō	ābunt		.	is:3pl is:fut. I ind. act.
 ## perfecti tüvest moodustatakse
-#perfectum indicativi activi
-SFX 1011     Y       6
-SFX 1011	0	0	.	is:1sg is:perf. ind. act.
+# perfectum indicativi activi
+SFX 1011  Y 6
+SFX 1011	0	0			.	is:1sg is:perf. ind. act.
 SFX 1011	ī	istī	.	is:2sg is:perf. ind. act.
-SFX 1011	ī	it	.	is:3sg is:perf. ind. act.
+SFX 1011	ī	it		.	is:3sg is:perf. ind. act.
 SFX 1011	ī	imus	.	is:1pl is:perf. ind. act.
 SFX 1011	ī	istis	.	is:2pl is:perf. ind. act.
 SFX 1011	ī	ērunt	.	is:3pl is:perf. ind. act.
@@ -160,9 +160,14 @@ SFX 10023 eō	ēbimus	.	is:1pl is:fut. I ind. act.
 SFX 10023 eō	ēbitis	.	is:2pl is:fut. I ind. act.
 SFX 10023 eō	ēbunt		.	is:3pl is:fut. I ind. act.
 ## perfecti tüvest moodustatakse
-# perfectum indicativi activi langeb kokku 1011 antuga
-SFX 1012   Y   1
-SFX 1012   0   0/1,1011  .
+# perfectum indicativi activi
+SFX 1012  Y 6
+SFX 1012	0	0			.	is:1sg is:perf. ind. act.
+SFX 1012	ī	istī	.	is:2sg is:perf. ind. act.
+SFX 1012	ī	it		.	is:3sg is:perf. ind. act.
+SFX 1012	ī	imus	.	is:1pl is:perf. ind. act.
+SFX 1012	ī	istis	.	is:2pl is:perf. ind. act.
+SFX 1012	ī	ērunt	.	is:3pl is:perf. ind. act.
 # plusquamperfectum indicativi activi
 SFX 10121 Y 6
 SFX 10121 ī	eram		.	is:1sg is:plusquamperf. ind. act.
@@ -257,9 +262,14 @@ SFX 10033 iō	iētis	.	is:2pl is:fut. I ind. act.
 SFX 10033 ō	ent		.	is:3pl is:fut. I ind. act.
 SFX 10033 iō	ient		.	is:3pl is:fut. I ind. act.
 ## perfecti tüvest moodustatakse
-# perfectum indicativi activi langeb kokku 1011 antuga
-SFX 1013   Y   1
-SFX 1013   0   0/1,1011  .
+# perfectum indicativi activi
+SFX 1013  Y 6
+SFX 1013	0	0			.	is:1sg is:perf. ind. act.
+SFX 1013	ī	istī	.	is:2sg is:perf. ind. act.
+SFX 1013	ī	it		.	is:3sg is:perf. ind. act.
+SFX 1013	ī	imus	.	is:1pl is:perf. ind. act.
+SFX 1013	ī	istis	.	is:2pl is:perf. ind. act.
+SFX 1013	ī	ērunt	.	is:3pl is:perf. ind. act.
 # plusquamperfectum indicativi activi
 SFX 10131 Y 6
 SFX 10131 ī	eram		.	is:1sg is:plusquamperf. ind. act.
@@ -330,9 +340,14 @@ SFX 10043 ō	ēmus	.	is:1pl is:fut. I ind. act.
 SFX 10043 ō	ētis	.	is:2pl is:fut. I ind. act.
 SFX 10043 ō	ent		.	is:3pl is:fut. I ind. act.
 ## perfecti tüvest moodustatakse
-# perfectum indicativi activi langeb kokku 1011 antuga
-SFX 1014   Y   1
-SFX 1014   0   0/1,1011  .
+# perfectum indicativi activi
+SFX 1014  Y 6
+SFX 1014	0	0			.	is:1sg is:perf. ind. act.
+SFX 1014	ī	istī	.	is:2sg is:perf. ind. act.
+SFX 1014	ī	it		.	is:3sg is:perf. ind. act.
+SFX 1014	ī	imus	.	is:1pl is:perf. ind. act.
+SFX 1014	ī	istis	.	is:2pl is:perf. ind. act.
+SFX 1014	ī	ērunt	.	is:3pl is:perf. ind. act.
 # plusquamperfectum indicativi activi
 SFX 10141 Y 6
 SFX 10141 ī	eram		.	is:1sg is:plusquamperf. ind. act.
