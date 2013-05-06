@@ -90,6 +90,14 @@ SFX 1011	ī	it	.	is:3sg is:perf. ind. act.
 SFX 1011	ī	imus	.	is:1pl is:perf. ind. act.
 SFX 1011	ī	istis	.	is:2pl is:perf. ind. act.
 SFX 1011	ī	ērunt	.	is:3pl is:perf. ind. act.
+# plusquamperfectum indicativi activi
+SFX 10111 Y 6
+SFX 10111 ī	eram		.	is:1sg is:plusquamperf. ind. act.
+SFX 10111 ī	erās		.	is:2sg is:plusquamperf. ind. act.
+SFX 10111 ī	erat		.	is:3sg is:plusquamperf. ind. act.
+SFX 10111 ī	erāmus	.	is:1pl is:plusquamperf. ind. act.
+SFX 10111 ī	erātis	.	is:2pl is:plusquamperf. ind. act.
+SFX 10111 ī	erant		.	is:3pl is:plusquamperf. ind. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -147,6 +155,14 @@ SFX 10023 eō	ēbunt		.	is:3pl is:fut. I ind. act.
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1012   Y   1
 SFX 1012   0   0/1,1011  .
+# plusquamperfectum indicativi activi
+SFX 10121 Y 6
+SFX 10121 ī	eram		.	is:1sg is:plusquamperf. ind. act.
+SFX 10121 ī	erās		.	is:2sg is:plusquamperf. ind. act.
+SFX 10121 ī	erat		.	is:3sg is:plusquamperf. ind. act.
+SFX 10121 ī	erāmus	.	is:1pl is:plusquamperf. ind. act.
+SFX 10121 ī	erātis	.	is:2pl is:plusquamperf. ind. act.
+SFX 10121 ī	erant		.	is:3pl is:plusquamperf. ind. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -228,6 +244,14 @@ SFX 10033 iō	ient		.	is:3pl is:fut. I ind. act.
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1013   Y   1
 SFX 1013   0   0/1,1011  .
+# plusquamperfectum indicativi activi
+SFX 10131 Y 6
+SFX 10131 ī	eram		.	is:1sg is:plusquamperf. ind. act.
+SFX 10131 ī	erās		.	is:2sg is:plusquamperf. ind. act.
+SFX 10131 ī	erat		.	is:3sg is:plusquamperf. ind. act.
+SFX 10131 ī	erāmus	.	is:1pl is:plusquamperf. ind. act.
+SFX 10131 ī	erātis	.	is:2pl is:plusquamperf. ind. act.
+SFX 10131 ī	erant		.	is:3pl is:plusquamperf. ind. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -285,6 +309,14 @@ SFX 10043 ō	ent		.	is:3pl is:fut. I ind. act.
 # perfectum indicativi activi langeb kokku 1011 antuga
 SFX 1014   Y   1
 SFX 1014   0   0/1,1011  .
+# plusquamperfectum indicativi activi
+SFX 10141 Y 6
+SFX 10141 ī	eram		.	is:1sg is:plusquamperf. ind. act.
+SFX 10141 ī	erās		.	is:2sg is:plusquamperf. ind. act.
+SFX 10141 ī	erat		.	is:3sg is:plusquamperf. ind. act.
+SFX 10141 ī	erāmus	.	is:1pl is:plusquamperf. ind. act.
+SFX 10141 ī	erātis	.	is:2pl is:plusquamperf. ind. act.
+SFX 10141 ī	erant		.	is:3pl is:plusquamperf. ind. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
