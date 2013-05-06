@@ -98,6 +98,14 @@ SFX 10111 ī	erat		.	is:3sg is:plusquamperf. ind. act.
 SFX 10111 ī	erāmus	.	is:1pl is:plusquamperf. ind. act.
 SFX 10111 ī	erātis	.	is:2pl is:plusquamperf. ind. act.
 SFX 10111 ī	erant		.	is:3pl is:plusquamperf. ind. act.
+# futurum II indicativi activi
+SFX 10112 Y 6
+SFX 10112 ī	erō			.	is:1sg is:fut. II ind. act.
+SFX 10112 ī	eris		.	is:2sg is:fut. II ind. act.
+SFX 10112 ī	erit		.	is:3sg is:fut. II ind. act.
+SFX 10112 ī	erimus	.	is:1pl is:fut. II ind. act.
+SFX 10112 ī	eritis	.	is:2pl is:fut. II ind. act.
+SFX 10112 ī	erint		.	is:3pl is:fut. II ind. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -163,6 +171,14 @@ SFX 10121 ī	erat		.	is:3sg is:plusquamperf. ind. act.
 SFX 10121 ī	erāmus	.	is:1pl is:plusquamperf. ind. act.
 SFX 10121 ī	erātis	.	is:2pl is:plusquamperf. ind. act.
 SFX 10121 ī	erant		.	is:3pl is:plusquamperf. ind. act.
+# futurum II indicativi activi
+SFX 10122 Y 6
+SFX 10122 ī	erō			.	is:1sg is:fut. II ind. act.
+SFX 10122 ī	eris		.	is:2sg is:fut. II ind. act.
+SFX 10122 ī	erit		.	is:3sg is:fut. II ind. act.
+SFX 10122 ī	erimus	.	is:1pl is:fut. II ind. act.
+SFX 10122 ī	eritis	.	is:2pl is:fut. II ind. act.
+SFX 10122 ī	erint		.	is:3pl is:fut. II ind. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -252,6 +268,14 @@ SFX 10131 ī	erat		.	is:3sg is:plusquamperf. ind. act.
 SFX 10131 ī	erāmus	.	is:1pl is:plusquamperf. ind. act.
 SFX 10131 ī	erātis	.	is:2pl is:plusquamperf. ind. act.
 SFX 10131 ī	erant		.	is:3pl is:plusquamperf. ind. act.
+# futurum II indicativi activi
+SFX 10132 Y 6
+SFX 10132 ī	erō			.	is:1sg is:fut. II ind. act.
+SFX 10132 ī	eris		.	is:2sg is:fut. II ind. act.
+SFX 10132 ī	erit		.	is:3sg is:fut. II ind. act.
+SFX 10132 ī	erimus	.	is:1pl is:fut. II ind. act.
+SFX 10132 ī	eritis	.	is:2pl is:fut. II ind. act.
+SFX 10132 ī	erint		.	is:3pl is:fut. II ind. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -317,6 +341,14 @@ SFX 10141 ī	erat		.	is:3sg is:plusquamperf. ind. act.
 SFX 10141 ī	erāmus	.	is:1pl is:plusquamperf. ind. act.
 SFX 10141 ī	erātis	.	is:2pl is:plusquamperf. ind. act.
 SFX 10141 ī	erant		.	is:3pl is:plusquamperf. ind. act.
+# futurum II indicativi activi
+SFX 10142 Y 6
+SFX 10142 ī	erō			.	is:1sg is:fut. II ind. act.
+SFX 10142 ī	eris		.	is:2sg is:fut. II ind. act.
+SFX 10142 ī	erit		.	is:3sg is:fut. II ind. act.
+SFX 10142 ī	erimus	.	is:1pl is:fut. II ind. act.
+SFX 10142 ī	eritis	.	is:2pl is:fut. II ind. act.
+SFX 10142 ī	erint		.	is:3pl is:fut. II ind. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
