@@ -118,6 +118,14 @@ SFX 1021  um  a/1,10002   .  is:part. perf. pass. is:fem
 SFX 1021  um  0/1,10003   .  is:part. perf. pass. is:fem
 SFX 1021  um  um/1,10008  .  is:part. perf. pass. is:neutr
 SFX 1021  um  0/1,10009   .  is:part. perf. pass. is:neutr
+#   participium futuri passivi
+SFX 10211  Y   6
+SFX 10211  um  ūrus/1,10004  .  is:part. fut. pass. is:masc
+SFX 10211  um  ūr/1,10005    .  is:part. fut. pass. is:masc
+SFX 10211  um  ūra/1,10002   .  is:part. fut. pass. is:fem
+SFX 10211  um  ūr/1,10003    .  is:part. fut. pass. is:fem
+SFX 10211  um  ūrum/1,10008  .  is:part. fut. pass. is:neutr
+SFX 10211  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
 # imperatiiv praesens activ
 SFX 1031     Y       3
@@ -196,6 +204,14 @@ SFX 1022  um  a/1,10002   .  is:part. perf. pass. is:fem
 SFX 1022  um  0/1,10003   .  is:part. perf. pass. is:fem
 SFX 1022  um  um/1,10008  .  is:part. perf. pass. is:neutr
 SFX 1022  um  0/1,10009   .  is:part. perf. pass. is:neutr
+#   participium futuri passivi
+SFX 10221  Y   6
+SFX 10221  um  ūrus/1,10004  .  is:part. fut. pass. is:masc
+SFX 10221  um  ūr/1,10005    .  is:part. fut. pass. is:masc
+SFX 10221  um  ūra/1,10002   .  is:part. fut. pass. is:fem
+SFX 10221  um  ūr/1,10003    .  is:part. fut. pass. is:fem
+SFX 10221  um  ūrum/1,10008  .  is:part. fut. pass. is:neutr
+SFX 10221  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
 # imperatiiv praesens activ
 SFX 1032     Y       3
@@ -298,6 +314,14 @@ SFX 1023  um  a/1,10002   .  is:part. perf. pass. is:fem
 SFX 1023  um  0/1,10003   .  is:part. perf. pass. is:fem
 SFX 1023  um  um/1,10008  .  is:part. perf. pass. is:neutr
 SFX 1023  um  0/1,10009   .  is:part. perf. pass. is:neutr
+#   participium futuri passivi
+SFX 10231  Y   6
+SFX 10231  um  ūrus/1,10004  .  is:part. fut. pass. is:masc
+SFX 10231  um  ūr/1,10005    .  is:part. fut. pass. is:masc
+SFX 10231  um  ūra/1,10002   .  is:part. fut. pass. is:fem
+SFX 10231  um  ūr/1,10003    .  is:part. fut. pass. is:fem
+SFX 10231  um  ūrum/1,10008  .  is:part. fut. pass. is:neutr
+SFX 10231  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
 # imperatiiv praesens activ
 SFX 1033     Y       3
@@ -376,6 +400,14 @@ SFX 1024  um  a/1,10002   .  is:part. perf. pass. is:fem
 SFX 1024  um  0/1,10003   .  is:part. perf. pass. is:fem
 SFX 1024  um  um/1,10008  .  is:part. perf. pass. is:neutr
 SFX 1024  um  0/1,10009   .  is:part. perf. pass. is:neutr
+#   participium futuri passivi
+SFX 10241  Y   6
+SFX 10241  um  ūrus/1,10004  .  is:part. fut. pass. is:masc
+SFX 10241  um  ūr/1,10005    .  is:part. fut. pass. is:masc
+SFX 10241  um  ūra/1,10002   .  is:part. fut. pass. is:fem
+SFX 10241  um  ūr/1,10003    .  is:part. fut. pass. is:fem
+SFX 10241  um  ūrum/1,10008  .  is:part. fut. pass. is:neutr
+SFX 10241  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
 # imperatiiv praesens activ
 SFX 1034  Y   3
