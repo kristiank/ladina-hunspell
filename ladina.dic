@@ -75,6 +75,7 @@ aequus/1,11001 po:adj
 aetās/1,11311 po:subst is:fem al:aetātis st:aetās
 aetātis/1,11301 po:subst is:fem al:aetās st:aetās
 aevum/1,10008 po:subst is:neutr
+affectus/1,11400 po:subst is:masc
 ager/1,10006 po:subst is:masc
 agere/1,1033 po:verb st:agere
 āctum/1,1023,10231 po:verb st:agere
@@ -102,6 +103,7 @@ amātum/1,1021,10211 po:verb st:amāre
 amoenus/1,11001 po:adj
 amor/1,11313 po:subst is:masc al:amōris st:amor
 amōris/1,11303 po:subst is:masc al:amor st:amor
+angaria/10001 po:subst is:fem
 anima/1,10002 po:subst is:fem
 animal/1,11306 po:subst is:neutr
 animus/1,10004 po:subst is:masc
@@ -169,6 +171,7 @@ comes/1,11311 po:subst is:masc is:fem al:comitis st:comes
 comitis/1,11301 po:subst is:masc is:fem al:comes st:comes
 cor/1,11312 po:subst is:neutr al:coris st:cor
 coris/1,11302 po:subst is:neutr al:cor st:cor
+cornū/1,11400 po:subst is:neutr
 corōna/1,10002 po:subst is:fem
 corpus/1,11312 po:subst is:neutr al:corporis st:corpus
 corporis/1,11302 po:subst is:neutr al:corpus st:corpus
@@ -193,6 +196,7 @@ debeō/1,1002,10021,10022,10023,10024 po:verb st:debēre
 debēre/1,1032 po:verb st:debēre
 debuī/1,1012,10121,10122 po:verb st:debēre
 dedī/1,1011,10111,10112 po:verb st:dare
+dēfectus/1,11400 po:subst is:masc
 dens/1,11313 po:subst is:masc al:dentis: st:dens
 dentis/1,11303 po:subst is:masc al:dens: st:dens
 deus/1,10004 po:subst is:masc
@@ -205,6 +209,7 @@ discō/1,1003,10031,10032,10033,10034 po:verb st:discere
 didicī/1,1013,10131,10132 po:verb st:discere
 discere/1,1033 po:verb st:discere
 discipulus/1,10004 po:subst is:masc
+dissolūilis/1,11006 po:adj
 dīves po:adj
 dīvīnus/1,11001 al:dīvus po:adj
 dīvus/1,11001 po:adj
@@ -225,6 +230,7 @@ dormiō/1,1004,10041,10042,10043,10044 po:verb st:dormīre
 dormīvī/1,1014,10141,10142 po:verb st:dormīre
 dormīre/1,1034 po:verb st:dormīre
 dormītum/1,1024,10241 po:verb st:dormīre
+dorsum/1,10008 po:subst is:neutr
 dubius/1,11001 po:adj
 dūcere/1,1033 po:verb st:dūcere
 dūcō/1,1003,10031,10032,10033,10034 po:verb st:dūcere
@@ -318,6 +324,7 @@ hostis/1,11313 po:subst is:masc al:hostis st:hostis
 hūmānus/1,11001 po:adj
 humilis
 ignis/1,11313,11303 po:subst is:masc st:ignis
+immānis/1,11006 po:adj
 imperātor/1,11311 po:subst is:masc al:imperātoris st:imperātor
 imperātoris/1,11301 po:subst is:masc al:imperātor st:imperātor
 imperō/1,1001,10011,10012,10013,10014 po:verb st:imperāre
@@ -410,6 +417,7 @@ mēns
 mē po:pron is:abl is:1sg
 mē po:pron is:acc is:1sg
 mihī po:pron is:dat is:1sg
+michī/3 po:pron is:dat is:1sg al:mihī
 mīles
 minister/1,10006 po:subst is:masc
 ministra/1,10002 po:subst is:fem
@@ -440,6 +448,8 @@ nauta/1,10002 po:subst is:masc
 nāvis
 necessārius/1,11001 po:adj
 niger/1,11002,11102 po:adj
+nīteō/1,1002,10021,10022,10023,10024 po:verb st:nītēre
+nītēre/1,1032 po:verb st:nītēre
 nōbīs po:pron is:abl is:1pl
 nōbīs po:pron is:dat is:1pl
 nōmen/1,11312 po:subst is:neutr al:nōminis st:nōmen
@@ -457,6 +467,12 @@ novus/1,11001 po:adj
 nox
 nubes
 numerus/1,10004 po:subst is:masc
+nunc po:adverb
+obumbrātus/1,11001 po:adj
+obumbrāre/1,1031 po:verb st:obumbrāre
+obumbrātum/1,1021,10211 po:verb st:obumbrāre
+obumbrāvī/1,1011,10111,10112 st:obumbrāre
+obumbrō/1,1001,10011,10012,10013,10014 st:obumbrāre
 oculus/1,10004 po:subst is:masc
 officium/1,10008 po:subst is:neutr
 omnis
@@ -506,6 +522,7 @@ pons/1,11311 po:subst is:masc al:pontis st:pons
 pontis/1,11301 po:subst is:masc al:pons st:pons
 populus/1,10004 po:subst is:masc
 porta/1,10002 po:subst is:fem
+portus/1,11400 po:subst is:masc
 possum po:verb is:1sg is:praes. ind. act.
 possumus po:verb is:1pl is:praes. ind. act.
 possunt po:verb is:3pl is:praes. ind. act.
@@ -525,6 +542,7 @@ puella/1,10002 po:subst is:fem
 puer/1,10007 po:subst is:masc
 pūgna/1,10002 po:subst is:fem
 pulcher/1,11002,11102 po:adj
+pulsus/1,11400 po:subst is:masc
 pūniō/1,1004,10041,10042,10043,10044 po:verb st:pūnīre
 pūnītum/1,1024,10241 po:verb st:pūnīre
 pūnīvī/1,1014,10141,10142 po:verb st:pūnīre
@@ -659,7 +677,11 @@ uva/1,10002 po:subst is:fem
 vallēs
 vānus/1,11001 po:adj
 varius/1,11001 po:adj
+variābilis/1,11006 po:adj
 vās
+vēlātus/1,11001 po:adj
+velut po:adverb
+velutī po:adverb
 veniō/1,1004,10041,10042,10043,10044 po:verb st:venīre
 vēnī/1,1014,10141,10142 po:verb st:venīre
 venīre/1,1034 po:verb st:venīre
@@ -702,6 +724,7 @@ vocāre/1,1031 po:verb st:vocāre
 vocātum/1,1021,10211 po:verb st:vocāre
 vocāvī/1,1011,10111,10112 po:verb st:vocāre
 vocō/1,1001,10011,10012,10013,10014 po:verb st:vocāre
+volūbilis/1,11006 po:adj
 vōs po:pron is:acc is:2pl
 vōs po:pron is:nom is:2pl
 vōx

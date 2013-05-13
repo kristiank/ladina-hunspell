@@ -656,7 +656,6 @@ SFX 11005	0    	ia		.	is:neutr is:voc is:plur
 
 # kahelõpulised adjektiivid, tüüpsõna gravis, grave
 # sõnastikus on antud terve mees/naissoo nominatiivi tüvi
-# todo: genitiiv peab ju olema grave???
 SFX 11006 Y       36
 SFX 11006	0    		0			.	is:masc is:nom is:sing
 SFX 11006	0    		0			.	is:fem is:nom is:sing
@@ -867,3 +866,32 @@ SFX 11307	0	ibus	.	is:dat is:pl
 SFX 11307	0	ia	.	is:acc is:pl
 SFX 11307	0	ibus	.	is:abl is:pl
 SFX 11307	0	ia	.	is:voc is:pl
+
+###### declinatio IV
+# 3. käändkond on -ūs lõppuga genitiivis, aga kuna sõnatüvi on sama,
+# kasutatakse praegu sõnastikus nominatiivis vormi
+SFX 11400 Y   24
+SFX 11400 us	us		.	is:nom is:sg
+SFX 11400 us	ūs		.	is:gen is:sg
+SFX 11400 us	uī		.	is:dat is:sg
+SFX 11400 us	um		.	is:acc is:sg
+SFX 11400 us	ū			.	is:abl is:sg
+SFX 11400 us	us		.	is:voc is:sg
+SFX 11400 us	ūs		. is:nom is:pl
+SFX 11400 us	uum		. is:gen is:pl
+SFX 11400 us	ibus	. is:dat is:pl
+SFX 11400 us	ūs		. is:acc is:pl
+SFX 11400 us	ibus	. is:abl is:pl
+SFX 11400 us	ūs		. is:voc is:pl
+SFX 11400 ū		ū			.	is:nom is:sg
+SFX 11400 ū		ūs		.	is:gen is:sg
+SFX 11400 ū		ū			.	is:dat is:sg
+SFX 11400 ū		ū			.	is:acc is:sg
+SFX 11400 ū		ū			.	is:abl is:sg
+SFX 11400 ū		ū			.	is:voc is:sg
+SFX 11400 ū		ua		. is:nom is:pl
+SFX 11400 ū		uum		. is:gen is:pl
+SFX 11400 ū		ibus	. is:dat is:pl
+SFX 11400 ū		ua		. is:acc is:pl
+SFX 11400 ū		ibus	. is:abl is:pl
+SFX 11400 ū		ua		. is:voc is:pl
