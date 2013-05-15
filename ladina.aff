@@ -49,7 +49,7 @@ PFX 10 0 pos s sp:potis
 
 # eesliide de- (näitab eraldumist, liikumist ülalt alla)
 PFX 11 Y 1
-PFX 11 0 de sp:de-prefix
+PFX 11 0 de . sp:de-prefix
 
 
 ## I pöördkonna sõnad (vocō, vocāre)
@@ -873,7 +873,7 @@ SFX 11307	0	ibus	.	is:abl is:pl
 SFX 11307	0	ia	.	is:voc is:pl
 
 ###### declinatio IV
-# 3. käändkond on -ūs lõppuga genitiivis, aga kuna sõnatüvi on sama,
+# 4. käändkond on -ūs lõppuga genitiivis, aga kuna sõnatüvi on sama,
 # kasutatakse praegu sõnastikus nominatiivis vormi
 SFX 11400 Y   24
 SFX 11400 us	us		.	is:nom is:sg
