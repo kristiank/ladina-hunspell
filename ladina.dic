@@ -124,11 +124,12 @@ audīvī/1,1014,10141,10142 po:verb st:audīre
 audīre/1,1034 po:verb st:audīre
 auris/1,11303 po:subst is:fem st:auris al:auris
 auris/1,11313 po:subst is:fem st:auris al:auris
+aut po:conj
 avis/1,11313,11303 po:subst is:fem st:auris
 beātus/1,11001 po:adj
 bellum/1,10008 po:subst is:neutr
 bonus/1,11001 po:adj
-brevis
+brevis/1,11006 po:adj
 cadō/1,1003,10031,10032,10033,10034 po:verb st:cadere
 cecidī/1,1013,10131,10132 po:verb st:cadere
 cāsum/1,1023,10231 po:verb st:cadere
@@ -367,6 +368,9 @@ laborātum/1,1021,10211 po:verb st:laborāre
 laborāvī/1,1011,10111,10112 po:verb st:laborāre
 laborō/1,1001,10011,10012,10013,10014 po:verb st:laborāre
 laetus/1,11001 po:adj
+lateō/1,1002,10021,10022,10023,10024 st:latēre
+latuī/1,1012,10121,10122 st:latēre
+latēre/1,1032 po:verb st:latēre
 lātus/1,11001 po:adj
 laudāre/1,1031 po:verb st:laudāre
 laudātum/1,1021,10211 po:verb st:laudāre
@@ -396,6 +400,7 @@ locus/1,10004 po:subst is:masc
 longus/1,11001 po:adj
 luber/1,11003 po:foopulcher
 lūdus/1,10004 po:subst is:masc
+lūna/1,10002 po:subst is:fem
 lupus/1,10004 po:subst is:masc
 lūx
 magister/1,10006 po:subst is:masc
@@ -465,6 +470,7 @@ nostrum st:nostrī
 nōtus/1,11001 po:adj
 novus/1,11001 po:adj
 nox
+nūdus/1,11001 po:adj
 nubes
 numerus/1,10004 po:subst is:masc
 nunc po:adverb
@@ -511,6 +517,10 @@ pēs/1,11311 po:subst is:masc al:pēdis st:pēs
 pēdis/1,11301 po:subst is:masc al:pēs st:pēs
 piger/1,11002,11102 po:adj
 piscis
+plangō/1,1003,10031,10032,10033,10034 po:verb st:plangō
+planxī/1,1013,10131,10132 po:verb st:plangō
+planctum/1,1023,10231 po:verb st:plangō
+planctere/1,1033 po:verb st:plangō
 plēbs/1,11313 po:subst is:masc is:fem al:plēbis st:plēbs
 plēbis/1,11303 po:subst is:masc is:fem al:plēbs st:plēbs
 poena/1,10002 po:subst is:fem
@@ -587,6 +597,8 @@ sanguis
 sānō/1,1001,10011,10012,10013,10014 po:verb st:sānāre
 sapiēns po:adj
 Sardinia/1,10002 po:subst is:fem
+scelus/1,11313 po:subst is:neutr al:sceleris st:scelus
+sceleris/1,11302 po:subst is:neutr al:scelus st:scelus
 schola/1,10002 po:subst is:fem
 sciō/1,1004,10041,10042,10043,10044 po:verb st:scīre
 scītum/1,1024,10241 po:verb st:scīre
@@ -602,6 +614,7 @@ sessum/1,1022,10221 po:verb st:sedēre
 sēdēs
 sēdī/1,1012,10121,10122 po:verb st:sedēre
 sēmen
+semper po:adverb
 sententia/1,10002 po:subst is:fem
 sentiō/1,1004,10041,10042,10043,10044 po:verb st:sentīre
 sēnsum/1,1024,10241 po:verb st:sentīre
@@ -636,6 +649,7 @@ spectāvī/1,1011,10111,10112 po:verb st:spectāre
 spectō/1,1001,10011,10012,10013,10014 po:verb st:spectāre
 splendidus/1,11001 po:adj
 stare
+status/1,11400 po:adj is:masc
 stēlla/1,10002 po:subst is:fem
 studeō/1,1002,10021,10022,10023,10024 po:verb st:studēre
 studēre/1,1032 po:verb st:studēre
