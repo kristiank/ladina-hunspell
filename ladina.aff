@@ -900,3 +900,23 @@ SFX 11400 ū		ibus	. is:dat is:pl
 SFX 11400 ū		ua		. is:acc is:pl
 SFX 11400 ū		ibus	. is:abl is:pl
 SFX 11400 ū		ua		. is:voc is:pl
+
+
+###### declinatio V
+# 5. käändkond on -ēi lõppuga genitiivis, aga kuna sõnatüvi on sama,
+# genitiivi ja daativi puhul on -e- pikk siis, kui sellele eelneb vokaal
+SFX 11500 Y 14
+SFX 11500 0		0			.					is:nom is:sg
+SFX 11500 ēs	ēī		[aoeuiy]	is:gen is:sg
+SFX 11500 ēs	eī		[^aoeuiy]	is:gen is:sg
+SFX 11500 ēs	ēī		[aoeuiy]	is:dat is:sg
+SFX 11500 ēs	eī		[^aoeuiy]	is:dat is:sg
+SFX 11500 ēs	em		.					is:acc is:sg
+SFX 11500 ēs	ē			.					is:abl is:sg
+SFX 11500 0		0			.					is:voc is:sg
+SFX 11500 0		0			. 				is:nom is:pl
+SFX 11500 ēs	ērum	. 				is:gen is:pl
+SFX 11500 ēs	ēbus	. 				is:dat is:pl
+SFX 11500 0		0			. 				is:acc is:pl
+SFX 11500 ēs	ēbus	. 				is:abl is:pl
+SFX 11500 0		0			. 				is:voc is:pl
