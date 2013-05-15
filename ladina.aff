@@ -116,20 +116,18 @@ SFX 10112 ī	erint		.	is:3pl is:fut. II ind. act.
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
 #   participium perfecti passivi
-SFX 1021  Y   7
+SFX 1021  Y   6
 SFX 1021  0   0/1,1020    . 
 SFX 1021  um  us/1,10004  .  is:part. perf. pass. is:masc
 SFX 1021  um  0/1,10005   .  is:part. perf. pass. is:masc
 SFX 1021  um  a/1,10002   .  is:part. perf. pass. is:fem
-SFX 1021  um  0/1,10003   .  is:part. perf. pass. is:fem
 SFX 1021  um  um/1,10008  .  is:part. perf. pass. is:neutr
 SFX 1021  um  0/1,10009   .  is:part. perf. pass. is:neutr
 #   participium futuri passivi
-SFX 10211  Y   6
+SFX 10211  Y   5
 SFX 10211  um  ūrus/1,10004  .  is:part. fut. pass. is:masc
 SFX 10211  um  ūr/1,10005    .  is:part. fut. pass. is:masc
 SFX 10211  um  ūra/1,10002   .  is:part. fut. pass. is:fem
-SFX 10211  um  ūr/1,10003    .  is:part. fut. pass. is:fem
 SFX 10211  um  ūrum/1,10008  .  is:part. fut. pass. is:neutr
 SFX 10211  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
@@ -208,20 +206,18 @@ SFX 10122 ī	erint		.	is:3pl is:fut. II ind. act.
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
 #   participium perfecti passivi
-SFX 1022  Y   7
+SFX 1022  Y   6
 SFX 1022  0   0/1,1020    . 
 SFX 1022  um  us/1,10004  .  is:part. perf. pass. is:masc
 SFX 1022  um  0/1,10005   .  is:part. perf. pass. is:masc
 SFX 1022  um  a/1,10002   .  is:part. perf. pass. is:fem
-SFX 1022  um  0/1,10003   .  is:part. perf. pass. is:fem
 SFX 1022  um  um/1,10008  .  is:part. perf. pass. is:neutr
 SFX 1022  um  0/1,10009   .  is:part. perf. pass. is:neutr
 #   participium futuri passivi
-SFX 10221  Y   6
+SFX 10221  Y   5
 SFX 10221  um  ūrus/1,10004  .  is:part. fut. pass. is:masc
 SFX 10221  um  ūr/1,10005    .  is:part. fut. pass. is:masc
 SFX 10221  um  ūra/1,10002   .  is:part. fut. pass. is:fem
-SFX 10221  um  ūr/1,10003    .  is:part. fut. pass. is:fem
 SFX 10221  um  ūrum/1,10008  .  is:part. fut. pass. is:neutr
 SFX 10221  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
@@ -325,20 +321,18 @@ SFX 10132 ī	erint		.	is:3pl is:fut. II ind. act.
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
 #   participium perfecti passivi
-SFX 1023  Y   7
+SFX 1023  Y   6
 SFX 1023  0   0/1,1020    . 
 SFX 1023  um  us/1,10004  .  is:part. perf. pass. is:masc
 SFX 1023  um  0/1,10005   .  is:part. perf. pass. is:masc
 SFX 1023  um  a/1,10002   .  is:part. perf. pass. is:fem
-SFX 1023  um  0/1,10003   .  is:part. perf. pass. is:fem
 SFX 1023  um  um/1,10008  .  is:part. perf. pass. is:neutr
 SFX 1023  um  0/1,10009   .  is:part. perf. pass. is:neutr
 #   participium futuri passivi
-SFX 10231  Y   6
+SFX 10231  Y   5
 SFX 10231  um  ūrus/1,10004  .  is:part. fut. pass. is:masc
 SFX 10231  um  ūr/1,10005    .  is:part. fut. pass. is:masc
 SFX 10231  um  ūra/1,10002   .  is:part. fut. pass. is:fem
-SFX 10231  um  ūr/1,10003    .  is:part. fut. pass. is:fem
 SFX 10231  um  ūrum/1,10008  .  is:part. fut. pass. is:neutr
 SFX 10231  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
@@ -417,20 +411,18 @@ SFX 10142 ī	erint		.	is:3pl is:fut. II ind. act.
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
 #   participium perfecti passivi
-SFX 1024  Y   7
+SFX 1024  Y   6
 SFX 1024  0   0/1,1020    . 
 SFX 1024  um  us/1,10004  .  is:part. perf. pass. is:masc
 SFX 1024  um  0/1,10005   .  is:part. perf. pass. is:masc
 SFX 1024  um  a/1,10002   .  is:part. perf. pass. is:fem
-SFX 1024  um  0/1,10003   .  is:part. perf. pass. is:fem
 SFX 1024  um  um/1,10008  .  is:part. perf. pass. is:neutr
 SFX 1024  um  0/1,10009   .  is:part. perf. pass. is:neutr
 #   participium futuri passivi
-SFX 10241  Y   6
+SFX 10241  Y   5
 SFX 10241  um  ūrus/1,10004  .  is:part. fut. pass. is:masc
 SFX 10241  um  ūr/1,10005    .  is:part. fut. pass. is:masc
 SFX 10241  um  ūra/1,10002   .  is:part. fut. pass. is:fem
-SFX 10241  um  ūr/1,10003    .  is:part. fut. pass. is:fem
 SFX 10241  um  ūrum/1,10008  .  is:part. fut. pass. is:neutr
 SFX 10241  um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 ## infinitiivi tüvest moodustatakse
@@ -459,24 +451,20 @@ SFX 1020  tum  	tōrium	tum					ds:deverbaal+koht-tegevusele
 
 
 ###### declinatsioonid
-# declinatio I singularis
-SFX 10002	Y	7
+# declinatio I singularis et pluralis
+SFX 10002	Y	12
 SFX 10002	0	0			.	is:nom is:sg
 SFX 10002	a	ae		.	is:gen is:sg
 SFX 10002	a	ae		.	is:dat is:sg
 SFX 10002	a	am		.	is:acc is:sg
 SFX 10002	a	ā			.	is:abl is:sg
 SFX 10002	0	0			.	is:voc is:sg
-SFX 10002	a	0/1,10003	.	
-
-# declinatio I pluralis
-SFX 10003	Y	6
-SFX 10003	0	ae		.	is:nom is:pl
-SFX 10003	0	ārum	.	is:gen is:pl
-SFX 10003	0	īs		.	is:dat is:pl
-SFX 10003	0	ās		.	is:acc is:pl
-SFX 10003	0	īs		.	is:abl is:pl
-SFX 10003	0	ae		.	is:voc is:pl
+SFX 10002	a	ae		.	is:nom is:pl
+SFX 10002	a	ārum	.	is:gen is:pl
+SFX 10002	a	īs		.	is:dat is:pl
+SFX 10002	a	ās		.	is:acc is:pl
+SFX 10002	a	īs		.	is:abl is:pl
+SFX 10002	a	ae		.	is:voc is:pl
 
 # declinatio II tüüpsõna servus
 SFX 10004    Y       8
@@ -545,31 +533,28 @@ SFX 10009	0	 a		.	is:voc is:pl
 ### adiectiva declinatio I, II
 # adiectiva tüüpsõna bonus
 # esimesed kolm on singularis, järgmised kolm on pluralis
-SFX 11001	Y	6
+SFX 11001	Y	5
 SFX 11001	us	a/1,10002		.	is:fem
 SFX 11001	us	us/1,10004	.	is:masc
 SFX 11001	us	um/1,10008	.	is:neutr
-SFX 11001	us	0/1,10003		.	is:fem
 SFX 11001	us	0/1,10005		.	is:masc
 SFX 11001	us	0/1,10009		.	is:neutr
 
 # adiectiva tüüpsõna pulcher
 # esimesed kolm on singularis, järgmised kolm on pluralis
-SFX 11002	Y	6
+SFX 11002	Y	5
 SFX 11002	er	ra/1,10002	.	is:fem
 SFX 11002	0		0/1,10006		.	is:masc
 SFX 11002	er	rum/1,10008	.	is:neutr
-SFX 11002	er	r/1,10003		.	is:fem
 SFX 11002	er	r/1,10005		.	is:masc
 SFX 11002	er	r/1,10009		.	is:neutr
 
 # adiectiva tüüpsõna līber
 # esimesed kolm on singularis, järgmised kolm on pluralis
-SFX 11003	Y	6
+SFX 11003	Y	5
 SFX 11003	0	a/1,10002		.	is:fem
 SFX 11003	0	0/1,10007		.	is:masc
 SFX 11003	0	um/1,10008	.	is:neutr
-SFX 11003	0	0/1,10003		.	is:fem
 SFX 11003	0	0/1,10005		.	is:masc
 SFX 11003	0	0/1,10009		.	is:neutr
 
