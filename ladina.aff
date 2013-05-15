@@ -460,14 +460,13 @@ SFX 1020  tum  	tōrium	tum					ds:deverbaal+koht-tegevusele
 
 ###### declinatsioonid
 # declinatio I singularis
-SFX 10002	Y	7
+SFX 10002	Y	6
 SFX 10002	0	0			.	is:nom is:sg
 SFX 10002	a	ae		.	is:gen is:sg
 SFX 10002	a	ae		.	is:dat is:sg
 SFX 10002	a	am		.	is:acc is:sg
 SFX 10002	a	ā			.	is:abl is:sg
 SFX 10002	0	0			.	is:voc is:sg
-SFX 10002	a	0/1,10003	.	
 
 # declinatio I pluralis
 SFX 10003	Y	6
