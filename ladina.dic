@@ -181,7 +181,7 @@ crēdere/1,1033 po:verb st:crēdere
 crēditum/1,1023,10231 po:verb st:crēdere
 crēdidī/1,1013,10131,10132 po:verb st:crēdere
 crēdō/1,1003,10031,10032,10033,10034 po:verb st:crēdere
-crēscere/1,1033 po:verb st:crēscere
+crēscere/1,11,1033 po:verb st:crēscere
 crētum/1,1023,10231 po:verb st:crēscere
 crēscō/1,1003,10031,10032,10033,10034 po:verb st:crēscere
 crēvī/1,1013,10131,10132 po:verb st:crēscere
@@ -202,6 +202,7 @@ dens/1,11313 po:subst is:masc al:dentis: st:dens
 dentis/1,11303 po:subst is:masc al:dens: st:dens
 deus/1,10004 po:subst is:masc
 dea/1,10002 po:subst is:fem
+dētestābilis/1,11006 po:adj
 dīcere/1,1033 po:verb st:dīcere
 dictum/1,1023,10231 po:verb st:dīcere
 dīcō/1,1003,10031,10032,10033,10034 po:verb st:dīcere
@@ -418,7 +419,8 @@ medius/1,11001 po:adj
 meī po:pron is:gen is:1sg
 mel
 memoria/1,10002 po:subst is:fem
-mēns
+mēns/1,11313 po:subst is:masc al:mentis st:mēns
+mentis/1,11303 po:subst is:masc al:mēns st:mēns
 mē po:pron is:abl is:1sg
 mē po:pron is:acc is:1sg
 mihī po:pron is:dat is:1sg
@@ -477,8 +479,12 @@ nunc po:adverb
 obumbrātus/1,11001 po:adj
 obumbrāre/1,1031 po:verb st:obumbrāre
 obumbrātum/1,1021,10211 po:verb st:obumbrāre
-obumbrāvī/1,1011,10111,10112 st:obumbrāre
-obumbrō/1,1001,10011,10012,10013,10014 st:obumbrāre
+obumbrāvī/1,1011,10111,10112 po:verb st:obumbrāre
+obumbrō/1,1001,10011,10012,10013,10014 po:verb st:obumbrāre
+obdūrō/1,1001,10011,10012,10013,10014 po:verb st:obdūrāre
+obdūrāvī/1,1011,10111,10112 po:verb st:obdūrāre
+obdūrātum/1,1021,10211 po:verb st:obdūrāre
+obdūrāre/1,1031 po:verb st:obdūrāre
 oculus/1,10004 po:subst is:masc
 officium/1,10008 po:subst is:neutr
 omnis
