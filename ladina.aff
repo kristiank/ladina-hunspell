@@ -92,6 +92,14 @@ SFX 10014 ō	ātō			.	is:2sg is:imp. fut.
 SFX 10014 ō	ātō			.	is:3sg is:imp. fut.
 SFX 10014 ō	ātōte		.	is:2pl is:imp. fut.
 SFX 10014 ō	āntō		.	is:3pl is:imp. fut.
+# imperfectum indicativi passivi
+SFX 10015 Y 6
+SFX 10015 ō ābar    .   is:1sg is:imperf. ind. pass.
+SFX 10015 ō ābāris  .   is:2sg is:imperf. ind. pass.
+SFX 10015 ō ābātur  .   is:3sg is:imperf. ind. pass.
+SFX 10015 ō ābāmur  .   is:1pl is:imperf. ind. pass.
+SFX 10015 ō ābāminī .   is:2pl is:imperf. ind. pass.
+SFX 10015 ō ābantur .   is:3pl is:imperf. ind. pass.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1011  Y 6
@@ -184,6 +192,14 @@ SFX 10024 eō	ētō			.	is:2sg is:imp. fut.
 SFX 10024 eō	ētō			.	is:3sg is:imp. fut.
 SFX 10024 eō	ētōte		.	is:2pl is:imp. fut.
 SFX 10024 eō	ēntō		.	is:3pl is:imp. fut.
+# imperfectum indicativi passivi
+SFX 10025 Y 6
+SFX 10025	eō	ēbar	  .  is:1sg is:imperf. ind. pass.
+SFX 10025	eō	ēbāris  .  is:2sg is:imperf. ind. pass.
+SFX 10025	eō	ēbātur  .  is:3sg is:imperf. ind. pass.
+SFX 10025	eō	ēbāmur  .  is:1pl is:imperf. ind. pass.
+SFX 10025	eō	ēbāminī .  is:2pl is:imperf. ind. pass.
+SFX 10025	eō	ēbantur .  is:3pl is:imperf. ind. pass.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1012  Y 6
@@ -301,6 +317,20 @@ SFX 10034 ō		itō			.	is:3sg is:imp. fut.
 SFX 10034 ō		itōte		.	is:2pl is:imp. fut.
 SFX 10034 ō		untō		.	is:3pl is:imp. fut.
 SFX 10034 iō	iuntō		.	is:3pl is:imp. fut.
+# imperfectum indicativi passivi
+SFX 10035 Y   12
+SFX 10035 ō   ēbar      .  is:1sg is:imperf. ind. pass.
+SFX 10035 iō  iēbar     .  is:1sg is:imperf. ind. pass.
+SFX 10035 ō   ēbāris    .  is:2sg is:imperf. ind. pass.
+SFX 10035 iō  iēbāris   .  is:2sg is:imperf. ind. pass.
+SFX 10035 ō   ēbātur    .  is:3sg is:imperf. ind. pass.
+SFX 10035 iō  iēbātur   .  is:3sg is:imperf. ind. pass.
+SFX 10035 ō   ēbāmur    .  is:1pl is:imperf. ind. pass.
+SFX 10035 iō  iēbāmur   .  is:1pl is:imperf. ind. pass.
+SFX 10035 ō   ēbāminī   .  is:2pl is:imperf. ind. pass.
+SFX 10035 iō  iēbāminī  .  is:2pl is:imperf. ind. pass.
+SFX 10035 ō   ēbantur   .  is:3pl is:imperf. ind. pass.
+SFX 10035 iō  iēbantur  .  is:3pl is:imperf. ind. pass.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1013  Y 6
@@ -393,6 +423,14 @@ SFX 10044 iō	ītō			.	is:2sg is:imp. fut.
 SFX 10044 iō	ītō			.	is:3sg is:imp. fut.
 SFX 10044 iō	ītōte		.	is:2pl is:imp. fut.
 SFX 10044 iō	iuntō		.	is:3pl is:imp. fut.
+# imperfectum indicativi passivi
+SFX 10045 Y 6
+SFX 10045	ō	ēbar	   . is:1sg is:imperf. ind. pass.
+SFX 10045	ō	ēbāris   . is:2sg is:imperf. ind. pass.
+SFX 10045	ō	ēbātur   . is:3sg is:imperf. ind. pass.
+SFX 10045	ō	ēbāmur   . is:1pl is:imperf. ind. pass.
+SFX 10045	ō	ēbāminī  . is:2pl is:imperf. ind. pass.
+SFX 10045	ō	ēbantur  . is:3pl is:imperf. ind. pass.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1014  Y 6
