@@ -524,10 +524,10 @@ pēs/1,11311 po:subst is:masc al:pēdis st:pēs
 pēdis/1,11301 po:subst is:masc al:pēs st:pēs
 piger/1,11002,11102 po:adj
 piscis
-plangō/1,1003,10031,10032,10033,10034,10035,10036 po:verb st:plangō
-planxī/1,1013,10131,10132 po:verb st:plangō
-planctum/1,1023,10231 po:verb st:plangō
-planctere/1,1033 po:verb st:plangō
+plangō/1,1003,10031,10032,10033,10034,10035,10036 po:verb st:planctere
+planxī/1,1013,10131,10132 po:verb st:planctere
+planctum/1,1023,10231 po:verb st:planctere
+planctere/1,1033 po:verb st:planctere
 plēbs/1,11313 po:subst is:masc is:fem al:plēbis st:plēbs
 plēbis/1,11303 po:subst is:masc is:fem al:plēbs st:plēbs
 poena/1,10002 po:subst is:fem
