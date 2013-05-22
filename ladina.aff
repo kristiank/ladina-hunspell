@@ -521,7 +521,7 @@ SFX 10241 um  ūr/1,10009    .  is:part. fut. pass. is:neutr
 # imperatiiv praesens activ
 SFX 1034 Y   3
 SFX 1034 0   0   .  is:inf. praes. act.
-SFX 1034 re      .  is:imp. praes. act. is:2sg
+SFX 1034 re  0   .  is:imp. praes. act. is:2sg
 SFX 1034 re  te  .  is:imp. praes. act. is:2pl
 
 
