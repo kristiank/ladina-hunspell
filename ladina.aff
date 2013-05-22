@@ -327,12 +327,15 @@ SFX 10033 iō	iētis		.	is:2pl is:fut. I ind. act.
 SFX 10033 ō		ent			.	is:3pl is:fut. I ind. act.
 SFX 10033 iō	ient		.	is:3pl is:fut. I ind. act.
 # imperativus futuri
-SFX 10034 Y 	5
-SFX 10034 ō		itō			.	is:2sg is:imp. fut.
-SFX 10034 ō		itō			.	is:3sg is:imp. fut.
-SFX 10034 ō		itōte		.	is:2pl is:imp. fut.
-SFX 10034 ō		untō		.	is:3pl is:imp. fut.
-SFX 10034 iō	iuntō		.	is:3pl is:imp. fut.
+SFX 10034 Y   8
+SFX 10034 ō   itō	    [^i]ō  is:2sg is:imp. fut.
+SFX 10034 ō   itō	    [^i]ō  is:3sg is:imp. fut.
+SFX 10034 ō   itōte   [^i]ō  is:2pl is:imp. fut.
+SFX 10034 ō   untō    [^i]ō  is:3pl is:imp. fut.
+SFX 10034 iō  itō	    iō     is:2sg is:imp. fut.
+SFX 10034 iō  itō	    iō     is:3sg is:imp. fut.
+SFX 10034 iō  itōte   iō     is:2pl is:imp. fut.
+SFX 10034 iō  iuntō   iō     is:3pl is:imp. fut.
 # imperfectum indicativi passivi
 SFX 10035 Y   12
 SFX 10035 ō   ēbar      .  is:1sg is:imperf. ind. pass.
