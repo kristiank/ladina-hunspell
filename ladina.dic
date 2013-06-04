@@ -166,6 +166,10 @@ cognoscō/1,1003,10031,10032,10033,10034,10035,10036 po:verb st:cognoscere
 cognitum/1,1023,10231 po:verb st:cognoscere
 cognōvī/1,1013,10131,10132 po:verb st:cognoscere
 colere/1,1033 po:verb st:colere
+comparō/1,1001,10011,10012,10013,10014,10015,10016 po:verb st:comparāre
+comparāvī/1,1011,10111,10112 po:verb st:comparāre
+comparātum/1,1021,10211 po:verb st:comparāre
+comparāre/1,1031 po:verb st:comparāre
 cultum/1,1023,10231 po:verb st:colere
 colō/1,1003,10031,10032,10033,10034,10035,10036 po:verb st:colere
 coluī/1,1013,10131,10132 po:verb st:colere
@@ -243,7 +247,7 @@ dux/1,11311 po:subst is:masc is:fem al:ducis st:dux
 ducis/1,11301 po:subst is:masc is:fem al:dux st:dux
 dūxī/1,1013,10131,10132 po:verb st:dūcere
 egī/1,1013,10131,10132 po:verb st:agere
-ego po:pron is:nom is:1sg
+ego po:pron is:nom is:1sg is:pron.pers
 emere/1,1033 po:verb st:emere
 ēmptum/1,1023,10231 po:verb st:emere
 ēmī/1,1013,10131,10132 po:verb st:emere
@@ -417,15 +421,15 @@ mare/1,11306 po:subst is:neutr
 māter
 medicus/1,10004 po:subst is:masc
 medius/1,11001 po:adj
-meī po:pron is:gen is:1sg
+meī po:pron is:gen is:1sg is:pron.pers
 mel
 memoria/1,10002 po:subst is:fem
 mēns/1,11313 po:subst is:masc al:mentis st:mēns
 mentis/1,11303 po:subst is:masc al:mēns st:mēns
-mē po:pron is:abl is:1sg
-mē po:pron is:acc is:1sg
-mihī po:pron is:dat is:1sg
-michī/3 po:pron is:dat is:1sg al:mihī
+mē po:pron is:abl is:1sg is:pron.pers
+mē po:pron is:acc is:1sg is:pron.pers
+mihī po:pron is:dat is:1sg  is:pron.pers
+michī/3 po:pron is:dat is:1sg al:mihī  is:pron.pers
 mīles
 minister/1,10006 po:subst is:masc
 ministra/1,10002 po:subst is:fem
@@ -458,18 +462,18 @@ necessārius/1,11001 po:adj
 niger/1,11002,11102 po:adj
 nīteō/1,1002,10021,10022,10023,10024,10025,10026 po:verb st:nītēre
 nītēre/1,1032 po:verb st:nītēre
-nōbīs po:pron is:abl is:1pl
-nōbīs po:pron is:dat is:1pl
+nōbīs po:pron is:abl is:1pl is:pron.pers
+nōbīs po:pron is:dat is:1pl is:pron.pers
 nōmen/1,11312 po:subst is:neutr al:nōminis st:nōmen
 nōminis/1,11302 po:subst is:neutr al:nōmen st:nōmen
 nōmināre/1,1031 po:verb st:nōmināre
 nōminātum/1,1021,10211 po:verb st:nōmināre
 nōmināvī/1,1011,10111,10112 po:verb st:nōmināre
 nōminō/1,1001,10011,10012,10013,10014,10015,10016 po:verb st:nōmināre
-nōs po:pron is:acc is:1pl
-nōs po:pron is:nom is:1pl
-nostrī po:pron is:gen is:1pl al:nostrum
-nostrum st:nostrī
+nōs po:pron is:acc is:1pl is:pron.pers
+nōs po:pron is:nom is:1pl is:pron.pers
+nostrī po:pron is:gen is:1pl al:nostrum is:pron.pers
+nostrum st:nostrī is:pron.pers
 nōtus/1,11001 po:adj
 novus/1,11001 po:adj
 nox
@@ -631,14 +635,14 @@ sepeliō/1,1004,10041,10042,10043,10044,10045,10046 po:verb st:sepelīre
 sepultum/1,1024,10241 po:verb st:sepelīre
 sepelīvī/1,1014,10141,10142 po:verb st:sepelīre
 sepelīre/1,1034 po:verb st:sepelīre
-sē po:pron
+sē po:pron is:acc is:pron.refl
 sermō
 serviō/1,1004,10041,10042,10043,10044,10045,10046 po:verb st:servīre
 servīvī/1,1014,10141,10142 po:verb st:servīre
 servīre/1,1034 po:verb st:servīre
 servītum/1,1024,10241 po:verb st:servīre
 servus/1,10004 po:subst is:masc
-sibī po:pron
+sibī po:pron is:dat is:pron.refl
 Sicilia/1,10002 po:subst is:fem
 sīgnum/1,10008 po:subst is:neutr
 silva/1,10002 po:subst is:fem
@@ -664,7 +668,7 @@ studium/1,10008 po:subst is:neutr
 studiōsus/1,11001 po:adj
 studuī/1,1012,10121,10122 po:verb st:studēre
 stultus/1,11001 po:adj
-suī po:pron
+suī po:pron is:gen is:pron.refl
 sum/10 po:verb is:1sg is:praes. ind. act. st:sum
 sumus/10 po:verb is:1pl is:praes. ind. act. st:sum
 sunt/10 po:verb is:3pl is:praes. ind. act. st:sum
@@ -675,10 +679,10 @@ tacuī/1,1012,10121,10122 po:verb st:tacēre
 templum/1,10008 po:subst is:neutr
 temporis/1,11302 po:subst is:neutr al:tempus st:tempus
 tempus/1,11313 po:subst is:neutr al:temporis st:tempus
-tē po:pron is:abl is:2sg
-tē po:pron is:acc is:2sg
+tē po:pron is:abl is:2sg is:pron.pers
+tē po:pron is:acc is:2sg is:pron.pers
 terra/1,10002 po:subst is:fem
-tibī po:pron is:dat is:2sg
+tibī po:pron is:dat is:2sg is:pron.pers
 timeō/1,1002,10021,10022,10023,10024,10025,10026 po:verb st:timēre
 timēre/1,1032 po:verb st:timēre
 timidus/1,11001 po:adj
@@ -686,8 +690,8 @@ timor
 timuī/1,1012,10121,10122 po:verb st:timēre
 tōtus/1,11001 po:adj
 trīstis
-tuī po:pron is:gen is:2sg
-tū po:pron is:nom is:2sg
+tuī po:pron is:gen is:2sg is:pron.pers
+tū po:pron is:nom is:2sg is:pron.pers
 turpis
 turris/1,11305,11315 po:subst is:fem st:turris
 ubī
@@ -712,8 +716,8 @@ verbum/1,10008 po:subst is:neutr
 vēritās
 vērus/1,11001 po:adj
 vestis/1,11303,11313 po:subst is:fem
-vestrī po:pron is:gen is:2pl al:vestrum
-vestrum po:pron st:vestrī
+vestrī po:pron is:gen is:2pl al:vestrum is:pron.pers
+vestrum po:pron st:vestrī is:pron.pers
 vetāre/1,1031 po:verb st:vetāre
 vetitum/1,1031 po:verb st:vetāre
 vetō/1,1001,10011,10012,10013,10014,10015,10016 po:verb st:vetāre
@@ -739,143 +743,143 @@ vīvere/1,1033 po:verb st:vīvere
 vīctum/1,1023,10231 po:verb st:vīvere
 vīvō/1,1003,10031,10032,10033,10034,10035,10036 po:verb st:vīvere
 vīxī/1,1013,10131,10132 po:verb st:vīvere
-vōbīs po:pron is:abl is:2pl
-vōbīs po:pron is:dat is:2pl
+vōbīs po:pron is:abl is:2pl is:pron.pers
+vōbīs po:pron is:dat is:2pl is:pron.pers
 vocāre/1,1031 po:verb st:vocāre
 vocātum/1,1021,10211 po:verb st:vocāre
 vocāvī/1,1011,10111,10112 po:verb st:vocāre
 vocō/1,1001,10011,10012,10013,10014,10015,10016 po:verb st:vocāre
 volūbilis/1,11006 po:adj
-vōs po:pron is:acc is:2pl
-vōs po:pron is:nom is:2pl
+vōs po:pron is:acc is:2pl is:pron.pers
+vōs po:pron is:nom is:2pl is:pron.pers
 vōx
 vulnus/1,11314 po:subst is:neutr al:vulneris st:vulnus
 vulneris/1,11304 po:subst is:neutr al:vulnus st:vulnus
-hic po:pron is:nom is:masc is:sg
-huius po:pron is:gen is:masc is:sg
-huic po:pron is:dat is:masc is:sg
-hunc po:pron is:acc is:masc is:sg
-hōc po:pron is:abl is:masc is:sg
-haec po:pron is:nom is:fem is:sg
-huius po:pron is:gen is:fem is:sg
-huic po:pron is:dat is:fem is:sg
-hanc po:pron is:acc is:fem is:sg
-hāc po:pron is:abl is:fem is:sg
-hoc po:pron is:nom is:neutr is:sg
-huius po:pron is:gen is:neutr is:sg
-huic po:pron is:dat is:neutr is:sg
-hoc po:pron is:acc is:neutr is:sg
-hōc po:pron is:abl is:neutr is:sg
-hī po:pron is:nom is:masc is:pl
-hōrum po:pron is:gen is:masc is:pl
-hīs po:pron is:dat is:masc is:pl
-hōs po:pron is:acc is:masc is:pl
-hīs po:pron is:abl is:masc is:pl
-hae po:pron is:nom is:fem is:pl
-hārum po:pron is:gen is:fem is:pl
-hīs po:pron is:dat is:fem is:pl
-hās po:pron is:acc is:fem is:pl
-hīs po:pron is:abl is:fem is:pl
-haec po:pron is:nom is:neutr is:pl
-hōrum po:pron is:gen is:neutr is:pl
-hīs po:pron is:dat is:neutr is:pl
-haec po:pron is:acc is:neutr is:pl
-hīs po:pron is:abl is:neutr is:pl
-is po:pron is:sg is:masc is:nom
-eius po:pron is:sg is:masc is:gen
-eī po:pron is:sg is:masc is:dat
-eum po:pron is:sg is:masc is:acc
-eō po:pron is:sg is:masc is:abl
-ea po:pron is:sg is:fem is:nom
-eius po:pron is:sg is:fem is:gen
-eī po:pron is:sg is:fem is:dat
-eam po:pron is:sg is:fem is:acc
-eā po:pron is:sg is:fem is:abl
-id po:pron is:sg is:neutr is:nom
-eius po:pron is:sg is:neutr is:gen
-eī po:pron is:sg is:neutr is:dat
-id po:pron is:sg is:neutr is:acc
-eō po:pron is:sg is:neutr is:abl
-eī po:pron is:pl is:masc is:nom
-eōrum po:pron is:pl is:masc is:gen
-eīs po:pron is:pl is:masc is:dat
-eōs po:pron is:pl is:masc is:acc
-eīs po:pron is:pl is:masc is:abl
-eae po:pron is:pl is:fem is:nom
-eārum po:pron is:pl is:fem is:gen
-eīs po:pron is:pl is:fem is:dat
-eās po:pron is:pl is:fem is:acc
-eīs po:pron is:pl is:fem is:abl
-ea po:pron is:pl is:neutr is:nom
-eōrum po:pron is:pl is:neutr is:gen
-eīs po:pron is:pl is:neutr is:dat
-ea po:pron is:pl is:neutr is:acc
-eīs po:pron is:pl is:neutr is:abl
-īdem po:pron is:sg is:masc is:nom
-eiusdem po:pron is:sg is:masc is:gen
-eīdem po:pron is:sg is:masc is:dat
-eundem po:pron is:sg is:masc is:acc
-eōdem po:pron is:sg is:masc is:abl
-eadem po:pron is:sg is:fem is:nom
-eiusdem po:pron is:sg is:fem is:gen
-eīdem po:pron is:sg is:fem is:dat
-eandem po:pron is:sg is:fem is:acc
-eādem po:pron is:sg is:fem is:abl
-idem po:pron is:sg is:neutr is:nom
-eiusdem po:pron is:sg is:neutr is:gen
-eīdem po:pron is:sg is:neutr is:dat
-iddem po:pron is:sg is:neutr is:acc
-eōdem po:pron is:sg is:neutr is:abl
-eīdem po:pron is:pl is:masc is:nom
-eōrundem po:pron is:pl is:masc is:gen
-eōsdem po:pron is:pl is:masc is:acc
-eaedem po:pron is:pl is:fem is:nom
-eārundem po:pron is:pl is:fem is:gen
-eīsdem po:pron is:pl is:fem is:dat
-eāsdem po:pron is:pl is:fem is:acc
-eīsdem po:pron is:pl is:fem is:abl
-eadem po:pron is:pl is:neutr is:nom
-eōrundem po:pron is:pl is:neutr is:gen
-eadem po:pron is:pl is:neutr is:acc
-ille po:pron is:sg is:masc is:nom
-illīus po:pron is:sg is:masc is:gen
-illī po:pron is:sg is:masc is:dat
-illum po:pron is:sg is:masc is:acc
-illō po:pron is:sg is:masc is:abl
-illa po:pron is:sg is:fem is:nom
-illīus po:pron is:sg is:fem is:gen
-illī po:pron is:sg is:fem is:dat
-illam po:pron is:sg is:fem is:acc
-illā po:pron is:sg is:fem is:abl
-illud po:pron is:sg is:neutr is:nom
-illiūs po:pron is:sg is:neutr is:gen
-illī po:pron is:sg is:neutr is:dat
-illud po:pron is:sg is:neutr is:acc
-illō po:pron is:sg is:neutr is:abl
-illī po:pron is:pl is:masc is:nom
-illōrum po:pron is:pl is:masc is:gen
-illīs po:pron is:pl is:masc is:dat
-illōs po:pron is:pl is:masc is:acc
-illīs po:pron is:pl is:masc is:abl
-illae po:pron is:pl is:fem is:nom
-illārum po:pron is:pl is:fem is:gen
-illīs po:pron is:pl is:fem is:dat
-illās po:pron is:pl is:fem is:acc
-illīs po:pron is:pl is:fem is:abl
-illa po:pron is:pl is:neutr is:nom
-illōrum po:pron is:pl is:neutr is:gen
-illīs po:pron is:pl is:neutr is:dat
-illa po:pron is:pl is:neutr is:acc
-illīs po:pron is:pl is:neutr is:abl
-sōlus/1,11001 po:pron_adj
-tōtus/1,11001 po:pron_adj
-uter/1,11002,11102 po:pron_adj
-neuter/1,11002,11102 po:pron_adj
-ūllus/1,11001 po:pron_adj
-nūllus/1,11001 po:pron_adj
-nōnnūllus/1,11001 po:pron_adj
-alter/1,11003 po:pron_adj
-alius/1,11001 po:pron_adj is:viga
+hic po:pron is:nom is:masc is:sg is:pron.dem
+huius po:pron is:gen is:masc is:sg is:pron.dem
+huic po:pron is:dat is:masc is:sg is:pron.dem
+hunc po:pron is:acc is:masc is:sg is:pron.dem
+hōc po:pron is:abl is:masc is:sg is:pron.dem
+haec po:pron is:nom is:fem is:sg is:pron.dem
+huius po:pron is:gen is:fem is:sg is:pron.dem
+huic po:pron is:dat is:fem is:sg is:pron.dem
+hanc po:pron is:acc is:fem is:sg is:pron.dem
+hāc po:pron is:abl is:fem is:sg is:pron.dem
+hoc po:pron is:nom is:neutr is:sg is:pron.dem
+huius po:pron is:gen is:neutr is:sg is:pron.dem
+huic po:pron is:dat is:neutr is:sg is:pron.dem
+hoc po:pron is:acc is:neutr is:sg is:pron.dem
+hōc po:pron is:abl is:neutr is:sg is:pron.dem
+hī po:pron is:nom is:masc is:pl is:pron.dem
+hōrum po:pron is:gen is:masc is:pl is:pron.dem
+hīs po:pron is:dat is:masc is:pl is:pron.dem
+hōs po:pron is:acc is:masc is:pl is:pron.dem
+hīs po:pron is:abl is:masc is:pl is:pron.dem
+hae po:pron is:nom is:fem is:pl is:pron.dem
+hārum po:pron is:gen is:fem is:pl is:pron.dem
+hīs po:pron is:dat is:fem is:pl is:pron.dem
+hās po:pron is:acc is:fem is:pl is:pron.dem
+hīs po:pron is:abl is:fem is:pl is:pron.dem
+haec po:pron is:nom is:neutr is:pl is:pron.dem
+hōrum po:pron is:gen is:neutr is:pl is:pron.dem
+hīs po:pron is:dat is:neutr is:pl is:pron.dem
+haec po:pron is:acc is:neutr is:pl is:pron.dem
+hīs po:pron is:abl is:neutr is:pl is:pron.dem
+is po:pron is:sg is:masc is:nom is:pron.dem
+eius po:pron is:sg is:masc is:gen is:pron.dem
+eī po:pron is:sg is:masc is:dat is:pron.dem
+eum po:pron is:sg is:masc is:acc is:pron.dem
+eō po:pron is:sg is:masc is:abl is:pron.dem
+ea po:pron is:sg is:fem is:nom is:pron.dem
+eius po:pron is:sg is:fem is:gen is:pron.dem
+eī po:pron is:sg is:fem is:dat is:pron.dem
+eam po:pron is:sg is:fem is:acc is:pron.dem
+eā po:pron is:sg is:fem is:abl is:pron.dem
+id po:pron is:sg is:neutr is:nom is:pron.dem
+eius po:pron is:sg is:neutr is:gen is:pron.dem
+eī po:pron is:sg is:neutr is:dat is:pron.dem
+id po:pron is:sg is:neutr is:acc is:pron.dem
+eō po:pron is:sg is:neutr is:abl is:pron.dem
+eī po:pron is:pl is:masc is:nom is:pron.dem
+eōrum po:pron is:pl is:masc is:gen is:pron.dem
+eīs po:pron is:pl is:masc is:dat is:pron.dem
+eōs po:pron is:pl is:masc is:acc is:pron.dem
+eīs po:pron is:pl is:masc is:abl is:pron.dem
+eae po:pron is:pl is:fem is:nom is:pron.dem
+eārum po:pron is:pl is:fem is:gen is:pron.dem
+eīs po:pron is:pl is:fem is:dat is:pron.dem
+eās po:pron is:pl is:fem is:acc is:pron.dem
+eīs po:pron is:pl is:fem is:abl is:pron.dem
+ea po:pron is:pl is:neutr is:nom is:pron.dem
+eōrum po:pron is:pl is:neutr is:gen is:pron.dem
+eīs po:pron is:pl is:neutr is:dat is:pron.dem
+ea po:pron is:pl is:neutr is:acc is:pron.dem
+eīs po:pron is:pl is:neutr is:abl is:pron.dem
+īdem po:pron is:sg is:masc is:nom is:pron.dem
+eiusdem po:pron is:sg is:masc is:gen is:pron.dem
+eīdem po:pron is:sg is:masc is:dat is:pron.dem
+eundem po:pron is:sg is:masc is:acc is:pron.dem
+eōdem po:pron is:sg is:masc is:abl is:pron.dem
+eadem po:pron is:sg is:fem is:nom is:pron.dem
+eiusdem po:pron is:sg is:fem is:gen is:pron.dem
+eīdem po:pron is:sg is:fem is:dat is:pron.dem
+eandem po:pron is:sg is:fem is:acc is:pron.dem
+eādem po:pron is:sg is:fem is:abl is:pron.dem
+idem po:pron is:sg is:neutr is:nom is:pron.dem
+eiusdem po:pron is:sg is:neutr is:gen is:pron.dem
+eīdem po:pron is:sg is:neutr is:dat is:pron.dem
+iddem po:pron is:sg is:neutr is:acc is:pron.dem
+eōdem po:pron is:sg is:neutr is:abl is:pron.dem
+eīdem po:pron is:pl is:masc is:nom is:pron.dem
+eōrundem po:pron is:pl is:masc is:gen is:pron.dem
+eōsdem po:pron is:pl is:masc is:acc is:pron.dem
+eaedem po:pron is:pl is:fem is:nom is:pron.dem
+eārundem po:pron is:pl is:fem is:gen is:pron.dem
+eīsdem po:pron is:pl is:fem is:dat is:pron.dem
+eāsdem po:pron is:pl is:fem is:acc is:pron.dem
+eīsdem po:pron is:pl is:fem is:abl is:pron.dem
+eadem po:pron is:pl is:neutr is:nom is:pron.dem
+eōrundem po:pron is:pl is:neutr is:gen is:pron.dem
+eadem po:pron is:pl is:neutr is:acc is:pron.dem
+ille po:pron is:sg is:masc is:nom is:pron.dem
+illīus po:pron is:sg is:masc is:gen is:pron.dem
+illī po:pron is:sg is:masc is:dat is:pron.dem
+illum po:pron is:sg is:masc is:acc is:pron.dem
+illō po:pron is:sg is:masc is:abl is:pron.dem
+illa po:pron is:sg is:fem is:nom is:pron.dem
+illīus po:pron is:sg is:fem is:gen is:pron.dem
+illī po:pron is:sg is:fem is:dat is:pron.dem
+illam po:pron is:sg is:fem is:acc is:pron.dem
+illā po:pron is:sg is:fem is:abl is:pron.dem
+illud po:pron is:sg is:neutr is:nom is:pron.dem
+illiūs po:pron is:sg is:neutr is:gen is:pron.dem
+illī po:pron is:sg is:neutr is:dat is:pron.dem
+illud po:pron is:sg is:neutr is:acc is:pron.dem
+illō po:pron is:sg is:neutr is:abl is:pron.dem
+illī po:pron is:pl is:masc is:nom is:pron.dem
+illōrum po:pron is:pl is:masc is:gen is:pron.dem
+illīs po:pron is:pl is:masc is:dat is:pron.dem
+illōs po:pron is:pl is:masc is:acc is:pron.dem
+illīs po:pron is:pl is:masc is:abl is:pron.dem
+illae po:pron is:pl is:fem is:nom is:pron.dem
+illārum po:pron is:pl is:fem is:gen is:pron.dem
+illīs po:pron is:pl is:fem is:dat is:pron.dem
+illās po:pron is:pl is:fem is:acc is:pron.dem
+illīs po:pron is:pl is:fem is:abl is:pron.dem
+illa po:pron is:pl is:neutr is:nom is:pron.dem
+illōrum po:pron is:pl is:neutr is:gen is:pron.dem
+illīs po:pron is:pl is:neutr is:dat is:pron.dem
+illa po:pron is:pl is:neutr is:acc is:pron.dem
+illīs po:pron is:pl is:neutr is:abl is:pron.dem
+sōlus/1,11001 po:pron is:pron.adj
+tōtus/1,11001 po:pron is:pron.adj
+uter/1,11002,11102 po:pron is:pron.adj
+neuter/1,11002,11102 po:pron is:pron.adj
+ūllus/1,11001 po:pron is:pron.adj
+nūllus/1,11001 po:pron is:pron.adj
+nōnnūllus/1,11001 po:pron is:pron.adj
+alter/1,11003 po:pron is:pron.adj
+alius/1,11001 po:pron is:pron.adj is:viga
 ā po:prep al:ab
 ab po:prep al:ā
 ē po:prep al:ex
@@ -908,3 +912,48 @@ erit/10 po:verb is:3sg is:fut. I ind. act. st:sum
 erimus/10 po:verb is:1pl is:fut. I ind. act. st:sum
 eritis/10 po:verb is:2pl is:fut. I ind. act. st:sum
 erunt/10 po:verb is:3pl is:fut. I ind. act. st:sum
+quī po:pron is:masc is:nom is:sg is:pron.rel
+cuius po:pron is:masc is:gen is:sg is:pron.rel
+cuī po:pron is:masc is:dat is:sg is:pron.rel
+quem po:pron is:masc is:acc is:sg is:pron.rel
+quō po:pron is:masc is:abl is:sg is:pron.rel
+quae po:pron is:fem is:nom is:sg is:pron.rel
+cuius po:pron is:fem is:gen is:sg is:pron.rel
+cuī po:pron is:fem is:dat is:sg is:pron.rel
+quam po:pron is:fem is:acc is:sg is:pron.rel
+quā po:pron is:fem is:abl is:sg is:pron.rel
+quod po:pron is:neutr is:nom is:sg is:pron.rel
+cuius po:pron is:neutr is:gen is:sg is:pron.rel
+cuī po:pron is:neutr is:dat is:sg is:pron.rel
+quod po:pron is:neutr is:acc is:sg is:pron.rel
+quō po:pron is:neutr is:abl is:sg is:pron.rel
+quī po:pron is:masc is:nom is:pl is:pron.rel
+cuōrum po:pron is:masc is:gen is:pl is:pron.rel
+cuibus po:pron is:masc is:dat is:pl is:pron.rel
+quōs po:pron is:masc is:acc is:pl is:pron.rel
+quibus po:pron is:masc is:abl is:pl is:pron.rel
+quae po:pron is:fem is:nom is:pl is:pron.rel
+cuārum po:pron is:fem is:gen is:pl is:pron.rel
+cuibus po:pron is:fem is:dat is:pl is:pron.rel
+quās po:pron is:fem is:acc is:pl is:pron.rel
+quibus po:pron is:fem is:abl is:pl is:pron.rel
+quae po:pron is:neutr is:nom is:pl is:pron.rel
+cuōrum po:pron is:neutr is:gen is:pl is:pron.rel
+cuibus po:pron is:neutr is:dat is:pl is:pron.rel
+quae po:pron is:neutr is:acc is:pl is:pron.rel
+quibus po:pron is:neutr is:abl is:pl is:pron.rel
+quis po:pron is:masc is:nom is:sg is:pron.int
+cuius po:pron is:masc is:gen is:sg is:pron.int
+cuī po:pron is:masc is:dat is:sg is:pron.int
+quem po:pron is:masc is:acc is:sg is:pron.int
+quō po:pron is:masc is:abl is:sg is:pron.int
+quis po:pron is:fem is:nom is:sg is:pron.int
+cuius po:pron is:fem is:gen is:sg is:pron.int
+cuī po:pron is:fem is:dat is:sg is:pron.int
+quem po:pron is:fem is:acc is:sg is:pron.int
+quō po:pron is:fem is:abl is:sg is:pron.int
+quid po:pron is:neutr is:nom is:sg is:pron.int
+cuius po:pron is:neutr is:gen is:sg is:pron.int
+cuī po:pron is:neutr is:dat is:sg is:pron.int
+quid po:pron is:neutr is:acc is:sg is:pron.int
+quō po:pron is:neutr is:abl is:sg is:pron.int
