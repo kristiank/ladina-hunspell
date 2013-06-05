@@ -503,13 +503,13 @@ SFX 10046 ō ēmur   .   is:1pl is:fut. I ind. pass.
 SFX 10046 ō ēminī  .   is:2pl is:fut. I ind. pass.
 SFX 10046 ō entur  .   is:3pl is:fut. I ind. pass.
 # praesens coniunctivi activi
-SFX 10027 Y 6
-SFX 10027 ō am      . is:1sg is:praes. con. act.
-SFX 10027 ō ās      . is:2sg is:praes. con. act.
-SFX 10027 ō at      . is:3sg is:praes. con. act.
-SFX 10027 ō āmus    . is:1pl is:praes. con. act.
-SFX 10027 ō ātis    . is:2pl is:praes. con. act.
-SFX 10027 ō ant     . is:3pl is:praes. con. act.
+SFX 10047 Y 6
+SFX 10047 ō am      . is:1sg is:praes. con. act.
+SFX 10047 ō ās      . is:2sg is:praes. con. act.
+SFX 10047 ō at      . is:3sg is:praes. con. act.
+SFX 10047 ō āmus    . is:1pl is:praes. con. act.
+SFX 10047 ō ātis    . is:2pl is:praes. con. act.
+SFX 10047 ō ant     . is:3pl is:praes. con. act.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1014  Y 6
