@@ -141,6 +141,14 @@ SFX 10112 ī erit    . is:3sg is:fut. II ind. act.
 SFX 10112 ī erimus  . is:1pl is:fut. II ind. act.
 SFX 10112 ī eritis  . is:2pl is:fut. II ind. act.
 SFX 10112 ī erint   . is:3pl is:fut. II ind. act.
+# perfectum coniunctivi activi
+SFX 10113 Y 6
+SFX 10113 ī erim   . is:1sg is:perf. con. act.
+SFX 10113 ī eris   . is:2sg is:perf. con. act.
+SFX 10113 ī erit   . is:3sg is:perf. con. act.
+SFX 10113 ī erimus . is:1pl is:perf. con. act.
+SFX 10113 ī eritis . is:2pl is:perf. con. act.
+SFX 10113 ī erint  . is:3pl is:perf. con. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -265,6 +273,14 @@ SFX 10122 ī erit   . is:3sg is:fut. II ind. act.
 SFX 10122 ī erimus . is:1pl is:fut. II ind. act.
 SFX 10122 ī eritis . is:2pl is:fut. II ind. act.
 SFX 10122 ī erint  . is:3pl is:fut. II ind. act.
+# perfectum coniunctivi activi
+SFX 10123 Y 6
+SFX 10123 ī erim   . is:1sg is:perf. con. act.
+SFX 10123 ī eris   . is:2sg is:perf. con. act.
+SFX 10123 ī erit   . is:3sg is:perf. con. act.
+SFX 10123 ī erimus . is:1pl is:perf. con. act.
+SFX 10123 ī eritis . is:2pl is:perf. con. act.
+SFX 10123 ī erint  . is:3pl is:perf. con. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -435,6 +451,14 @@ SFX 10132 ī erit   . is:3sg is:fut. II ind. act.
 SFX 10132 ī erimus . is:1pl is:fut. II ind. act.
 SFX 10132 ī eritis . is:2pl is:fut. II ind. act.
 SFX 10132 ī erint  . is:3pl is:fut. II ind. act.
+# perfectum coniunctivi activi
+SFX 10133 Y 6
+SFX 10133 ī erim   . is:1sg is:perf. con. act.
+SFX 10133 ī eris   . is:2sg is:perf. con. act.
+SFX 10133 ī erit   . is:3sg is:perf. con. act.
+SFX 10133 ī erimus . is:1pl is:perf. con. act.
+SFX 10133 ī eritis . is:2pl is:perf. con. act.
+SFX 10133 ī erint  . is:3pl is:perf. con. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -559,6 +583,14 @@ SFX 10142 ī erit   . is:3sg is:fut. II ind. act.
 SFX 10142 ī erimus . is:1pl is:fut. II ind. act.
 SFX 10142 ī eritis . is:2pl is:fut. II ind. act.
 SFX 10142 ī erint  . is:3pl is:fut. II ind. act.
+# perfectum coniunctivi activi
+SFX 10143 Y 6
+SFX 10143 ī erim   . is:1sg is:perf. con. act.
+SFX 10143 ī eris   . is:2sg is:perf. con. act.
+SFX 10143 ī erit   . is:3sg is:perf. con. act.
+SFX 10143 ī erimus . is:1pl is:perf. con. act.
+SFX 10143 ī eritis . is:2pl is:perf. con. act.
+SFX 10143 ī erint  . is:3pl is:perf. con. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
