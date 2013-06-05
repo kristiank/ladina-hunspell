@@ -149,6 +149,14 @@ SFX 10113 ī erit   . is:3sg is:perf. con. act.
 SFX 10113 ī erimus . is:1pl is:perf. con. act.
 SFX 10113 ī eritis . is:2pl is:perf. con. act.
 SFX 10113 ī erint  . is:3pl is:perf. con. act.
+# plusquamperfectum coniunctivi activi
+SFX 10114 Y 6
+SFX 10114 ī issem   . is:1sg is:plusquamperf. con. act.
+SFX 10114 ī issēs   . is:2sg is:plusquamperf. con. act.
+SFX 10114 ī isset   . is:3sg is:plusquamperf. con. act.
+SFX 10114 ī issēmus . is:1pl is:plusquamperf. con. act.
+SFX 10114 ī issētis . is:2pl is:plusquamperf. con. act.
+SFX 10114 ī issent  . is:3pl is:plusquamperf. con. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -281,6 +289,14 @@ SFX 10123 ī erit   . is:3sg is:perf. con. act.
 SFX 10123 ī erimus . is:1pl is:perf. con. act.
 SFX 10123 ī eritis . is:2pl is:perf. con. act.
 SFX 10123 ī erint  . is:3pl is:perf. con. act.
+# plusquamperfectum coniunctivi activi
+SFX 10124 Y 6
+SFX 10124 ī issem   . is:1sg is:plusquamperf. con. act.
+SFX 10124 ī issēs   . is:2sg is:plusquamperf. con. act.
+SFX 10124 ī isset   . is:3sg is:plusquamperf. con. act.
+SFX 10124 ī issēmus . is:1pl is:plusquamperf. con. act.
+SFX 10124 ī issētis . is:2pl is:plusquamperf. con. act.
+SFX 10124 ī issent  . is:3pl is:plusquamperf. con. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -459,6 +475,14 @@ SFX 10133 ī erit   . is:3sg is:perf. con. act.
 SFX 10133 ī erimus . is:1pl is:perf. con. act.
 SFX 10133 ī eritis . is:2pl is:perf. con. act.
 SFX 10133 ī erint  . is:3pl is:perf. con. act.
+# plusquamperfectum coniunctivi activi
+SFX 10134 Y 6
+SFX 10134 ī issem   . is:1sg is:plusquamperf. con. act.
+SFX 10134 ī issēs   . is:2sg is:plusquamperf. con. act.
+SFX 10134 ī isset   . is:3sg is:plusquamperf. con. act.
+SFX 10134 ī issēmus . is:1pl is:plusquamperf. con. act.
+SFX 10134 ī issētis . is:2pl is:plusquamperf. con. act.
+SFX 10134 ī issent  . is:3pl is:plusquamperf. con. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
@@ -591,6 +615,14 @@ SFX 10143 ī erit   . is:3sg is:perf. con. act.
 SFX 10143 ī erimus . is:1pl is:perf. con. act.
 SFX 10143 ī eritis . is:2pl is:perf. con. act.
 SFX 10143 ī erint  . is:3pl is:perf. con. act.
+# plusquamperfectum coniunctivi activi
+SFX 10144 Y 6
+SFX 10144 ī issem   . is:1sg is:plusquamperf. con. act.
+SFX 10144 ī issēs   . is:2sg is:plusquamperf. con. act.
+SFX 10144 ī isset   . is:3sg is:plusquamperf. con. act.
+SFX 10144 ī issēmus . is:1pl is:plusquamperf. con. act.
+SFX 10144 ī issētis . is:2pl is:plusquamperf. con. act.
+SFX 10144 ī issent  . is:3pl is:plusquamperf. con. act.
 ## perfekti passiivi tüvest moodustatakse
 # @todo: eraldada deverbaalid ja part perf pass eraldi reeglitesse
 #   deverbaale # deverbaalid on eraldi reeglis 1020
