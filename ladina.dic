@@ -470,6 +470,7 @@ nōmināre/1,1031 po:verb st:nōmināre
 nōminātum/1,1021,10211 po:verb st:nōmināre
 nōmināvī/1,1011,10111,10112 po:verb st:nōmināre
 nōminō/1,1001,10011,10012,10013,10014,10015,10016 po:verb st:nōmināre
+nōn po:adv is:neg
 nōs po:pron is:acc is:1pl is:pron.pers
 nōs po:pron is:nom is:1pl is:pron.pers
 nostrī po:pron is:gen is:1pl al:nostrum is:pron.pers
@@ -957,3 +958,9 @@ cuius po:pron is:neutr is:gen is:sg is:pron.int
 cuī po:pron is:neutr is:dat is:sg is:pron.int
 quid po:pron is:neutr is:acc is:sg is:pron.int
 quō po:pron is:neutr is:abl is:sg is:pron.int
+sim/10 po:verb is:1sg is:praes. con. act. st:sum
+sīs/10 po:verb is:2sg is:praes. con. act. st:sum
+sit/10 po:verb is:3sg is:praes. con. act. st:sum
+sīmus/10 po:verb is:1pl is:praes. con. act. st:sum
+sītis/10 po:verb is:2pl is:praes. con. act. st:sum
+sint/10 po:verb is:3pl is:praes. con. act. st:sum

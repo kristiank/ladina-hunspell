@@ -108,6 +108,14 @@ SFX 10016 ō ābitur  . is:3sg is:fut. I ind. pass.
 SFX 10016 ō ābimur  . is:1pl is:fut. I ind. pass.
 SFX 10016 ō ābiminī . is:2pl is:fut. I ind. pass.
 SFX 10016 ō ābuntur . is:3pl is:fut. I ind. pass.
+# praesens coniunctivi activi
+SFX 10017 Y 6
+SFX 10017 ō em      . is:1sg is:praes. con. act.
+SFX 10017 ō ēs      . is:2sg is:praes. con. act.
+SFX 10017 ō et      . is:3sg is:praes. con. act.
+SFX 10017 ō ēmus    . is:1pl is:praes. con. act.
+SFX 10017 ō ētis    . is:2pl is:praes. con. act.
+SFX 10017 ō ent     . is:3pl is:praes. con. act.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1011  Y 6
@@ -216,6 +224,14 @@ SFX 10026 eō  ēbitur   . is:3sg is:fut. I ind. pass.
 SFX 10026 eō  ēbimur   . is:1pl is:fut. I ind. pass.
 SFX 10026 eō  ēbiminī  . is:2pl is:fut. I ind. pass.
 SFX 10026 eō  ēbuntur  . is:3pl is:fut. I ind. pass.
+# praesens coniunctivi activi
+SFX 10027 Y 6
+SFX 10027 ō am      . is:1sg is:praes. con. act.
+SFX 10027 ō ās      . is:2sg is:praes. con. act.
+SFX 10027 ō at      . is:3sg is:praes. con. act.
+SFX 10027 ō āmus    . is:1pl is:praes. con. act.
+SFX 10027 ō ātis    . is:2pl is:praes. con. act.
+SFX 10027 ō ant     . is:3pl is:praes. con. act.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1012  Y 6
@@ -364,6 +380,20 @@ SFX 10036 ō   ēminī    . is:2pl is:fut. I ind. pass.
 SFX 10036 iō  iēminī   . is:2pl is:fut. I ind. pass.
 SFX 10036 ō   entur    . is:3pl is:fut. I ind. pass.
 SFX 10036 iō  ientur   . is:3pl is:fut. I ind. pass.
+# praesens coniunctivi activi
+SFX 10037 Y 12
+SFX 10037 ō   am       . is:1sg is:praes. con. act.
+SFX 10037 iō  iam      . is:1sg is:praes. con. act.
+SFX 10037 ō   ās       . is:2sg is:praes. con. act.
+SFX 10037 iō  iās      . is:2sg is:praes. con. act.
+SFX 10037 ō   at       . is:3sg is:praes. con. act.
+SFX 10037 iō  iat      . is:3sg is:praes. con. act.
+SFX 10037 ō   āmus     . is:1pl is:praes. con. act.
+SFX 10037 iō  iāmus    . is:1pl is:praes. con. act.
+SFX 10037 ō   ātis     . is:2pl is:praes. con. act.
+SFX 10037 iō  iātis    . is:2pl is:praes. con. act.
+SFX 10037 ō   ant      . is:3pl is:praes. con. act.
+SFX 10037 iō  iant     . is:3pl is:praes. con. act.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1013  Y 6
@@ -472,6 +502,14 @@ SFX 10046 ō ētur   .   is:3sg is:fut. I ind. pass.
 SFX 10046 ō ēmur   .   is:1pl is:fut. I ind. pass.
 SFX 10046 ō ēminī  .   is:2pl is:fut. I ind. pass.
 SFX 10046 ō entur  .   is:3pl is:fut. I ind. pass.
+# praesens coniunctivi activi
+SFX 10027 Y 6
+SFX 10027 ō am      . is:1sg is:praes. con. act.
+SFX 10027 ō ās      . is:2sg is:praes. con. act.
+SFX 10027 ō at      . is:3sg is:praes. con. act.
+SFX 10027 ō āmus    . is:1pl is:praes. con. act.
+SFX 10027 ō ātis    . is:2pl is:praes. con. act.
+SFX 10027 ō ant     . is:3pl is:praes. con. act.
 ## perfecti tüvest moodustatakse
 # perfectum indicativi activi
 SFX 1014  Y 6
