@@ -167,6 +167,14 @@ SFX 1031 Y  3
 SFX 1031 0  0   . is:inf. praes. act.
 SFX 1031 re 0   . is:imp. praes. act. is:2sg
 SFX 1031 re te  . is:imp. praes. act. is:2pl
+# imperfectum coniunctivi activi
+SFX 10310 Y 6
+SFX 10310 e em      . is:1sg is:imperf. con. act.
+SFX 10310 e ēs      . is:2sg is:imperf. con. act.
+SFX 10310 e et      . is:3sg is:imperf. con. act.
+SFX 10310 e ēmus    . is:1pl is:imperf. con. act.
+SFX 10310 e ētis    . is:2pl is:imperf. con. act.
+SFX 10310 e ent     . is:3pl is:imperf. con. act.
 
 ## II pöördkonna sõnad (video, vidēre)
 ## praesensi tüvest moodustatakse
@@ -283,6 +291,14 @@ SFX 1032     Y       3
 SFX 1032 0  0  . is:inf. praes. act.
 SFX 1032 re 0  . is:imp. praes. act. is:2sg
 SFX 1032 re te . is:imp. praes. act. is:2pl
+# imperfectum coniunctivi activi
+SFX 10320 Y 6
+SFX 10320 e em      . is:1sg is:imperf. con. act.
+SFX 10320 e ēs      . is:2sg is:imperf. con. act.
+SFX 10320 e et      . is:3sg is:imperf. con. act.
+SFX 10320 e ēmus    . is:1pl is:imperf. con. act.
+SFX 10320 e ētis    . is:2pl is:imperf. con. act.
+SFX 10320 e ent     . is:3pl is:imperf. con. act.
 
 ## III pöördkonna sõnad
 ## III pöördkonna o-lõpulised sõnad (mitt-o, mittere)
@@ -445,6 +461,14 @@ SFX 1033     Y       3
 SFX 1033 0   0   . is:inf. praes. act.
 SFX 1033 ere e   . is:imp. praes. act. is:2sg
 SFX 1033 ere ite . is:imp. praes. act. is:2pl
+# imperfectum coniunctivi activi
+SFX 10330 Y 6
+SFX 10330 e em      . is:1sg is:imperf. con. act.
+SFX 10330 e ēs      . is:2sg is:imperf. con. act.
+SFX 10330 e et      . is:3sg is:imperf. con. act.
+SFX 10330 e ēmus    . is:1pl is:imperf. con. act.
+SFX 10330 e ētis    . is:2pl is:imperf. con. act.
+SFX 10330 e ent     . is:3pl is:imperf. con. act.
 
 ## IV pöördkond (servio, servīre)
 ## praesensi tüvest moodustatakse
@@ -561,6 +585,14 @@ SFX 1034 Y   3
 SFX 1034 0   0   .  is:inf. praes. act.
 SFX 1034 re  0   .  is:imp. praes. act. is:2sg
 SFX 1034 re  te  .  is:imp. praes. act. is:2pl
+# imperfectum coniunctivi activi
+SFX 10340 Y 6
+SFX 10340 e em      . is:1sg is:imperf. con. act.
+SFX 10340 e ēs      . is:2sg is:imperf. con. act.
+SFX 10340 e et      . is:3sg is:imperf. con. act.
+SFX 10340 e ēmus    . is:1pl is:imperf. con. act.
+SFX 10340 e ētis    . is:2pl is:imperf. con. act.
+SFX 10340 e ent     . is:3pl is:imperf. con. act.
 
 
 ### Derivatsioone ehk sõnatuletused
